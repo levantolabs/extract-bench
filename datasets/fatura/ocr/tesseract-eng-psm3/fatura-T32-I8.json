@@ -1,0 +1,1 @@
+{"id": "fatura-T32-I8", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1}, "ms": 362.6, "per_image": [{"file": "Template32_Instance8.jpg", "page": "Template32_Instance8.jpg", "ms": 339.1}], "ts": "2026-10-23T07:16:05+0800"}

@@ -1,0 +1,47 @@
+INVOICE
+
+Invoice number 4Y6M5d-312
+Invoice Date: 11-Dec-2018
+Due Date : 16-Mar-2014
+
+Richardson-Davis
+‘Address:6479 Smith Causeway
+East Camerontown, AS 38212 US
+
+Bill to:Mary Brewer
+1874 Rooves Spring Apt. 128
+New Josephfort, AL 56221 US
+Tol:+(336)035-4455
+Email:twhite@example.com
+Site:http:lfbrooks.com!
+
+aty 1D Description Unit price Amount
+100 | 359210 | Realy save 21.26 2426
+
+500 | 175734 | Research past for check 95.85 48425
+200 [048720 | Bothoffect. 5750 715.00
+200 [91759 | Radio analysis outside 7127 15454
+Bank Name Central Bank of California ‘SUB_TOTAL : 775.05 USD
+
+Branch Name Raf CAMP.
+Bank Account Number 18753368
+Bank Swift Code SBININBB250
+
+‘Thank you for choosing us!
+
+‘Terms & Conditions
+
+DISCOUNT(3.06%): (-) 23.72
+TAX:VAT (6.88%): 53.34 USD
+
+TOTAL : 816.53 USD
+
+Total in words: eight hundred and six-
+teen point five three
+
+4. Please send payment within 8 days of receiving this invoice,
+‘There will bo a 2.5% intrest charge per month on late invoices.
+
+2. Please include the Invo
+
+‘number in your payment notes.

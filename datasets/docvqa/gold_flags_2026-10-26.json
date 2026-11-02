@@ -1,0 +1,157 @@
+{
+ "docvqa-val-18870": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image shows 1 copy handwritten; OCR text has 'Number of Copies:' blank, value missing.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-24582": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image 'To' line handwritten 'Paul'; OCR text lacks it (only 'To | Date | ... JRush').",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-3047": {
+  "answer": {
+   "flag": "ambiguous",
+   "note": "Image: 'Married - Dale' (spouse name); OCR 'Married . - Pale'. Arms answered 'Married', a reasonable marital status; gold includes name.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-38876": {},
+ "docvqa-val-39061": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "'NSDA' not in OCR text (only 'NATIONAL SOFT DRINK ASSOCIATIONS'); visible only in image logo per vision arms.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-39858": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Unit 'g' OCR'd as '(8)' in 'Protein (8)'/'Calcium (8)'; arms copied '(8)'. Only vision reads 'g'.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-41828": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image: PATIENT ID box '399'; OCR text reads 'PATIENT 10: 1397' (garbled). Arms gave 1397.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-4619": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image: Irrigation 'No' is ticked; OCR only has 'Irrigation: | Yes | NO' with no checkmark.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-50312": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image: '604' handwritten top right; absent from OCR text (only '11-16- time 4/04').",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-51328": {},
+ "docvqa-val-51601": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image: handwritten date at bottom (~3/31/75; vision read 5/01/75); OCR text has only 'Date | From', no date. Arms took form code 11-70.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-51654": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image salutation handwritten 'Dear Tim'; OCR has 'Near Tune.' No 'Tim' in text.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-55900": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image: 52 is the only number in a square (63 is circled). OCR 'Smoking too much | 63 | 52' loses box/circle marks.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-56470": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image: 'Cash or Check on Pick Up' box is ticked; OCR lists all options (Prepaid Collect GBL ... Cash or Check on Pick Up) with no tick.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-57087": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "'Net Block' label not in OCR text (row c) missing: 'Less : Depreciation | ... | 4744.77'). Arms gave the value 4744.77.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-5714": {},
+ "docvqa-val-5811": {},
+ "docvqa-val-58571": {},
+ "docvqa-val-59821": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image: 'To Dr. Darby' handwritten; OCR reads 'Res . Harley'. Gold not in text.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-6032": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image zip 24340 handwritten; OCR 'Zip Code Ly 3412' garbled. Arms copied 3412.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-60472": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image TOC 'BUDGET ESTIMATE ... 31'; OCR line 'BUDGET ESTIMATE.............' has no page number.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-60482": {
+  "answer": {
+   "flag": "ambiguous",
+   "note": "scorer: OCR 'US POSTAL CAR'; clairic/haiku answered 'US' vs gold 'U.S.' scored 0 (punctuation).",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-61401": {},
+ "docvqa-val-62967": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image handwritten '(USBA expense)'; OCR fragments 'USBA we' / 'exper'. Gold not recoverable from text.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-63131": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image number above line '212'; OCR text reads '2/ 2'. Not an obvious variant; only vision reads 212.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-6357": {},
+ "docvqa-val-64172": {},
+ "docvqa-val-64985": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Chart question (lowest 17-hydroxy steroids by patient); OCR only axis ticks '1.C | 10.0 | 9.0', no per-patient data.",
+   "source": "hand_audit"
+  }
+ },
+ "docvqa-val-6948": {
+  "answer": {
+   "flag": "gold_unreachable",
+   "note": "Image: 'San Francisco' handwritten after 'Preferred Airport for Departing TO Chicago:'; OCR line has no value.",
+   "source": "hand_audit"
+  }
+ }
+}

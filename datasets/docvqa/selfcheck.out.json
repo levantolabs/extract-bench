@@ -1,0 +1,24 @@
+{
+ "n_items": 350,
+ "n_fields_total": 350,
+ "n_null_gold_fields": 0,
+ "errors": [],
+ "n_errors": 0,
+ "text_o200k": {
+  "p50": 298,
+  "p95": 814,
+  "max": 1683,
+  "mean": 339.3
+ },
+ "text_plus_instructions_o200k": {
+  "p50": 304,
+  "p95": 828,
+  "max": 1696
+ },
+ "n_images": 283,
+ "image_bytes": {
+  "p50": 189536,
+  "max": 2686164,
+  "total_mb": 168.4
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "tasksource_rows": {
+  "train|dev": 1,
+  "train|no_exact_context": 19,
+  "train|train": 1487,
+  "validation|dev": 187,
+  "validation|no_exact_context": 1
+ },
+ "n_tasksource_rows": 1695,
+ "excluded_contexts": [
+  {
+   "table_uid": "3a79ab1e9645d84d9aa4255d692ef903",
+   "n_questions": 6,
+   "paragraphs": [
+    "Consolidated income statement",
+    "For the year ended 31 March 2019",
+    "1 The Group has adopted IFRS 9 ‘Financial Instruments’, IFRS 15 ‘Revenue from Contracts with Customers’, and IFRS 16 ‘Leases’ from 1 April 2018. The year ended 31 March 2018 has been restated for IFRS 16 which was implemented using the fully retrospective method. For further information on the impact of the change in accounting policies, see note 2 of these consolidated financial statements."
+   ],
+   "paragraph_tatqa_splits": [
+    [
+     "test_gold"
+    ],
+    [
+     "test_gold",
+     "train"
+    ],
+    [
+     "test_gold",
+     "train"
+    ]
+   ],
+   "covering_ts_rows_by_split": {
+    "train": 2
+   },
+   "full_context_in": [],
+   "paras_long": 3,
+   "paras_covered": 3,
+   "all_paras_covered": true,
+   "qid_hits": [],
+   "excluded": true
+  }
+ ],
+ "sample_partial_overlap_items": 47,
+ "sample_partial_by_type": {
+  "span": 21,
+  "multi-span": 5,
+  "arithmetic": 17,
+  "count": 4
+ },
+ "sample_partial_covered_of_long": {
+  "1/2": 11,
+  "1/3": 7,
+  "1/4": 4,
+  "1/5": 3,
+  "1/6": 4,
+  "1/7": 4,
+  "1/9": 1,
+  "1/15": 1,
+  "2/3": 4,
+  "2/4": 3,
+  "2/6": 1,
+  "3/7": 2,
+  "3/8": 2
+ },
+ "covered_paragraphs_in_sample_also_in_tatqa_train_or_dev": "54/63",
+ "sample_clean_items (no tasksource paragraph)": 103
+}

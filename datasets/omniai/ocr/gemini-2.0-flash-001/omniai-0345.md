@@ -1,0 +1,61 @@
+[logo]usbank[logo]
+July 1, 2024 through September 30, 2024
+Account Number: 13215090890641
+
+Financial Transactions
+
+DATE | DESCRIPTION | DEPOSIT | WITHDRAWAL | TOTAL
+:--- | :--- | :--- | :--- | :---
+01/14/2025 | Orig CO Name: Cargo Convoy Inc Orig ID: 9200502235 CO Entry Descr: ACH Pmt Sec: CCD Trace#: 021000025416144 Eed: Ind ID: 11113424892 Ind Name: Horizon Freight Transport Payment for Loads 27557, 27558 Trn: 3075416144T | $ 380.00 |  | $ 380.00
+01/15/2025 | Student Loan Payment - Navient Loan Servicing NAVIENT*STUDENTLOAN_8745 |  | 986.00 | -986.00
+01/15/2025 | Orig CO Name: Swift Cargo LLC Orig ID: 2938475612 CO Entry Descr: Invoice Payment Sec: CCD Trace#: 021000025739341 Eed: Ind ID: SCT20948312 Ind Name: Horizon Freight Transport Payment for Invoice #SCT20231 Trn: 4357341345T | 243.00 |  | 243.00
+01/16/2025 | Overdraft Protection Transfer From Savings To Checking OVERDRAFT*PROTECT_6734 |  | 680.00 | -680.00
+01/16/2025 | Orig CO Name: Universal Freight Services Orig ID: 2389475612 CO Entry Descr: Invoice Payment Sec: CCD Trace#: 021000031293847 Eed: Ind ID: 025Lqwrfqlr2A Ind Name: Horizon Freight Transport Payment for Invoice #UNI202312 Trn: 5031293847Tc | 497.00 |  | 497.00
+01/17/2025 | Orig CO Name: TriumphPay CR Orig ID: 3851263982 CO Entry Descr: TriumphPay Sec: CCD Trace#: 113987573467891 Eed: Ind ID: C97538129 Ind Name: Horizon Freight Transport Payment for Completed Loads Trn: 5197356781Tc | 706.00 |  | 706.00
+01/18/2025 | Zelle Payment To Andrea Mendoza 18894271836 |  | 33.00 | -33.00
+01/18/2025 | Rent Payment To Pacific Realty Group RENT*PACIFIC_CA |  | 177.00 | -177.00
+01/19/2025 | Auto Insurance Premium Payment - Progressive Insurance PROG*AUTO_POLICY_4937 |  | 811.00 | -811.00
+01/21/2025 | Orig CO Name: TriumphPay CR Orig ID: 3851263982 CO Entry Descr: TriumphPay Sec: CCD Trace#: 111987573456789 Eed: Ind ID: C94567891 Ind Name: Horizon Freight Transport Payment for Contracted Loads Trn: 4056783456T | 178.00 |  | 178.00
+01/22/2025 | Orig CO Name: Cargo Transport Services Orig ID: 2389475612 CO Entry Descr: ACH Payment Sec: CCD Trace#: 021000025739112 Eed: Ind ID: CTS23984712 Ind Name: Horizon Freight Transport Invoice #CTS239871 Trn: 4191128356T | 491.00 |  | 491.00
+01/23/2025 | Zelle Transfer To Isabella Moreno Jpm99J4L9M7P3 |  | 481.00 | -481.00
+01/23/2025 | Orig CO Name: TriumphPay CR Orig ID: 3851263982 CO Entry Descr: TriumphPay Sec: CCD Trace#: 111987573456789 Eed: Ind ID: C94567891 Ind Name: Horizon Freight Transport Payment for Contracted Loads Trn: 4056783456T | 480.00 |  | 480.00
+01/23/2025 | Orig CO Name: Cargo Transport Services Orig ID: 2389475612 CO Entry Descr: ACH Payment Sec: CCD Trace#: 021000025739112 Eed: Ind ID: CTS23984712 Ind Name: Horizon Freight Transport Invoice #CTS239871 Trn: 4191128356T | 535.00 |  | 535.00
+01/24/2025 | State Tax Payment - California Franchise Tax Board FTB*STATE_TAX_5823 |  | 817.00 | -817.00
+01/24/2025 | Western Union Money Transfer To Pedro Ramirez WU*MONEYTRANSFER_4972 |  | 802.00 | -802.00
+01/24/2025 | Zelle Payment To Mario Chavez 18892567123 |  | 838.00 | -838.00
+01/25/2025 | Netflix Subscription Payment NETFLX*STREAMING Card 2837 |  | 640.00 | -640.00
+01/26/2025 | ACH Withdrawal To CarMax Auto Finance (_####4839) |  | 255.00 | -255.00
+01/27/2025 | Utility Bill Payment - Southern California Gas Company SOCALGAS*BILLPAY_1294 |  | 137.00 | -137.00
+01/27/2025 | ACH Debit Payment To Spectrum Internet BILLPAY*SPECTRUM_1029 |  | 746.00 | -746.00
+01/28/2025 | Deposit - Zelle Payment from Maria Lopez JPM Transaction ID: Jpm92L2K31OZ Sec: CCD Trace#: 021000029184921 Eed: Ind ID: MLopez Ind Name: Horizon Freight Transport Driver Pay Settlement Trn: 5139184921Tc | 187.00 |  | 187.00
+01/28/2025 | Orig CO Name: Best Bay Logistics Inc Orig ID: 1204895317 CO Entry Descr: Bill.Com Sec: CCD Trace#: 021000021378102 Eed: Ind ID: 025Gzenesxogwlu Ind Name: Horizon Freight Transport Payment for Invoice #Stl52196 Trn: 3051378102T | 68.00 |  | 68.00
+01/29/2025 | Wire Transfer To Wells Fargo Business Account REF#928374652 |  | 629.00 | -629.00
+01/30/2025 | Amazon Marketplace Purchase - AMZ*MARKETPLACE_ORDER_4983 |  | 574.00 | -574.00
+01/30/2025 | Orig CO Name: TriumphPay CR Orig ID: 3851263982 CO Entry Descr: TriumphPay Sec: CCD Trace#: 111987573456789 Eed: Ind ID: C94567891 Ind Name: Horizon Freight Transport Payment for Contracted Loads Trn: 4056783456T | 498.00 |  | 498.00
+01/31/2025 | Credit Card Payment To American Express AMEX*PAYMENT_9032 |  | 982.00 | -982.00
+01/31/2025 | Online ACH Payment 11113254008 To Flexivanleasingllc (_####9263) |  | 938.00 | -938.00
+01/31/2025 | Orig CO Name: Velocity Freight LLC Orig ID: 9842765431 CO Entry Descr: ACH Payment Sec: CCD Trace#: 021000034876213 Eed: Ind ID: VF89234765 Ind Name: Horizon Freight Transport Invoice Settlement #VF202345 Trn: 5064876213Tc | 726.00 |  | 726.00
+01/31/2025 | Deposit - Manual Check Deposit made at branch location: Main St Branch #00245. Check #455678 for Load Payment | 573.00 |  | 573.00
+02/01/2025 | Deposit - Manual Check Deposit at Main Branch, Check Ref#: CHK3894721 for Load Payment | 661.00 |  | 661.00
+02/01/2025 | Netflix Subscription Payment NETFLX*BILLING Card 5729 |  | 707.00 | -707.00
+02/03/2025 | Deposit - Manual Check Deposit at regional branch: Eastside Financial Center, Check Ref#: ATM3094721 | 984.00 |  | 984.00
+02/03/2025 | Rent Payment To Pacific Realty Group RENT*PACIFIC_CA |  | 522.00 | -522.00
+02/03/2025 | Orig CO Name: Velocity Freight LLC Orig ID: 2839475612 CO Entry Descr: ACH Payment Sec: CCD Trace#: 021000028736914 Eed: Ind ID: VF28934761 Ind Name: Horizon Freight Transport Payment for Load Settlement #4734 Trn: 5178937614Tc | 378.00 |  | 378.00
+02/03/2025 | Medical Expense Payment - UCLA Medical Center UCLA*BILLING_2039 |  | 776.00 | -776.00
+02/04/2025 | Zelle Transfer To Sofia Alvarado 18895123748 |  | 840.00 | -840.00
+02/05/2025 | Orig CO Name: Unified Cargo Inc Orig ID: 4856129381 CO Entry Descr: Invoice Payment Sec: CCD Trace#: 021000032764985 Eed: Ind ID: 025Gnhpvlq37Ud Ind Name: Horizon Freight Transport Payment for Load #7482 Trn: 4157643895T | 196.00 |  | 196.00
+02/05/2025 | ATM Cash Withdrawal - Chase Bank San Francisco CA Card 9023 |  | 596.00 | -596.00
+02/06/2025 | Orig CO Name: Best Bay Logistics Inc Orig ID: 1204895317 CO Entry Descr: Bill.Com Sec: CCD Trace#: 021000023780657 Eed: Ind ID: 025Kddahudp1Hc5 Ind Name: Horizon Freight Transport Payment for Invoice #Stl52526 Trn: 3193780657T | 953.00 |  | 953.00
+02/09/2025 | Overdraft Protection Transfer From Savings To Checking OVERDRAFT*PROTECT_6734 |  | 654.00 | -654.00
+02/09/2025 | Orig CO Name: Allied Forwarding Services Orig ID: 3854762381 CO Entry Descr: ACH Pmt Sec: CCD Trace#: 021000025643213 Eed: Ind ID: AFS89756124 Ind Name: Horizon Freight Transport Invoice Payment #AFS202349 Trn: 5187643213Tc | 805.00 |  | 805.00
+02/09/2025 | Stripe Business Payout - Shopify Sales STRIPE*PAYOUTS 2938 |  | 73.00 | -73.00
+02/10/2025 | Deposit - ATM Check Deposit made at branch location: West End Banking Center, Ref#: ATM2398456 | 650.00 |  | 650.00
+02/10/2025 | Orig CO Name: Best Bay Logistics Inc Orig ID: 1204895317 CO Entry Descr: Bill.Com Sec: CCD Trace#: 021000023780657 Eed: Ind ID: 025Kddahudp1Hc5 Ind Name: Horizon Freight Transport Payment for Invoice #Stl52526 Trn: 3193780657T | 814.00 |  | 814.00
+02/10/2025 | Orig CO Name: Raistone Purchas Orig ID: 2293210240 CO Entry Descr: Payment for Load 475, 476 Sec: CCD Trace#: 021000026978654 Eed: Ind ID: 201CCD003456 Ind Name: Horizon Freight Transport Trn: 3097897654T | 228.00 |  | 228.00
+02/10/2025 | Student Loan Payment - FedLoan Servicing FEDLOAN*PAYMENT 29483 |  | 814.00 | -814.00
+02/11/2025 | Zelle Transfer To Pablo Fernandez Jpm99C3H2A91 |  | 559.00 | -559.00
+02/11/2025 | Deposit - Zelle Payment from Fernando Garcia JPM Transaction ID: Jpm92F3K31OZ Sec: CCD Trace#: 021000025394821 Eed: Ind ID: FGarcia Ind Name: Horizon Freight Transport Driver Pay Settlement Trn: 5213948213Tc | 104.00 |  | 104.00
+02/12/2025 | Personal Check Withdrawal #1098 - Deposited By Michael Johnson |  | 792.00 | -792.00
+Total |  | 11,335.00 | 16,859.00 | -5,524.00
+
+<page_number>43<page_number>

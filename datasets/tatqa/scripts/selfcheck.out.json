@@ -1,0 +1,49 @@
+{
+ "n_lines": 150,
+ "n_items": 150,
+ "n_fields": 150,
+ "n_null_gold_fields": 0,
+ "field_types": {
+  "text": 64,
+  "list": 19,
+  "number": 67
+ },
+ "answer_types": {
+  "span": 64,
+  "multi-span": 19,
+  "arithmetic": 63,
+  "count": 4
+ },
+ "groups": {
+  "extractive": 83,
+  "computed": 67
+ },
+ "sage2_status": {
+  "scored": 64,
+  "unscored (no list type)": 19,
+  "n/a (computed)": 67
+ },
+ "holdout": 31,
+ "distinct_contexts": 120,
+ "images_checked": 0,
+ "image_paths_missing": 0,
+ "o200k_text": {
+  "p50": 397,
+  "p95": 935,
+  "max": 1532,
+  "min": 91,
+  "mean": 440.8
+ },
+ "o200k_text_plus_instructions": {
+  "p50": 429,
+  "p95": 961,
+  "max": 1604
+ },
+ "gold_self_score_min": 1.0,
+ "n_gold_values_checked": 206,
+ "perturbed_number_max_score": 0.0,
+ "harness_validate_item": "ok",
+ "failures": [],
+ "n_failures": 0,
+ "pass": true
+}

@@ -1,0 +1,1 @@
+{"id": "fatura-T32-I24", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1}, "ms": 386.2, "per_image": [{"file": "Template32_Instance24.jpg", "page": "Template32_Instance24.jpg", "ms": 350.8}], "ts": "2026-10-23T07:16:05+0800"}

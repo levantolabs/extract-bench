@@ -1,0 +1,1 @@
+{"id": "realdoc-finance_q259", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1}, "ms": 3783.1, "per_image": [{"file": "finance_122.pdf", "page": "p-1.png", "ms": 1017.1}], "ts": "2026-10-23T07:15:59+0800"}

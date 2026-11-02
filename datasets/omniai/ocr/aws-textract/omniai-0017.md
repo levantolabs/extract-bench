@@ -1,0 +1,46 @@
+Lolita Deckow
+97864 N Broadway Street
+Collierville, Montana 64043-8959
+PAY TO THE ORDER OF
+2025-02-03
+Ryan GRoup
+$2,763.23
+Two THOUSAND SEVEN HUNDRED SIXTY THREE and 23100
+DOLLARS
+MEMO contract payment
+⑆766800721⑆
+2564397564
+⑈1869⑈
+Lolita
+Deckow
+97864
+N
+Broadway
+Street
+Collierville,
+Montana
+64043-8959
+PAY
+TO
+THE
+ORDER
+OF
+2025-02-03
+Ryan
+GRoup
+$2,763.23
+Two
+THOUSAND
+SEVEN
+HUNDRED
+SIXTY
+THREE
+and
+23100
+DOLLARS
+MEMO
+contract
+payment
+⑆766800721⑆
+2564397564
+⑈1869⑈

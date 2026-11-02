@@ -1,0 +1,46 @@
+“
+
+Barnes, Garcia and Martin,
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US.
+
+GSTIN: 3312345678910221
+
+Bill to:Devin Kennedy
+32471 Alvarez Knoll
+Williamfurt, NM 85433 US
+Tel:+(199)648-8473
+Email:nrose@example.org
+Site:http://hester.com/
+
+Description
+‘Share size
+
+‘Throw work
+Choose prety sing
+‘Agree sense.
+
+‘QUANTITY
+4.00
+2.00
+5.00
+6.00
+
+COMMERCIAL INVOICE
+
+INVOICE # SY6M30-136
+Invoice Date: 11-Nov-2010
+
+PRICE
+$12.20
+$0.55
+
+$75.33
+$75.36
+
+‘SUB_TOTAL : 878.71 EUR
+
+GST(7%) : 61.51
+
+TOTAL : 915.99 EUR

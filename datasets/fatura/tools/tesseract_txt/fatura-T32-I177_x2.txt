@@ -1,0 +1,54 @@
+Date: 24-Sep-2010
+
+Miller Inc
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Email:marymoore@example.org
+
+ITEMS
+Project each.
+
+Late expect.
+
+Surface painting.
+
+Thank you for your business!
+
+SS
+
+QUANTITY
+
+6.00
+
+5.00
+
+4.00
+
+Invoice number INV/82-40/928
+
+Buyer :Victoria Roberts
+
+159 Jacob Camp Suite 972
+North Brenda, MP 80870 US
+Tel:+(286)239-5720
+Email:abarker@example.com
+Site:https://davenport.info/
+
+PRICE TAX
+$71.27 $0.00
+$28.74 $0.00
+$67.55 $0.00
+
+AMOUNT
+
+$427.62
+
+$143.70
+
+$270.20
+
+SUB_TOTAL : 841.52 EUR
+
+TOTAL : 853.93 EUR

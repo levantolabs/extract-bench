@@ -1,0 +1,28 @@
+items 240 errors {'leaf_uncovered': 23}
+('leaf_uncovered', ('omniai-0118', 'spouse', None))
+('leaf_uncovered', ('omniai-0505', 'spouse', None))
+('leaf_uncovered', ('omniai-0974', 'spouse', None))
+('leaf_uncovered', ('omniai-0150', 'dependents', None))
+('leaf_uncovered', ('omniai-0276', 'spouse', None))
+('leaf_uncovered', ('omniai-0276', 'dependents', None))
+('leaf_uncovered', ('omniai-0319', 'spouse', None))
+('leaf_uncovered', ('omniai-0365', 'spouse', None))
+('leaf_uncovered', ('omniai-0457', 'spouse', None))
+('leaf_uncovered', ('omniai-0850', 'spouse', None))
+('leaf_uncovered', ('omniai-0948', 'spouse', None))
+('leaf_uncovered', ('omniai-0982', 'spouse', None))
+('leaf_uncovered', ('omniai-0982', 'dependents', None))
+('leaf_uncovered', ('omniai-0064', 'previousHealthHistory.prescriptionDrugs.other', None))
+('leaf_uncovered', ('omniai-0386', 'familyHealthHistory', None))
+('leaf_uncovered', ('omniai-0836', 'familyHealthHistory[].chronicHealthProblems', None))
+('leaf_uncovered', ('omniai-0855', 'previousHealthHistory.accidentsOrInjuries', None))
+('leaf_uncovered', ('omniai-0087', 'previousHealthHistory.accidentsOrInjuries', None))
+('leaf_uncovered', ('omniai-0087', 'previousHealthHistory.overTheCounterDrugs', None))
+('leaf_uncovered', ('omniai-0209', 'familyHealthHistory[].chronicHealthProblems', None))
+('leaf_uncovered', ('omniai-0402', 'familyHealthHistory', None))
+('leaf_uncovered', ('omniai-0434', 'familyHealthHistory[].chronicHealthProblems', None))
+('leaf_uncovered', ('omniai-0864', 'familyHealthHistory', None))
+Counter({'text': 2168, 'list': 1187, 'number': 576, 'date': 278, 'time': 10}) 4219
+null scalar 80 null list 26
+empty list golds 13
+NOTE (verifier): the 23 leaf_uncovered are false positives of this checker. They are whole-object/array nulls in the gold JSON (e.g. 1040 spouse=null, intake familyHealthHistory=null), and build.py maps them to child fields with gold null. Hand-checked on 0118/0150/0386/0064/0836. Real format errors: 0.

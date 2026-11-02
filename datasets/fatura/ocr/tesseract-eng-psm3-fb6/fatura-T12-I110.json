@@ -1,0 +1,1 @@
+{"id": "fatura-T12-I110", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 746.2, "per_image": [{"file": "Template12_Instance110.jpg", "page": "Template12_Instance110.jpg", "psm_used": 3, "chars": 1086, "ms": 719.5}], "ts": "2026-10-23T07:22:58+0800"}

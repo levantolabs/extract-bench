@@ -1,0 +1,61 @@
+v [Amount of deduction claimed I" 0.00
+
+lg |Deduction claimed u/s 54GA 0.00
+i |Date of transfer of original asset from urban area ie ‘mm/yyyy
+
+ii |Cost and expenses incurred for purchase or construction of new asset i 0.00
+iii |Date of purchase/construction of new asset in SEZ [a [adm
+
+iv |Amount in Capital Gains A\ Scheme before due date [si 0.00
+
+vy |Amount of deduction claimed fe 0.00
+
+lh _|Deduction claimed w/s 115F (for Non-Resident Indians) 0.00
+i | Date of transfer of original foreign exchange asset hi \dd/mm/yyyy
+
+ii |Amount invested in new specified asset or savings certificate hii 0.00
+iii | Date of investment hii |dd/mm/yyyy
+
+iv |Amount of deduction claimed hiv 0.00
+
+f |Total deduction claimed (la + 1b+le+1d+le+1f+1g+th) {il 0.00
+
+2 |In case of deduction u/s 54GB, furnish PAN of the company 0.00
+
+Set-off of current year capital losses with current year capital gains (excluding amounts included in A 9a & B 13a which is chargeable under DTAA)
+Short-term capital loss Long-term capital loss Current year's
+[Capital Gain of eraalaag a
+L Icurrent year (Fill this cet off
+column = only _—sif "
+Me eh aw , {applicable |DTAA | 109 DTAA
+No, | Lype of Capital Gain np figure is|15% |30% Ste Faia 10% 20% rates
+positive) (9=1-2-3-4-5-6-
+7-8)
+1 2 3 \4 iS 6 7 8 9
+q fBles
+Capital Loss to be set off a |(Ale*+A2e* |(Bse+B5e"l52¢%+B3e*|
+(A3e*+\ (450s |444b%+ i +Boc*+
+(Fill this row only, if figure! A409) 1454) eggs — (49 | BBc*+ gprs BIB
+is negative) Ame |B9c*+ [+B10e*+
+(5: B20) |BII*+
+uy |B12b*)
+7 15% (A3e*+Ada*+A8a*)
+iii 30% (ASe*+ A8b*)
+|__ [Short-term
+eqptalgaie |e (Ale*+A2e*+Adb*+A
+iv applicable rate fp Area tg)
+IDTAA rates \A9
+i 10% (Bie*+BSc*+  BTe*
+i |+B8c*+B9c*+B12a*)
+‘Long-term Bree
+vii é 20% |B2e*+B3e*+B6c*+
+capital gain \B9f*+ Blde*+ BII*|
+a \B12b*)
+viii IDTAA rates |BI3b
+ix |Total loss set off (ii + iii + iv + v + vi + vii + viii)
+ix |Loss remaining after set off (i- ix)
+The figures of STCG in this table (Ale* ete.) are the of STCG in respective (AI-A 9) as reduced by the amount of
+STCG not chargeable to tax or chargeable at special rates as per DTAA, which is included therein, if any.
+The figures of LTCG in this table (Ble* etc.) are the of LTCG in respective (B1-B 13) as reduced by the amount of
+
+LTCG not chargeable to tax or chargeable at special rates as per DTAA, which is included therein, if any.

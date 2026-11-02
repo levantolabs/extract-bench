@@ -1,0 +1,64 @@
+<logo>SUPERSPAR</logo>
+
+Groblersdal Mall
+Superspar
+Tel: 03 262 2494
+Tel: 03 262 2495
+VAT: 1740276029
+Customer: Loyalty Customer
+
+|                    |        |       |
+|--------------------|--------|-------|
+| L/STAR TOMATO      | 400GR  | R     |
+| 2 @ 24.99          |        | 49.98 *|
+| CHIEF'S CHOICE INDINA W PKG |        |       |
+| 0.586kg @ 92.99 R /kg |        | 54.49 A|
+| CHIEF'S CHOICE INDINA W PKG |        |       |
+| 0.560kg @ 92.99 R /kg |        | 52.07 A|
+| KNORR SOUP         | 50GR   |       |
+| 4 @ 5.99           |        | 23.96 A|
+| ROYCO SMOKEY BBQ   | 40GR   |       |
+|                    | PKG    | 20.99 A|
+| TOMATOES LOOSE     |        |       |
+| 1.282kg @ 31.99 R /kg |        | 41.01 *|
+| BEEF LIVER         | PKG    |       |
+| 1.216kg @ 49.99 R /kg |        | 60.79 A|
+| ONIONS LOOSE       | KG     |       |
+| 0.838kg @ 12.99 R /kg |        | 10.89 *|
+| SPAR CARR VT1      | 1'S    |       |
+| 2 @ 1.20           |        | 2.40 A |
+| SPAR MILK F/CR     | 1LT    | 19.49 *|
+| LIQUI FRUIT M/OR    | 300ML  | 16.99 A|
+| KOO BAKED BEANS    | 410GR  |       |
+| 2 @ 17.99          |        | 35.98 A|
+| BUY 2 FOR R29.00   |        | -6.98  |
+| TOTAL FOR 18 I EMS |        | 382.06 |
+| REWARDS Buy 2 Koo Baked |        | 1.00   |
+| TOTAL              |        | 381.06 |
+| TENDERED EFT C/Card |        | 381.06 |
+| Loyalty Number: 8888157274367 |        |       |
+| POINTS EARNED:     |        | 189    |
+| This Sale:          |        |       |
+
+TAX INVOICE
+| VAT rate | excl.  | TAX   | incl.   |
+|----------|--------|-------|---------|
+| 0.00%    | 121.37 | 0.00  | 121.37 *|
+| 15.00%   | 226.69 | 34.00 | 260.69 A|
+
+Today SPAR Saved You
+15.98
+
+Hi mosothoane. Card Number:
+*********6482. Thank you for swiping your
+SPAR Rewards Card.
+
+SLIP / TILL / CASHIER / DATE / TIME
+2338 / 003 / 113 / 04.04.24 / 15:12
+CASHIER NAME: Ntswaki Mogadime
+THANK YOU FOR SHOPPING
+AT GROBLERSDAL MALI. SUPERSPAR
+HAVE A LOVELY DAY!
+
+Cell No:
+Good Products, Good Service, Good Advice

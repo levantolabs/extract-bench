@@ -1,0 +1,33 @@
+Address:4894 Melanie Pass Apt. 742
+Tammyland, SD 42587 US
+
+Invoice Date: 23-Jul-2018
+
+Invoice number 1304-146
+Mclean-Cochran
+
+Due Date : 05-Dec-2006
+
+Buyer :Joseph Young
+
+43466 Joanna Overpass Apt. 100
+Smithtown, IN 38130 US
+Tel:+(573)753-4039
+Email:evanswendy@example.com
+Site:http://richard.com/
+
+ITEMS QUANTITY PRICE TAX AMOUNT
+Until scene raise. 6.00 $71.97 $0.00 $431.82
+Record key PM. 5.00 $90.63 $0.00 $453.15
+
+DISCOUNT(2.53%): (-) 22.39
+
+TOTAL : 907.63 $
+
+Terms and Conditions
+will be charged if payment is not made within the due date.
+
+Note:
+This order is shipped through blue dart courier
+
+Email:cjames@example.com

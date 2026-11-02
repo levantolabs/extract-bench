@@ -1,0 +1,40 @@
+Ww
+
+“
+
+Barnes, Garcia and Martin,
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US.
+
+GSTIN: 3312345678910221
+
+Bill to:Tonya Ramirez
+‘7432 Miranda Vista Suite 395
+Lake Dawnchester, NV 35082 US
+Tel:+(355)528-0655
+Email:lisasanders@example.net
+Site:http://www.paul.com/
+
+Description
+‘That ether technology.
+Public popular realize sort
+
+‘QUANTITY
+6.00
+2.00
+
+INVOICE
+
+Invoice number INV/74-88/261
+Date: 25-May-2005,
+
+PRICE
+$31.16
+S261
+
+SUB_TOTAL : 192.18 $
+
+GST(7%) : 13.45
+
+TOTAL : 190.13 §

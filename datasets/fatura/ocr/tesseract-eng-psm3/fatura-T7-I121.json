@@ -1,0 +1,1 @@
+{"id": "fatura-T7-I121", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1}, "ms": 334.6, "per_image": [{"file": "Template7_Instance121.jpg", "page": "Template7_Instance121.jpg", "ms": 318.4}], "ts": "2026-10-23T07:16:05+0800"}

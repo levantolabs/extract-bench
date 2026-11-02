@@ -1,0 +1,38 @@
+INVOICE
+
+Address:19021 Christopher Estate
+South Williammouth, NH 22397 US
+
+Invoice Date: 23-May-2002
+
+Customer miss.
+Fear support.
+System.
+
+Thank you for your business!
+
+Invoice number INV41346935
+
+Bill to:Mikayla Sparks
+
+23159 Peggy Junctions
+
+New Williamberg, AZ 13779 US
+Tel:+(705)578-3166
+Email:diamond22@example.net
+Site:https://www.warner.com/
+
+Due Date : 15-Oct-2017
+
+D Amoiin
+2.00 $95.89 $191.78
+5.00 $42.75 $213.75
+6.00 $41.41 $248.46
+
+SUB_TOTAL : 653.99 USD
+TAX:VAT (4.47%): 29.22 USD
+DISCOUNT(1.49%): (-) 9.74
+
+Terms and Conditions
+
+will be charged if payment is not made within the due date.

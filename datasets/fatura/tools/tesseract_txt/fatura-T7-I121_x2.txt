@@ -1,0 +1,27 @@
+White and Sons
+
+Email:cpetersen@example.com
+
+www.WhiteandSons.org
+
+COMMERCIAL INVOICE
+
+Bill to:David Hernandez INVOICE # INV31516139
+63569 Martinez Forks Suite 595
+
+West Stevenfort, WY 09323 US Date: 01-Jul-2008
+Uel:+(298)521-6124 Due Date : 29-Apr-2008
+
+Email:summer70@example.org
+Site:https://www.martinez.info/
+
+ITEMS QUANTITY PRICE
+a
+
+Investment benefit.
+
+SUB_TOTAL : 620.29 USD
+
+GST(9%) : 55.83
+
+TOTAL : 627.90 USD

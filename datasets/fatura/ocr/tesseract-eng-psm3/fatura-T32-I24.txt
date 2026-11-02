@@ -1,0 +1,71 @@
+Invoice Date: 14-Sep-2009
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Emai
+
+1arymoore@example.org
+
+irems
+Make pressure tough
+Ht
+
+Easy day.
+
+Provide car boy.
+
+Note:Total payment due in 14 days.
+
+‘quantity
+
+5.00
+
+200
+
+400
+
+PRICE
+
+soos
+
+$69.32
+
+$1204
+
+soo2t
+
+‘SUB_TOTAL : 867.13
+
+TOTAL : 899.60 USD
+
+Buyer :Andrew Pena
+4399 Ryan Locks
+Jamietown, MH 94175 US
+:+(918)500-7227
+Email:vortiz@example.net
+Site:http://www.taylor.com/
+
+Tax
+
+$0.00
+
+$0.00
+
+$0.00
+
+$0.00
+
+Invoice number INV/43-85/784
+
+AMOUNT
+
+so96t
+
+$346.60
+
+$2408
+
+$306.04
+
+usp

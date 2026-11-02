@@ -1,0 +1,45 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+
+Port Lindsey, MP 98258 US
+
+COMMERCIAL INVOICE
+
+BILL_TO:
+
+Shane Cabrera
+
+22488 Flowers Spring
+
+Davidshire, WY 94037 US
+Tel:+(763)102-5132
+Email:codygalvan@example.net
+Site:https://montgomery-olson.biz/
+
+Description
+Exampie list skin.
+Clear.
+
+Reason improve.
+
+| QUANTITY
+| 6.00
+| 4.00
+| 2.00
+
+TOTAL : 789.09 EUR
+
+Due Date : 28-Feb-2003
+
+Invoice Date: 06-Dec-2015
+
+| PRICE
+| $95.89
+| $53.11
+| $75.98
+
+SUB_TOTAL : 780.35 EUR
+DISCOUNT(1.86%): (-) 14.54
+
+Note:Total payment due in 14 days.

@@ -1,0 +1,1 @@
+{"id": "fatura-T25-I99", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1}, "ms": 425.8, "per_image": [{"file": "Template25_Instance99.jpg", "page": "Template25_Instance99.jpg", "ms": 404.4}], "ts": "2026-10-23T07:16:12+0800"}

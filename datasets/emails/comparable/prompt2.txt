@@ -1,0 +1,6 @@
+Extract the following information from this email:
+1. 'committee': The name of the committee in the disclaimer that begins with "Paid for by" but do not include the "Paid for by" text itself. If no committee is present, use null.
+2. 'sender': The name of the person, if any, mentioned as the author of the email. If there is no person named, use null.
+
+Email body:
+{body}

@@ -1,0 +1,45 @@
+Date: 22-Aug-2011
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Email:marymoore@example.org
+
+ITEMS QUANTITY
+Office. 4.00
+Single beautiful. 3.00
+Feel condition. 6.00
+Discuss magazine image. 2.00
+
+Note: All payments to be made in cash.
+Contact us for queries on these quotations.
+
+Invoice number INV/05-88/044
+
+Bill to: Tyler Romero
+
+02841 Debra Land Apt. 666
+Peterchester, IN 08604 US
+Tel:+(491)232-7576
+Email:taylor61@example.org
+Site:http://coleman.com/
+
+PRICE TAX
+$66.30 $0.00
+$88.52 $0.00
+$12.77 $0.00
+$13.48 $0.00
+
+AMOUNT
+
+$265.20
+
+$265.56
+
+$76.62
+
+$26.96
+
+SUB_TOTAL : 634.34 EUR
+
+TOTAL : 648.50 EUR

@@ -1,0 +1,561 @@
+{
+ "n": 200,
+ "by_split": {
+  "test": 100,
+  "dev": 100
+ },
+ "reencoded": 28,
+ "img_formats": {
+  "PNG": 200
+ },
+ "money_rules": {
+  "thousands": 645,
+  "plain": 70,
+  "decimal_mark": 20,
+  "unparsed": 3
+ },
+ "count_rules": {
+  "plain+decimal_mark": 5,
+  "plain": 45,
+  "first_number+decimal_mark": 4,
+  "first_number": 1
+ },
+ "null_gold": {
+  "service_price": 175,
+  "cashprice": 69,
+  "changeprice": 80,
+  "subtotal_price": 68,
+  "discount_price": 188,
+  "tax_price": 110,
+  "creditcardprice": 170,
+  "menuqty_cnt": 145,
+  "menu_cnt": 19,
+  "total_price": 7,
+  "menu_price": 2
+ },
+ "present_gold": {
+  "subtotal_price": 132,
+  "discount_price": 12,
+  "tax_price": 90,
+  "total_price": 193,
+  "creditcardprice": 30,
+  "menuqty_cnt": 55,
+  "menu_nm": 200,
+  "menu_cnt": 181,
+  "menu_price": 198,
+  "cashprice": 131,
+  "changeprice": 120,
+  "service_price": 25
+ },
+ "dropped_fields": [
+  {
+   "id": "cord-test-060",
+   "field": "tax_price",
+   "raw": "-"
+  },
+  {
+   "id": "cord-test-065",
+   "field": "tax_price",
+   "raw": "-"
+  },
+  {
+   "id": "cord-dev-029",
+   "field": "discount_price",
+   "raw": "Discount(0%)"
+  }
+ ],
+ "multi_value_fields": [
+  {
+   "id": "cord-test-013",
+   "field": "subtotal_price",
+   "raw": [
+    "46.636",
+    "46.636"
+   ]
+  },
+  {
+   "id": "cord-test-058",
+   "field": "cashprice",
+   "raw": [
+    "100,000",
+    "100,000"
+   ]
+  },
+  {
+   "id": "cord-test-095",
+   "field": "cashprice",
+   "raw": [
+    "62,000",
+    "201"
+   ]
+  },
+  {
+   "id": "cord-test-099",
+   "field": "tax_price",
+   "raw": [
+    "6,818",
+    "0"
+   ]
+  },
+  {
+   "id": "cord-dev-034",
+   "field": "creditcardprice",
+   "raw": [
+    "283,338",
+    "5962"
+   ]
+  }
+ ],
+ "nonnumeric_raw": [
+  {
+   "id": "cord-test-000",
+   "field": "discount_price",
+   "raw": "-60.000",
+   "typed": -60000
+  },
+  {
+   "id": "cord-test-003",
+   "field": "menuqty_cnt",
+   "raw": "1.00xITEMs",
+   "typed": 1
+  },
+  {
+   "id": "cord-test-007",
+   "field": "cashprice",
+   "raw": "Rp. 111,000",
+   "typed": 111000
+  },
+  {
+   "id": "cord-test-012",
+   "field": "menuqty_cnt",
+   "raw": "(2",
+   "typed": 2
+  },
+  {
+   "id": "cord-test-017",
+   "field": "discount_price",
+   "raw": "(0)",
+   "typed": 0
+  },
+  {
+   "id": "cord-test-017",
+   "field": "total_price",
+   "raw": "Rp. 91,000",
+   "typed": 91000
+  },
+  {
+   "id": "cord-test-018",
+   "field": "changeprice",
+   "raw": "Rp. 0",
+   "typed": 0
+  },
+  {
+   "id": "cord-test-021",
+   "field": "total_price",
+   "raw": "Rp 38.000",
+   "typed": 38000
+  },
+  {
+   "id": "cord-test-021",
+   "field": "cashprice",
+   "raw": "Rp 50.000",
+   "typed": 50000
+  },
+  {
+   "id": "cord-test-021",
+   "field": "changeprice",
+   "raw": "Rp 12.000",
+   "typed": 12000
+  },
+  {
+   "id": "cord-test-024",
+   "field": "total_price",
+   "raw": "Rp.118.000",
+   "typed": 118000
+  },
+  {
+   "id": "cord-test-026",
+   "field": "subtotal_price",
+   "raw": "Rp 138.000",
+   "typed": 138000
+  },
+  {
+   "id": "cord-test-026",
+   "field": "total_price",
+   "raw": "Rp 138.000",
+   "typed": 138000
+  },
+  {
+   "id": "cord-test-026",
+   "field": "cashprice",
+   "raw": "Rp 138.000",
+   "typed": 138000
+  },
+  {
+   "id": "cord-test-026",
+   "field": "changeprice",
+   "raw": "Rp 0",
+   "typed": 0
+  },
+  {
+   "id": "cord-test-029",
+   "field": "creditcardprice",
+   "raw": "[145,900]",
+   "typed": 145900
+  },
+  {
+   "id": "cord-test-043",
+   "field": "subtotal_price",
+   "raw": "Rp 165000.00",
+   "typed": 165000
+  },
+  {
+   "id": "cord-test-043",
+   "field": "tax_price",
+   "raw": "Rp 15000.00",
+   "typed": 15000
+  },
+  {
+   "id": "cord-test-043",
+   "field": "total_price",
+   "raw": "Rp 165000.00",
+   "typed": 165000
+  },
+  {
+   "id": "cord-test-043",
+   "field": "cashprice",
+   "raw": "Rp 200000.00",
+   "typed": 200000
+  },
+  {
+   "id": "cord-test-043",
+   "field": "changeprice",
+   "raw": "Rp 35000.00",
+   "typed": 35000
+  },
+  {
+   "id": "cord-test-076",
+   "field": "cashprice",
+   "raw": "*110000",
+   "typed": 110000
+  },
+  {
+   "id": "cord-test-084",
+   "field": "subtotal_price",
+   "raw": "Rp 36.000",
+   "typed": 36000
+  },
+  {
+   "id": "cord-test-084",
+   "field": "tax_price",
+   "raw": "Rp 3.600",
+   "typed": 3600
+  },
+  {
+   "id": "cord-test-084",
+   "field": "total_price",
+   "raw": "Rp 39.600",
+   "typed": 39600
+  },
+  {
+   "id": "cord-test-092",
+   "field": "menuqty_cnt",
+   "raw": "(Qty=4.00)",
+   "typed": 4
+  },
+  {
+   "id": "cord-test-097",
+   "field": "menuqty_cnt",
+   "raw": "6.00xITEMS",
+   "typed": 6
+  },
+  {
+   "id": "cord-dev-004",
+   "field": "changeprice",
+   "raw": ":9,000",
+   "typed": 9000
+  },
+  {
+   "id": "cord-dev-007",
+   "field": "discount_price",
+   "raw": "-9,545",
+   "typed": -9545
+  },
+  {
+   "id": "cord-dev-008",
+   "field": "menuqty_cnt",
+   "raw": "4.00xITEMs",
+   "typed": 4
+  },
+  {
+   "id": "cord-dev-013",
+   "field": "changeprice",
+   "raw": "-4,500",
+   "typed": -4500
+  },
+  {
+   "id": "cord-dev-014",
+   "field": "subtotal_price",
+   "raw": "Rp 36.000",
+   "typed": 36000
+  },
+  {
+   "id": "cord-dev-014",
+   "field": "tax_price",
+   "raw": "Rp 3.600",
+   "typed": 3600
+  },
+  {
+   "id": "cord-dev-014",
+   "field": "total_price",
+   "raw": "Rp 39.600",
+   "typed": 39600
+  },
+  {
+   "id": "cord-dev-015",
+   "field": "subtotal_price",
+   "raw": "Rp 54.000",
+   "typed": 54000
+  },
+  {
+   "id": "cord-dev-015",
+   "field": "tax_price",
+   "raw": "Rp 5.400",
+   "typed": 5400
+  },
+  {
+   "id": "cord-dev-015",
+   "field": "total_price",
+   "raw": "Rp 59.400",
+   "typed": 59400
+  },
+  {
+   "id": "cord-dev-015",
+   "field": "cashprice",
+   "raw": "Rp 100.000",
+   "typed": 100000
+  },
+  {
+   "id": "cord-dev-015",
+   "field": "changeprice",
+   "raw": "Rp 40.600",
+   "typed": 40600
+  },
+  {
+   "id": "cord-dev-021",
+   "field": "subtotal_price",
+   "raw": "Rp 194,726",
+   "typed": 194726
+  },
+  {
+   "id": "cord-dev-021",
+   "field": "service_price",
+   "raw": "Rp 9,736",
+   "typed": 9736
+  },
+  {
+   "id": "cord-dev-021",
+   "field": "tax_price",
+   "raw": "Rp 20,446",
+   "typed": 20446
+  },
+  {
+   "id": "cord-dev-021",
+   "field": "total_price",
+   "raw": "Rp 224,908",
+   "typed": 224908
+  },
+  {
+   "id": "cord-dev-021",
+   "field": "creditcardprice",
+   "raw": "Rp 224,908",
+   "typed": 224908
+  },
+  {
+   "id": "cord-dev-026",
+   "field": "total_price",
+   "raw": "Rp. 35.000",
+   "typed": 35000
+  },
+  {
+   "id": "cord-dev-077",
+   "field": "subtotal_price",
+   "raw": "Rp 58000.00",
+   "typed": 58000
+  },
+  {
+   "id": "cord-dev-077",
+   "field": "tax_price",
+   "raw": "Rp 5272.73",
+   "typed": 5272.73
+  },
+  {
+   "id": "cord-dev-077",
+   "field": "total_price",
+   "raw": "Rp 58000.00",
+   "typed": 58000
+  },
+  {
+   "id": "cord-dev-077",
+   "field": "cashprice",
+   "raw": "Rp 100000.00",
+   "typed": 100000
+  },
+  {
+   "id": "cord-dev-077",
+   "field": "changeprice",
+   "raw": "Rp 42000.00",
+   "typed": 42000
+  },
+  {
+   "id": "cord-dev-078",
+   "field": "subtotal_price",
+   "raw": "154 000",
+   "typed": 154000
+  },
+  {
+   "id": "cord-dev-078",
+   "field": "service_price",
+   "raw": "7 700",
+   "typed": 7700
+  },
+  {
+   "id": "cord-dev-078",
+   "field": "tax_price",
+   "raw": "16 170",
+   "typed": 16170
+  },
+  {
+   "id": "cord-dev-091",
+   "field": "cashprice",
+   "raw": "Rp. 50,000",
+   "typed": 50000
+  },
+  {
+   "id": "cord-dev-091",
+   "field": "changeprice",
+   "raw": "Rp. 6,000",
+   "typed": 6000
+  },
+  {
+   "id": "cord-dev-096",
+   "field": "discount_price",
+   "raw": "-2,045",
+   "typed": -2045
+  },
+  {
+   "id": "cord-dev-099",
+   "field": "subtotal_price",
+   "raw": "Rp. 39.000",
+   "typed": 39000
+  },
+  {
+   "id": "cord-dev-099",
+   "field": "total_price",
+   "raw": "Rp. 39.000",
+   "typed": 39000
+  },
+  {
+   "id": "cord-dev-099",
+   "field": "cashprice",
+   "raw": "Rp. 50.000",
+   "typed": 50000
+  },
+  {
+   "id": "cord-dev-099",
+   "field": "changeprice",
+   "raw": "Rp. 11.000",
+   "typed": 11000
+  }
+ ],
+ "list_value_joined": [
+  {
+   "id": "cord-dev-037",
+   "field": "menu_nm",
+   "raw": [
+    "-",
+    "Gyro Platter Regular"
+   ]
+  }
+ ],
+ "ccocr_answer_ne_gt_parse": [],
+ "ccocr_image_dims_differ": [],
+ "audit_flags": 28,
+ "meta_split_values": {
+  "test": 100,
+  "valid": 100
+ },
+ "gold_reachable_oracle": {
+  "subtotal_price": [
+   132,
+   132
+  ],
+  "discount_price": [
+   11,
+   11
+  ],
+  "tax_price": [
+   88,
+   88
+  ],
+  "total_price": [
+   193,
+   193
+  ],
+  "creditcardprice": [
+   30,
+   30
+  ],
+  "menuqty_cnt": [
+   55,
+   55
+  ],
+  "cashprice": [
+   131,
+   131
+  ],
+  "changeprice": [
+   120,
+   120
+  ],
+  "service_price": [
+   25,
+   25
+  ]
+ },
+ "hand_audited_items": 19,
+ "gold_adjudicated_fields": 4,
+ "ccocr_image_bytes_equal_cord_v2": 0,
+ "dup_groups": [
+  [
+   "cord-dev-014",
+   "cord-test-084"
+  ],
+  [
+   "cord-dev-016",
+   "cord-dev-038"
+  ],
+  [
+   "cord-dev-027",
+   "cord-dev-044"
+  ],
+  [
+   "cord-dev-059",
+   "cord-test-038"
+  ],
+  [
+   "cord-dev-073",
+   "cord-test-068"
+  ]
+ ],
+ "effective_independent_receipts": 195,
+ "holdout_n": 40,
+ "ccocr_tsv_sha256": "814b0d5266330369437fed3981c2b68e8b2c675dafe956d042a7f369b23a807d",
+ "oracle_tokens_o200k": {
+  "n": 200,
+  "p50": 55.0,
+  "p95": 128.1,
+  "max": 196,
+  "mean": 62.0
+ }
+}

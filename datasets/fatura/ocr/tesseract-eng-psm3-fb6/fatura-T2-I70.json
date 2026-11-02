@@ -1,0 +1,1 @@
+{"id": "fatura-T2-I70", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 366.0, "per_image": [{"file": "Template2_Instance70.jpg", "page": "Template2_Instance70.jpg", "psm_used": 3, "chars": 459, "ms": 348.2}], "ts": "2026-10-23T07:22:56+0800"}

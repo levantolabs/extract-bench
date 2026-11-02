@@ -1,0 +1,22 @@
+White and Sons
+
+Email:cpetersen@example.com
+
+www.WhiteandSons.org
+
+COMMERCIAL INVOICE
+
+Bill to:Brenda Smith INVOICE # 7Y7M3d-614
+56307 Fuller Club Suite 540
+
+New Spencer, PR 78345 US Invoice Date: 13-Nov-2005
+Lal:t{T10}426-6069 Due Date : 13-Feb-2022
+
+Email:aguirreelizabeth@example.org
+Site:https://rivera.net/
+
+SUB_TOTAL : 943.34 USD
+
+GST(9%) : 84.90
+
+TOTAL : 970.95 USD

@@ -1,0 +1,33 @@
+Address:4894 Melanie Pass Apt. 742
+Tammyland, SD 42587 US
+
+Date: 12-Feb-2013
+Invoice number INV82119267
+
+Mclean-Cochran
+Due Date : 15-Jul-1998
+
+Buyer :Cynthia Kim
+
+773 Larson River
+Johnathanside, WA 51910 US
+Tel:+(829)345-4692
+Email:ogarcia@example.net
+Site:https://parks.com/
+
+ITEMS QUANTITY PRICE TAX AMOUNT
+Per may run. 1.00 $20.56 $0.00 $20.56
+Agency gun camera. 2.00 $69.06 $0.00 $138.12
+Industry threat. 5.00 $53.38 $0.00 $266.90
+
+DISCOUNT(1.63%): (-) 6.94
+
+TOTAL : 432.00 USD
+
+Terms and Conditions
+will be charged if payment is not made within the due date.
+
+Note:
+This order is shipped through blue dart courier
+
+Email:cjames@example.com

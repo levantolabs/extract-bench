@@ -1,0 +1,47 @@
+{
+ "arith": {
+  "checked": 90,
+  "match_0.02": 0,
+  "examples": [
+   {
+    "id": "fatura-T50-I6",
+    "subtotal": 275.67,
+    "tax": 11.77,
+    "discount": 7.86,
+    "total": 276.58
+   },
+   {
+    "id": "fatura-T50-I19",
+    "subtotal": 1005.69,
+    "tax": 64.99,
+    "discount": 24.04,
+    "total": 1035.38
+   },
+   {
+    "id": "fatura-T50-I25",
+    "subtotal": 861.99,
+    "tax": 43.11,
+    "discount": 34.82,
+    "total": 887.95
+   },
+   {
+    "id": "fatura-T50-I38",
+    "subtotal": 740.11,
+    "tax": 48.47,
+    "discount": 8.51,
+    "total": 759.12
+   },
+   {
+    "id": "fatura-T50-I43",
+    "subtotal": 538.84,
+    "tax": 33.1,
+    "discount": 6.63,
+    "total": 549.2
+   }
+  ]
+ },
+ "dates": {
+  "checked": 105,
+  "due_before_issue": 54
+ }
+}

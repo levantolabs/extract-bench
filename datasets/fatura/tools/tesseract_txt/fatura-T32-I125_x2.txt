@@ -1,0 +1,78 @@
+Date: 13-Feb-2022
+
+Miller Inc
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Email:marymoore@example.org
+
+ITEMS
+
+Cause interview should.
+Daughter firm beautiful.
+Upon campaign.
+
+System size.
+
+Thank you for your business!
+
+SS
+
+QUANTITY
+
+4.00
+
+2.00
+
+6.00
+
+1.00
+
+INVOICE ID 3Y7M8d-229
+
+Bill to:Michael Stewart
+
+7593 Kyle Groves
+
+Mariafurt, IL 01558 US
+
+Tel:+(001)059-8540
+
+Email:umunoz@example.org
+
+Site:https://www.turner-williams.com/
+
+PRICE
+
+$93.80
+
+$43.79
+
+$5.11
+
+$92.38
+
+TAX
+
+$0.00
+
+$0.00
+
+$0.00
+
+$0.00
+
+AMOUNT
+
+$375.20
+
+$87.58
+
+$30.66
+
+$92.38
+
+SUB_TOTAL : 585.82 EUR
+
+TOTAL : 604.07 EUR

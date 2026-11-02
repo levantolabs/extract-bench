@@ -1,0 +1,4 @@
+clusters 69 top [('nrsc', 6), ('turningpointaction', 4), ('alsobrooksforsenate', 3), ('debbieforflorida', 3), ('friendsofsherrodbrown', 3), ('timsheehyformontana', 3)]
+singletons 49
+gpt-4o_november_2024_prompt2 0.94 committee-clustered CI95 0.879 0.989
+claude_haiku_45_november_2024_prompt2 0.91 committee-clustered CI95 0.824 0.979

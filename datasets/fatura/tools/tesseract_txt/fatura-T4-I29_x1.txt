@@ -1,0 +1,32 @@
+Huff-Bryan
+
+‘Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US.
+
+COMMERCIAL INVOICE
+
+BILL_TO:
+Tracy Smith
+
+169573 Mitchell Orchard Suite 518
+Janofurt, VA 54893 US.
+Tel:4(012)284-9794
+Email:sharpjulie@example.net
+Site:https:/johnson.com!
+
+TOTAL : 36.65
+
+Due Date : 17-Jan-2022
+
+Date: 15-Mar-2007
+
+[ Deserption
+
+‘QUANTITY
+
+SUB_TOTAL : 36.13 $
+
+DISCOUNT(2.93%): (-) 1.06
+Note: All payments to be made in cash.
+Contact us for queries on these quotations.
+

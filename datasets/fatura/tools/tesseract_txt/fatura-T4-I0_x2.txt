@@ -1,0 +1,39 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US
+
+TAX INVOICE
+
+BILL_TO:
+
+Colleen Ellis
+
+37379 Harris Spurs Suite 707
+West Erika, OH 34948 US
+Tel:+(739)651-6233
+Email:amandaS6@example.org
+Site:https://conrad-smith.com/
+
+| Description
+
+| Generation focus toward.
+| Finish brother knowledge.
+| Friend,
+
+TOTAL : 995.15 USD
+
+Due Date : 31-May-2022
+
+Invoice Date: 12-Oct-1994
+
+| QUANTITY | PRICE
+| 2.00 | $6.04
+
+| 6.00 | $95.67
+| 2.00 | $75.32
+
+SUB_TOTAL : 992.04 USD
+DISCOUNT(2.39%): (-) 23.74
+
+Thank you for choosing us!

@@ -1,0 +1,26 @@
+Buyer :Shelia Smith
+09866 Richardson Ridges
+Kelly-Moss East Chelseamouth, MP 20381 US
+Address:6030 Willie Shores Suite 354
+Guerraton, TX 60058 US
+Email:meghan88@example.net
+
+Invoice number INV63580625 Due Date : 09-Jul-2000
+Invoice Date: 02-Aug-1993
+
+‘Sure play shake. $48.32 4.00 $193.28
+Rate shake each. $72.05 2.00 $144.10
+Authority citizen. $71.79 4.00 $287.16
+Model game. $90.50 4.00 $362.00
+
+‘SUB_TOTAL : 986.54 USD
+
+GST(5%) : 49.33,
+
+GST(18%) : 17.58
+
+GST(20%) : 197.31
+
+GST(1%) : 9.87
+
+TOTAL : 986.50 USD

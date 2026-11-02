@@ -1,0 +1,1 @@
+{"id": "fatura-T25-I6", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 527.7, "per_image": [{"file": "Template25_Instance6.jpg", "page": "Template25_Instance6.jpg", "psm_used": 3, "chars": 535, "ms": 505.8}], "ts": "2026-10-23T07:23:01+0800"}

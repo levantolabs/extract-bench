@@ -1,0 +1,103 @@
+{
+ "n_items": 150,
+ "alloc": {
+  "span": 64,
+  "arithmetic": 63,
+  "multi-span": 19,
+  "count": 4
+ },
+ "full_test_counts": {
+  "span": 714,
+  "multi-span": 210,
+  "arithmetic": 699,
+  "count": 40
+ },
+ "pool_after_exclusion": {
+  "span": 711,
+  "multi-span": 209,
+  "arithmetic": 697,
+  "count": 40
+ },
+ "tasksource": {
+  "applied": true,
+  "provenance": {
+   "repo": "tasksource/tasksource-jev-typed-decisions",
+   "config": "extraction",
+   "source": "tatqa/text-span",
+   "sha": "8b1afcc6ad12554b347134a91b5f0dc6ae2361db",
+   "lastModified": "2026-10-21T23:44:21.000Z",
+   "parquet_ref": "refs/convert/parquet",
+   "columns": [
+    "source",
+    "id",
+    "state",
+    "metadata"
+   ],
+   "fetched_utc": "2026-10-22T23:04:34+00:00"
+  },
+  "rows_by_split": {
+   "validation": 188,
+   "train": 1507
+  },
+  "n_states": 1695,
+  "n_question_ids": 2981,
+  "test_contexts": 277,
+  "contexts_excluded": 1,
+  "questions_excluded": 6,
+  "why": {
+   "+allparas": 1
+  },
+  "contexts_partial_overlap": 87,
+  "qid_hits_total": 0
+ },
+ "sample_partial_tasksource_overlap": 47,
+ "sample_tatqa_train_dev_para_overlap_items": 42,
+ "holdout_n": 31,
+ "holdout_by_type": {
+  "span": 13,
+  "multi-span": 4,
+  "arithmetic": 13,
+  "count": 1
+ },
+ "distinct_contexts": 120,
+ "by_type_scale": {
+  "arithmetic|none": 7,
+  "arithmetic|million": 11,
+  "arithmetic|percent": 28,
+  "arithmetic|thousand": 17,
+  "count|none": 4,
+  "multi-span|none": 14,
+  "multi-span|thousand": 5,
+  "span|none": 45,
+  "span|million": 7,
+  "span|thousand": 12
+ },
+ "by_answer_from": {
+  "text": 30,
+  "table": 67,
+  "table-text": 53
+ },
+ "span_gold_verbatim": {
+  "multi-span|all_exact": 19,
+  "span|all_exact": 64
+ },
+ "multi_span_items_type": {
+  "number": 12,
+  "text": 7
+ },
+ "o200k_text_tokens": {
+  "exact": true,
+  "p50": 397,
+  "p95": 935,
+  "max": 1532,
+  "mean": 440.8
+ },
+ "sha256": {
+  "tatqa_dataset_test_gold.json": "c4d08418359c1d76468dec420ee748a37f48c06b63cb8ec2766f19d5d314b597",
+  "tatqa_dataset_dev.json": "8da095a819af6db3c14877c6df2d4d29960e41d1a63dd1fa853507bd2a616af5",
+  "tatqa_dataset_train.json": "2df6e722cdbaaa37efcbfb280f5c9a15be29a6ec18f618ef936fe63cc6d07c69",
+  "items.jsonl": "49a6984ce5c7551fd110736e20173ff422867bf4394a7be35052f04caa3aee5e",
+  "comparable/tatqa_gold_sample.json": "feb8633012d4860ddb9d9fb1ead7c6c9f788c2ad5db9788c5c01cf7790b0e231"
+ },
+ "seed": 20
+}

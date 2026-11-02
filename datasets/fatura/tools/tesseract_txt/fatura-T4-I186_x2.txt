@@ -1,0 +1,24 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US
+
+INVOICE TOTAL : 44.31 $
+BILL_TO:
+Darlene Fry
+3816 Shawn Summit Apt. 721 Due Date : 18-Dec-1998
+
+West Scott, MP 19973 US
+Tel:+(059)867-3023
+
+Email:paularasmussen@example.com Date: 22-Jun-2007
+
+Site:http://www.dixon.com/
+Description | QUANTITY | PRICE
+Physical those office, 2.00 $13.83
+Leg their. 2.00 $8.06
+
+SUB_TOTAL : 43.78 $
+DISCOUNT(4.35%): (-) 1.9
+
+Thank you for your business!

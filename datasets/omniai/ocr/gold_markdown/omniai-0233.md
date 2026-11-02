@@ -1,0 +1,72 @@
+DocuSign Envelope ID: 5d0cf7d1-8211-434b-877c-6b48fc4e87ee
+
+Account Number: **69496430108684**
+
+May 1, 2021 through July 31, 2021
+
+!\[Bank of America Logo\](image)
+
+#### Transaction Summary
+
+| **DATE** | **DESCRIPTION**                                                         | **CREDIT** | **DEBIT** | **TOTAL** |
+| -------- | ----------------------------------------------------------------------- | ---------- | --------- | --------- |
+| 01/14    | Bank Fee Waiver - Wells Fargo WF\*FEE_REVERSAL 9183                     | $ 715.00   | $ 0.00    | $ 715.00  |
+| 01/14    | Shell Gas Station #2048 Santa Monica CA Card 7351                       | 0.00       | 364.00    | -364.00   |
+| 01/15    | Bank Adjustment Credit - Wells Fargo WF\*ACCOUNT_ADJ 7392               | 156.00     | 0.00      | 156.00    |
+| 01/16    | Doctor's Office Visit Payment KAISER\*HEALTH Card 5684                  | 0.00       | 397.00    | -397.00   |
+| 01/16    | Interest Payment From Savings Account CITIBANK\*INTEREST 2847           | 980.00     | 0.00      | 980.00    |
+| 01/16    | Zelle Credit From Adriana Lopez Zelle\*ALOPEZ7281                       | 156.00     | 0.00      | 156.00    |
+| 01/16    | Bank of America ATM Withdrawal Beverly Hills CA Card 1426               | 0.00       | 623.00    | -623.00   |
+| 01/18    | Uber Eats Order #8742 San Diego CA Card 9853                            | 0.00       | 986.00    | -986.00   |
+| 01/18    | Overpayment Refund - Spectrum Internet SPECTRUM\*REFUND 7643            | 293.00     | 0.00      | 293.00    |
+| 01/18    | Utility Bill Overpayment Credit - SoCal Edison SOCAL\*BILL_ADJ 2374     | 597.00     | 0.00      | 597.00    |
+| 01/18    | Bank Account Loyalty Bonus - Citibank CITI\*LOYALTY 9281                | 539.00     | 0.00      | 539.00    |
+| 01/19    | Mobile Phone Service Bill Adjustment - Verizon VERIZON\*ADJ_CREDIT 5943 | 243.00     | 0.00      | 243.00    |
+| 01/19    | Bank of America ATM Withdrawal Beverly Hills CA Card 1426               | 0.00       | 1,004.00  | -1,004.00 |
+| 01/20    | Promotional Bonus Credit - Discover Bank DISCOVER\*BONUS 9483           | 364.00     | 0.00      | 364.00    |
+| 01/20    | PG&E Utility Bill Payment PG&E\*ENERGY Card 1283                        | 0.00       | 591.00    | -591.00   |
+| 01/21    | Utility Bill Overpayment Refund SOCALGAS\*REFUND 7461                   | 345.00     | 0.00      | 345.00    |
+| 01/21    | Lyft Ride #HX7284 Los Angeles CA Card 9247                              | 0.00       | 860.00    | -860.00   |
+| 01/22    | Nike Store Purchase #0983 Santa Monica CA Card 3715                     | 0.00       | 164.00    | -164.00   |
+| 01/22    | Mobile Carrier Account Credit - T-Mobile TMO\*CREDIT 2748               | 69.00      | 0.00      | 69.00     |
+| 01/22    | Spotify Premium Subscription SPOTIFY\*PREMIUM Card 6743                 | 0.00       | 579.00    | -579.00   |
+| 01/22    | Hotel Points Reimbursement - Hilton Honors HILTON\*REWARDS 5723         | 917.00     | 0.00      | 917.00    |
+| 01/22    | Verizon Wireless Bill Payment VZW\*PAYMENT Card 3721                    | 0.00       | 750.00    | -750.00   |
+| 01/23    | T-Mobile Monthly Bill Payment TMO\*BILLPAY Card 8934                    | 0.00       | 567.00    | -567.00   |
+| 01/23    | Chargeback Reimbursement - Visa VISA\*CHARGEBACK 6253                   | 163.00     | 0.00      | 163.00    |
+| 01/23    | Promotional Credit For New Subscription - Amazon AMZ\*PROMO_CREDIT 7234 | 661.00     | 0.00      | 661.00    |
+| 01/23    | Bank Account Loyalty Bonus - Citibank CITI\*LOYALTY 9281                | 838.00     | 0.00      | 838.00    |
+| 01/24    | Home Repair Service Payment HANDY\*PRO Card 6347                        | 0.00       | 581.00    | -581.00   |
+| 01/26    | T-Mobile Monthly Bill Payment TMO\*BILLPAY Card 8934                    | 0.00       | 692.00    | -692.00   |
+| 01/26    | Streaming Service Account Credit - Netflix NETFLX\*CREDIT 1823          | 822.00     | 0.00      | 822.00    |
+| 01/27    | Refund For Overcharged Transaction - Walmart WALMART\*REFUND 7291       | 129.00     | 0.00      | 129.00    |
+| 01/27    | Gaming Subscription Xbox Game Pass XBOX\*GOLD Card 8473                 | 0.00       | 165.00    | -165.00   |
+| 01/27    | Rebate Credit - Apple Trade-In Program APPLE\*REBATE 5738               | 214.00     | 0.00      | 214.00    |
+| 01/29    | Utility Bill Overpayment Refund SOCALGAS\*REFUND 7461                   | 239.00     | 0.00      | 239.00    |
+| 01/29    | Verizon Wireless Bill Payment VZW\*PAYMENT Card 3721                    | 0.00       | 901.00    | -901.00   |
+| 01/30    | Travel Voucher Credit - Delta Airlines DELTA\*VOUCHER 8921              | 284.00     | 0.00      | 284.00    |
+| 01/31    | IKEA Furniture Purchase #7263 Burbank CA Card 4625                      | 0.00       | 455.00    | -455.00   |
+| 01/31    | Zelle Transfer Received From Monica Herrera Zelle\*MHERRERA             | 451.00     | 0.00      | 451.00    |
+| 01/31    | Disneyland Ticket Purchase DISNEY\*RESORT Card 8417                     | 0.00       | 56.00     | -56.00    |
+| 02/01    | Southwest Airlines Flight #5823 LAX Card 9083                           | 0.00       | 754.00    | -754.00   |
+| 02/01    | Zelle Transfer to Jane Doe CHASE\*ZELLEPAY Card 4017                    | 0.00       | 45.00     | -45.00    |
+| 02/02    | Uber Eats Order #8742 San Diego CA Card 9853                            | 0.00       | 281.00    | -281.00   |
+| 02/03    | Venmo Payment Received From @LuisMartinez VENMO\*LMARTINEZ              | 74.00      | 0.00      | 74.00     |
+| 02/05    | ACH Credit - Auto Insurance Rebate GEICO\*REBATE 8472                   | 649.00     | 0.00      | 649.00    |
+| 02/06    | Doctor's Office Visit Payment KAISER\*HEALTH Card 5684                  | 0.00       | 587.00    | -587.00   |
+| 02/06    | Los Angeles Parking Citation Payment CA GOV\*LAPARK Card 5721           | 0.00       | 669.00    | -669.00   |
+| 02/06    | Utility Bill Overpayment Refund SOCALGAS\*REFUND 7461                   | 856.00     | 0.00      | 856.00    |
+| 02/07    | Venmo Payment to @JohnDoe VENMO\*JDOE Card 4502                         | 0.00       | 988.00    | -988.00   |
+| 02/08    | PayPal Transfer \*Venmo Cashout Card 2147                               | 0.00       | 207.00    | -207.00   |
+| 02/08    | Lyft Ride #HX7284 Los Angeles CA Card 9247                              | 0.00       | 194.00    | -194.00   |
+| 02/09    | IRS Tax Overpayment Refund IRS\*TAX_REFUND 2024                         | 941.00     | 0.00      | 941.00    |
+| 02/09    | Hulu Subscription HULU\*BILLPAY Card 6492                               | 0.00       | 817.00    | -817.00   |
+| 02/09    | Overdraft Fee Reversal - Bank of America BOFA\*FEE_REVERSAL 1029        | 854.00     | 0.00      | 854.00    |
+| 02/10    | Travel Credit From Airline Cancellation DELTA\*CREDIT_9283              | 675.00     | 0.00      | 675.00    |
+| 02/10    | PayPal Credit Adjustment PAYPAL\*CREDIT_ADJ 9432                        | 997.00     | 0.00      | 997.00    |
+| 02/11    | Business Expense Reimbursement WORK\*EXPENSE_CREDIT 1932                | 465.00     | 0.00      | 465.00    |
+| 02/11    | Venmo Payment Received From @LuisMartinez VENMO\*LMARTINEZ              | 830.00     | 0.00      | 830.00    |
+| 02/12    | Nike Store Purchase #0983 Santa Monica CA Card 3715                     | 0.00       | 756.00    | -756.00   |
+| 02/12    | Best Buy Electronics #4593 Glendale CA Card 8495                        | 0.00       | 138.00    | -138.00   |
+
+Page 53

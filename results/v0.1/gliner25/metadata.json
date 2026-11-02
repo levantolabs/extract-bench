@@ -1,0 +1,15 @@
+{
+ "system": "gliner25",
+ "benchmark_version": "v0.1",
+ "display_name": "GLiNER2.5",
+ "org": "Fastino",
+ "model": "fastino/gliner2.5-base-v1",
+ "arm": "gliner25",
+ "input": "text",
+ "run_date": "2026-10-29",
+ "open_weights": true,
+ "maintainer_product": false,
+ "notes": "gliner2 2.1.0; one entity label per field; 1,800-char chunks with 300-char overlap.",
+ "tier": "maintainer-run",
+ "n_items": 1844
+}

@@ -1,0 +1,15 @@
+{
+ "system": "schematron3b",
+ "benchmark_version": "v0.1",
+ "display_name": "Schematron-3B",
+ "org": "Inference.net",
+ "model": "inference-net/Schematron-3B",
+ "arm": "schematron3b",
+ "input": "text",
+ "run_date": "2026-10-29",
+ "open_weights": true,
+ "maintainer_product": false,
+ "notes": "vLLM 0.32.0, bf16, temperature 0, schema-constrained; document text wrapped as minimal HTML.",
+ "tier": "maintainer-run",
+ "n_items": 1844
+}

@@ -1,0 +1,12 @@
+1 Large 1 m1 UU
+1 *RhUM 0
+1 Pastry Keju 20.000
+1 *Plastik kKcl 0
+
+te
+
+Bayar
+
+9.000
+
+Kembali

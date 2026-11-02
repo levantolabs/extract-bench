@@ -1,0 +1,88 @@
+Date: 02-Aug-2006
+
+Miller Inc
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Email:marymoore@example.org
+
+ITEMS
+
+Individual talk indeed.
+Role.
+
+Play us.
+
+Safe ten reason.
+
+Around economy.
+
+Note: All payments to be made in cash.
+
+SS
+
+QUANTITY
+
+4.00
+
+3.00
+
+3.00
+
+4.00
+
+6.00
+
+Contact us for queries on these quotations.
+
+Invoice number INV67494290
+
+Buyer :Robert Carlson
+78167 Caleb Spurs Suite 553
+North Martin, TX 70928 US
+
+Tel:+(959)566-3554
+Email:jenniferwade@example.net
+
+Site:http://garcia.com/
+
+PRICE
+
+$21.77
+
+$13.58
+
+$72.76
+
+$74.96
+
+$7.52
+
+TAX
+
+$0.00
+
+$0.00
+
+$0.00
+
+$0.00
+
+$0.00
+
+AMOUNT
+
+$87.08
+
+$40.74
+
+$218.28
+
+$299.84
+
+$45.12
+
+SUB_TOTAL : 691.06 EUR
+
+TOTAL : 703.89 EUR

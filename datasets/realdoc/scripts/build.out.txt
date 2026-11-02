@@ -1,0 +1,51 @@
+{
+ "built": "2026-10-23T06:55:56+0800",
+ "seconds": 310.3,
+ "hf_revision": "08dde9d20d844943fc328b161f9d332c7e8bdee4",
+ "scorer_commit": "fb26a6876481de76dc293f722ab4efa71279904d",
+ "vendored_defs_verified": 30,
+ "bank_totals": {
+  "fields_all": 3742,
+  "fields_kept": 3429,
+  "excluded_boolean": 306,
+  "excluded_list": 7,
+  "questions_all": 1356,
+  "questions_eligible": 1201
+ },
+ "eligible_by_domain": {
+  "finance": 305,
+  "medical_healthcare": 141,
+  "mortgage": 444,
+  "supply_chain": 311
+ },
+ "quota_by_domain": {
+  "finance": 51,
+  "medical_healthcare": 23,
+  "mortgage": 74,
+  "supply_chain": 52
+ },
+ "chosen_by_domain": {
+  "finance": 51,
+  "medical_healthcare": 23,
+  "mortgage": 74,
+  "supply_chain": 52
+ },
+ "n_dropped": 0,
+ "docs_inspected": 180,
+ "docs_inspected_page_counts": {
+  "1": 180
+ },
+ "docs_used": 180,
+ "sample_fields": {
+  "kept_text": 396,
+  "excluded": 16,
+  "kept_number": 125,
+  "enum_label": 69,
+  "kept_date": 13,
+  "kept_null": 39,
+  "enum_state": 48
+ },
+ "holdout_n": 40,
+ "stale_images_removed": 0,
+ "items_sha256": "57ca23f6d576193ed2163033b1243b659006d7e5b255ead6bfc24c9d5d859485"
+}

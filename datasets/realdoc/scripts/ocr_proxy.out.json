@@ -1,0 +1,26 @@
+{
+ "engine": "tesseract 5.5.0",
+ "settings": "pdftoppm -r 200 -png; tesseract -l eng --oem 1 --psm 3",
+ "docs": 180,
+ "docs_stderr_nonutf8": [],
+ "tokens_per_item_o200k": {
+  "p50": 698,
+  "p95": 1679,
+  "max": 2577,
+  "mean": 805.0
+ },
+ "gold_reachable_nonenum_nonnull": "327/417",
+ "enum_gold_found_in_text": "64/117",
+ "reachable_by_kind": {
+  "date:no": 2,
+  "date:yes": 11,
+  "enum_label:no": 8,
+  "enum_label:yes": 61,
+  "enum_state:no": 45,
+  "enum_state:yes": 3,
+  "number:no": 15,
+  "number:yes": 110,
+  "text:no": 73,
+  "text:yes": 206
+ }
+}

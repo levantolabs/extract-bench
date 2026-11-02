@@ -1,0 +1,41 @@
+{
+ "n_models": 8,
+ "repo_matcher": {
+  "n_all1000": 2,
+  "n_sample": 1,
+  "items": [
+   {
+    "id": "emails-r0011",
+    "in_sample": false,
+    "gold": "Pennsylvania Democratic Party",
+    "all8_pred": "The Pennsylvania Democratic Party"
+   },
+   {
+    "id": "emails-r0239",
+    "in_sample": true,
+    "gold": "Pennsylvania Democratic Party",
+    "all8_pred": "The Pennsylvania Democratic Party"
+   }
+  ],
+  "any_model_wrong_sample": 18
+ },
+ "squashed": {
+  "n_all1000": 2,
+  "n_sample": 1,
+  "items": [
+   {
+    "id": "emails-r0011",
+    "in_sample": false,
+    "gold": "Pennsylvania Democratic Party",
+    "all8_pred": "The Pennsylvania Democratic Party"
+   },
+   {
+    "id": "emails-r0239",
+    "in_sample": true,
+    "gold": "Pennsylvania Democratic Party",
+    "all8_pred": "The Pennsylvania Democratic Party"
+   }
+  ],
+  "any_model_wrong_sample": 13
+ }
+}

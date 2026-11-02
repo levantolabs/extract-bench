@@ -1,0 +1,46 @@
+Invoice Date: 23-Jul-2018
+Invoice number 1304-146
+
+Due Date :
+
+65-Dec-2006
+
+iTems
+Until scene raise.
+
+Record key PM,
+
+‘Terms and Conditions
+
+‘quantiry
+
+6.00
+
+5.00
+
+Address:4894 Melanie Pass Apt. 742
+‘Tammyland, SD 42587 US
+
+Mclean-Cochran
+
+Buyer ‘Joseph Young
+43466 Joanna Overpass Apt. 100
+‘Smithtown, IN 38130 US
+
+Site:http:/Irichard.com/
+
+PRICE TAK AMOUNT
+s7197 $0.00 $431.82
+$9063 $0.00 $453.15
+
+DISCOUNT(2.53%): (-) 22.39,
+
+TOTAL : 907.63 §
+
+will be charged if payment is not made within the due date.
+
+Note:
+
+This order is shipped through blue dart courier
+
+Email:cjames@example.com

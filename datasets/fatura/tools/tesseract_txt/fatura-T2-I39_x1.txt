@@ -1,0 +1,40 @@
+“
+
+Barnes, Garcia and Martin,
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US.
+
+GSTIN: 3312345678910221
+
+Buyer :Joseph Nelson
+8016 Chung Corner
+Rowlandmouth, MT 40103 US
+Tel:+(201)680-5955
+Email:roberto70@example.com
+Site:https:/www.hamilton.info!
+
+Description ‘QUANTITY
+‘Name strong measure tue 5.00
+Child site 2.00
+‘School present 3.00
+Bom ready special 4.00
+‘Message then common. 4.00
+
+INVOICE
+
+Invoice number INV/21-84/928
+Invoice Date: 13-May-2007
+
+PRICE
+$59.28
+$54.49
+$36.13
+$80.00
+$46.69
+
+‘SUB_TOTAL : 820.28 USD
+
+GST(7%) : 57.42
+
+TOTAL : 822.61 USD

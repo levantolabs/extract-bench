@@ -1,0 +1,21 @@
+ESTIMATE ONLY (list prices + stated assumptions; tokens o200k via tiktoken)
+arm                   dataset            items  calls      in_tok   out_tok       USD wall_min assumedTxt
+clairic_text          kleister_nda          83     83   1,627,662         0    0.1628      0.1          0
+clairic_text_w15k     kleister_nda          83     83   1,627,662         0    0.1628      0.1          0
+clairic_vision        kleister_nda           0      0           0         0    0.0000      0.0          0
+clairic_vision_ocr    kleister_nda           0      0           0         0    0.0000      0.0          0
+sage_precise          kleister_nda          83     83     308,161    54,448    0.5599      0.4          0
+sage_fast             kleister_nda          83     83     308,161    54,448    0.5599      0.4          0
+haiku_json            kleister_nda          83     83     326,670    12,035    0.0387      4.7          0
+gemini_vision_json    kleister_nda           0      0           0         0    0.0000      0.0          0
+
+per arm:
+  clairic_text           $0.1628  83 calls  ~0.1 min
+  clairic_text_w15k      $0.1628  83 calls  ~0.1 min
+  clairic_vision         $0.0000  0 calls  ~0.0 min
+  clairic_vision_ocr     $0.0000  0 calls  ~0.0 min
+  sage_precise           $0.5599  83 calls  ~0.4 min
+  sage_fast              $0.5599  83 calls  ~0.4 min
+  haiku_json             $0.0387  83 calls  ~4.7 min
+  gemini_vision_json     $0.0000  0 calls  ~0.0 min
+  ALL                    $1.4840

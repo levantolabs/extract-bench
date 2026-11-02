@@ -1,0 +1,16 @@
+{
+ "squad2-5a7505e497ca42001a521de4": {
+  "answer": {
+   "flag": "gold_wrong",
+   "note": "UNSURE: gold null (unanswerable), but text: 'Until the oil shock, the price had also remained fairly stable'. All arms 'the oil shock'.",
+   "source": "hand_audit"
+  }
+ },
+ "squad2-5ad2456dd7d075001a428aa2": {
+  "answer": {
+   "flag": "gold_wrong",
+   "note": "Gold null, but text: 'In the triplet form, O2 molecules are paramagnetic.' (subscript lost in question). All arms 'paramagnetic'.",
+   "source": "hand_audit"
+  }
+ }
+}

@@ -1,0 +1,138 @@
+{
+ "n_items": 360,
+ "errors": [],
+ "n_errors": 0,
+ "tokens_o200k": {
+  "registration": {
+   "n": 300,
+   "p50": 1173.5,
+   "p95": 1594,
+   "max": 1908,
+   "mean": 1189.7
+  },
+  "all": {
+   "n": 360,
+   "p50": 1173.5,
+   "p95": 2489,
+   "max": 7028,
+   "mean": 1307.0
+  },
+  "adbuy": {
+   "n": 60,
+   "p50": 1358.0,
+   "p95": 4258,
+   "max": 7028,
+   "mean": 1893.6
+  }
+ },
+ "sage_cap_16384_over": [],
+ "images": {
+  "n_images": 722,
+  "max_bytes": 2049359,
+  "max_total": 4026021,
+  "pages_hist": {
+   "adbuy:1": 30,
+   "adbuy:2": 11,
+   "adbuy:3": 13,
+   "adbuy:4": 6,
+   "registration:1": 20,
+   "registration:2": 253,
+   "registration:3": 27
+  }
+ },
+ "gold_present": {
+  "adbuy.advertiser": 59,
+  "adbuy.agency": 28,
+  "adbuy.contract_num": 55,
+  "adbuy.flight_from": 45,
+  "adbuy.flight_to": 45,
+  "adbuy.gross_amount": 60,
+  "adbuy.line_channel": 43,
+  "adbuy.line_program_desc": 50,
+  "adbuy.line_program_end_date": 42,
+  "adbuy.line_program_start_date": 53,
+  "adbuy.line_sub_amount": 38,
+  "adbuy.product": 56,
+  "adbuy.property": 55,
+  "adbuy.tv_address": 51,
+  "registration.file_date": 294,
+  "registration.foreign_principle_name": 179,
+  "registration.registrant_name": 298,
+  "registration.registration_num": 299,
+  "registration.signer_name": 221,
+  "registration.signer_title": 78
+ },
+ "gold_null": {
+  "adbuy.advertiser": 1,
+  "adbuy.agency": 32,
+  "adbuy.contract_num": 5,
+  "adbuy.flight_from": 15,
+  "adbuy.flight_to": 15,
+  "adbuy.line_channel": 17,
+  "adbuy.line_program_desc": 10,
+  "adbuy.line_program_end_date": 18,
+  "adbuy.line_program_start_date": 7,
+  "adbuy.line_sub_amount": 22,
+  "adbuy.product": 4,
+  "adbuy.property": 5,
+  "adbuy.tv_address": 9,
+  "registration.file_date": 6,
+  "registration.foreign_principle_name": 121,
+  "registration.registrant_name": 2,
+  "registration.registration_num": 1,
+  "registration.signer_name": 79,
+  "registration.signer_title": 222
+ },
+ "n_fields_total": 2640,
+ "n_null_gold_fields": 591,
+ "n_null_gold_list_fields": 74,
+ "gold_parse_fail": {
+  "registration.file_date": {
+   "n": 43,
+   "examples": [
+    "25 day of Octolico 68 168",
+    "28 day of MARCH 1973 VINICHET A. MAGLIA', 'JR.",
+    "_ day of 9 DONATO CECCIO Notary Public, State of New",
+    "8th November day of 19 74",
+    "16 day of 19 Jury 766",
+    "1927 16th day of",
+    "JAN - 2 1979",
+    "19 79 . day of 419STEAL"
+   ]
+  },
+  "adbuy.line_program_start_date": {
+   "n": 1,
+   "examples": [
+    "/26/20"
+   ]
+  }
+ },
+ "text_gold_reachable": {
+  "adbuy.advertiser": "59/59",
+  "adbuy.agency": "28/28",
+  "adbuy.contract_num": "55/55",
+  "adbuy.product": "56/56",
+  "adbuy.property": "55/55",
+  "adbuy.tv_address": "44/51",
+  "registration.foreign_principle_name": "174/179",
+  "registration.registrant_name": "293/298",
+  "registration.registration_num": "299/299",
+  "registration.signer_name": "214/221",
+  "registration.signer_title": "77/78"
+ },
+ "gold_adaptations": {
+  "file_date:day_of_month": 8,
+  "file_date:month_d_y": 1,
+  "file_date:d_mon_y": 1,
+  "line_program_start_date:token_expand (per element)": 7,
+  "line_program_end_date:token_expand (per element)": 7,
+  "flight_from:token_expand": 5,
+  "flight_to:token_expand": 7
+ },
+ "line_elements_repaired": 203,
+ "gold_issues": {
+  "file_date:date gold unparseable, no repair": 43,
+  "line_program_start_date:date elements unparseable after repair": 1
+ },
+ "line_elements_unrepaired": 1
+}

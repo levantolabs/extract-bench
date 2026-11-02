@@ -1,0 +1,39 @@
+TAX INVOICE
+
+Stein-Fernandez BILL_TO:
+
+Nathan Rogers A - 29-Anr
+
+348 Mclaughlin Drives Suite 053 Invojce Dater:22-Apr;2021
+Address:0344 Jonathan Club New Crystal, SC 00512 US Due Date : 08-Dec-2006
+Port Patriciashire, PW 72063 US Tel:+(626)632-5947
+
+Email:browntina@example.net
+Site:http://wagner-hoffman.org/
+
+Item Price Quantity Amount
+Standard usually positive. 12.09 5.00 60.45
+Tax shoulder. 49.61 2.00 99.22
+
+T & Conditi F
+
+4. Please cand paynienil within 8 days of receiving this invoice. SUBTOTAL #150:67/5
+
+There will be a 2.5% interest charge per month on late invoices. DISCOUNT(1.4%): (-) 2.24
+
+2. Please include the Invoice number in your payment notes.
+TAX:VAT (6.69%): 10.68 $
+
+Note:Total payment due in 14 days. TOTAL : 163.63 $
+
+Total in words: one hundred and sixty-
+-three point six three
+
+Bank Name State Bank of Texas
+Branch Name Raf CAMP
+
+Bank Account Number 14763070
+Bank Swift Code SBININBB250
+
+Email:houstonjoyce@example.net
+

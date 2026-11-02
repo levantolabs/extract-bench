@@ -1,0 +1,100 @@
+OMB CONTROL NUMBER: 1651-0024
+
+DEPARTMENT OF HOMELAND SECURITY EXPIRATION DATE: 11/30/2025
+
+U.S. Customs and Border Protection
+
+ENTRY/IMMEDIATE DELIVERY
+19 CFR 142.3, 142.16, 142.22, 142.24, 149.3
+
+HEADER INFORMATION
+
+3. IMPORTER NUMBER:
+X IRS SSN CBP Assigned
+
+47 - 3920184-00
+
+2. BOND TYPE:
+Single Transaction Bond
+No Bond Required
+
+1. PORT OF ENTRY:
+
+2704 - Los Angeles, CA
+
+4. IMPORTER NAME AND ADDRESS:
+Name (Last, First, Middle Initial):
+Tanaka, Eric M.
+Street Address:
+9821 Slauson Ave, Suite 220
+
+X| Continuous Bond
+
+City: Pico Rivera State: CA Zip Code: 90660
+
+5. ENTRY NUMBER: 6. BOND VALUE: 7. ENTRY VALUE: 8. CES:
+AB|-23456789-0 $185,000.00 $72,418.00 2704-A
+
+9. ENTRY TYPE: 10. ORIGINATING WHSE ENTRY NUMBER (For Entry Type 22 Only): 11. SURETY CODE:
+01 - Consumption N/A 021
+
+12. PORT OF UNLADING: 13. MODE OF TRANSPORTATION: 14. LOCATION OF GOODS (FIRMS):
+2704 “- 4 a sal Y2 57 = Trapac Long Beach Termina|
+
+Hand Carry Truck
+
+15. G.O. NUMBER:
+G0-2026-04412
+
+16. CONVEYANCE NAME/FTZ ZONE ID:
+
+M/V Ever Globe V.078E
+
+HEADER REFERENCE INFORMATION
+
+17. REFERENCE ID CODE:
+
+PO
+
+19. Self Certification:
+
+18. REFERENCE ID NUMBER (max of 50 characters):
+PO -2026-LMK- 00871
+
+X No
+
+Yes
+
+HEADER PARTIES (MUST APPLY TO ENTIRE ENTRY; IF NOT, SKIP TO LINE INFORMATION)
+
+20. HEADER PARTY 21. HEADER PARTY TYPE NAME (Last, First, Middle Initial) AND ADDRESS: 22. HEADER ID #
+TYPE: (if applicable):
+X Manufacturer Name: Shenzhen Lumitek Optoelectronics Co., Ltd. IRS
+a Street Address: Bus Iding 4, No. 18 Keji South Road . SSN
+uying Party ; : CBP Assigned
+Selling Party City: Shenzhen State: GD Zip Code: 518057 SHLUMS18057
+Manufacturer Name: Pacific Med Tmaging Distributors, Tne. X_ IRS
+X! Consignee Street Address: 2450 Harbor Gateway North SSN ;
+Buying Party CBP Assigned
+Selling Party City: Long Beach State: CA Zip Code: 90810 47 -3920184-00
+Manufacturer Name: Pacific Med Imaging Distributors j Tne. X IRS
+Consignee Street Address: 2450 Harbor Gateway North SSN
+X Buying Party CBP Assigned
+Selling Party City: Long Beach State CA Zip Code: 90310 47-3920184-00
+Manufacturer Name: / umitek HK Wreein 4 Ltd. IRS
+Consignee Street Address: Unit 1204, 12/F, Tower 2, Lippo Centre, 89 Queensway SSN
+Buying Party X CBP Assigned
+XX. Selling Party City: Hong Kong States HK Zip Code: 00000 LUMHK00000!
+CERTIFICATION CBP USE ONLY
+| hereby make application for entry/immediate delivery. | certify that the 27.
+above information is accurate, the bond is sufficient, valid, and current, and CBP examination required.
+that all requirements of 19 CFR Part 142 have been met. Other agency action required, namely:
+23. SIGNATURE OF APPLICANT:
+: Entry rejected, because:
+24. PHONE NUMBER: 25. DATE:
+(562) 555-0173 05/12 [2026
+26. BROKER OR OTHER GOVT. AGENCY USE SIGNATURE:
+’ DELIVERY
+Filer: Harbor Customs Brokers, AUTHORIZED:
+Filer Code ABX DATE:
+CBP Form 3461 (01/25) Page 1 of 8

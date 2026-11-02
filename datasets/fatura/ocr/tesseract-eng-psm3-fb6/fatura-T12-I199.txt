@@ -1,0 +1,47 @@
+INVOICE
+
+INVOICE # 3¥4M90-047
+Invoice Date: 31-Oct-2005,
+Due Date : 26-Oct-2001
+
+Richardson-Davis
+‘Address:6479 Smith Causeway
+East Camerontown, AS 38212 US
+
+Lisaton, ME 99879 US
+Tel:+(984)091.0992
+
+Email:calvin1é@example.org
+Site:http:/Iwww.henderson.info!
+
+ay ry Description Unitprice [Amount
+4.00 261238 | Campaiga discuss range 446 37784
+5.00 186557 __| Between we. 70.19 350.95
+2.00 “416005 | Protect guess condition Crd 128.56
+
+BankName Central Bank of Texas
+Branch Name Raf CAMP.
+
+Bank Account Number 13454385
+
+Bank Swift Code SBININBB250
+
+Note:Total payment due in 14 days.
+
+‘Terms & Conditions
+
+‘SUB_TOTAL : 857.35 $
+DISCOUNT(3.62%): (-) 31.04
+TAXVAT (4.61%): 39.57 $
+
+TOTAL : 866.745
+
+Total in words: eight hundred and sixt-
+y-six point seven four
+
+4. Please send payment within 8 days of receiving this invoice,
+‘There will bo a 2.5% intrest charge per month on late invoices.
+
+2. Please include the Invo
+
+‘number in your payment notes.

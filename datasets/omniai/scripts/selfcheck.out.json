@@ -1,0 +1,48 @@
+{
+ "ok": true,
+ "n_errors": 0,
+ "errors": [],
+ "warnings": [],
+ "n_warnings": 0,
+ "counts": {
+  "fmt_ACCOUNT_STATEMENT": 16,
+  "fmt_BANK_CHECK": 16,
+  "fmt_COMMERCIAL_LEASE_AGREEMENT": 15,
+  "fmt_CREDIT_CARD_STATEMENT": 16,
+  "fmt_DELIVERY_NOTE": 51,
+  "fmt_DRIVER_LICENSE": 4,
+  "fmt_FORM": 7,
+  "fmt_FORM_1040": 16,
+  "fmt_PATIENT_INTAKE": 16,
+  "fmt_PETITION_FORM": 15,
+  "fmt_PHOTO_RECEIPT": 10,
+  "fmt_SCANNED_FORM": 6,
+  "fmt_SHIPPING_INVOICE": 52,
+  "img_jpeg": 151,
+  "img_png": 89,
+  "items": 240,
+  "list_empty": 13,
+  "list_fields": 1187,
+  "list_null": 26,
+  "scalar_fields": 3032,
+  "scalar_multi_acceptable": 152,
+  "scalar_null": 80,
+  "scalar_type_date": 278,
+  "scalar_type_number": 576,
+  "scalar_type_text": 2168,
+  "scalar_type_time": 10
+ },
+ "text_tokens_o200k": {
+  "n": 240,
+  "p50": 1093,
+  "p95": 3702,
+  "max": 6232,
+  "over_16384": 0
+ },
+ "fields_per_item": {
+  "p50": 15,
+  "p95": 30,
+  "max": 37,
+  "total": 4219
+ }
+}

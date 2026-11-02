@@ -1,0 +1,1 @@
+{"id": "realdoc-supply_chain_q165", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 6553.8, "per_image": [{"file": "supply_chain_54.pdf", "page": "p-1.png", "psm_used": 3, "chars": 6236, "ms": 5429.8}], "ts": "2026-10-23T07:26:36+0800"}

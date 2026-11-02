@@ -1,0 +1,36 @@
+Huff-Bryan
+
+‘Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US.
+
+INVOICE
+
+BILL_TO:
+Susan Lopez
+
+480 Frederick Mill Suite 920
+Fordland, FL 04649 US
+
+Tel:+(346)137-0545
+Email:hilljason@example.com
+Site:http:/iwww.meyers.com!
+
+TOTAL : 293.10 USD
+
+Due Date : 26-May-2017
+
+Date: 26-Jul-2009
+
+Description
+
+‘QUANTITY
+
+| Recognize out
+
+3.00
+
+‘SUB_TOTAL : 284.63 USD
+DISCOUNT(3.92%): (-) 11.16
+
+Note: All payments to be made in cash.
+Contact us for queries on these quotations.

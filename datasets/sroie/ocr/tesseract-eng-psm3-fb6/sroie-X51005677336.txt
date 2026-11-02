@@ -1,0 +1,32 @@
+2) 8 02016.
+
+SYARIKAT PERNIAGAAN GIN KEE
+(81109-A)
+NO 290, JALAN AIR PANAS,
+SETAPAK,
+53200, KUALA LUMPUR.
+TEL : 03-40210276
+GST ID : 000750673920
+SIMPLIFIED TAX INVOICE
+
+Doc No : ©€$00013007 Date: 27/01/2018
+Cashier USER Time: 16:04.00
+Salesperson : Ref. :
+lten Qty S/Price Amount Tax _
+1947 30 0.74 22.26 SR
+GUNI BAG
+~ TotalQty 30 £2226
+| Total Sales (Excluding GST) : 21.00
+Discount ° 0.00
+6 TotalGST : 1.26
+Rounding - 0.00
+Toial © 'es (inclusive of GST) : 22.26
+~~ CASH 22.26
+Change : 0.00
+GSTSUMMARY |
+Tax Code % Amt(RM) Tax (RM)
+SR 6 21.00 1.26
+
+Total : 21.00 1.26
+
+GOODS SOLD ARE NOT RETURNABLE THANK YOU

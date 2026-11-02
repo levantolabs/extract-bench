@@ -1,0 +1,33 @@
+TAX INVOICE
+
+Invoice number INV74981373
+Invoice Date: 09-Dec-2022
+
+Ww
+
+“
+
+Barnes, Garcia and Martin,
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US.
+
+GSTIN: 3312345678910221
+
+Bill to:Jennifer Thomas
+5305 Patterson Manor Apt. 495
+Matthewview, MS 48472 US
+Tel:+(248)950-0010
+Email:sweeneylinda@example.org
+Site:https://washington.com/
+
+Description ‘QUANTITY PRICE
+Relate only state, 100 S762
+‘Situation our. 100 s03t
+Friend system bil 200 $016
+
+‘SUB_TOTAL : 100.25 EUR
+
+GST(7%) : 7.02
+
+TOTAL : 102.16 EUR

@@ -1,0 +1,155 @@
+ILLANO
+C
+P
+SaveMor
+Bronberg SaveMor
+Tel: (012) 817 2119
+Vat Reg: 4410166088
+R
+GOLDI FROZEN CHICKEN NE 1KG
+39.99 A
+Cl
+JABA S/PWD CURRY
+15GR
+2
+@ 1.49
+2.98 A
+OR
+SAVEMOR CARRIER
+I'S
+1.16 A
+TOTAL
+FOR 4 ITEMS
+44.13
+Co
+TENDERED Cash
+50.00
+CHANGE
+Cash
+5.90
+8
+ROUNDING
+0.03
+ROUNDED TOTAL
+44.10
+TAX INVOICE
+St
+VAT rate
+excl.
+TAX
+incl.
+Va
+15.00%
+38.37
+5.76
+44.13 A
+To
+SLIP /
+TILL /
+CASHIER /
+DATE /
+TIME
+9958
+004
+104
+04.04.24
+15:51
+Ro
+CASHIER NAME: POS 4
+Thank you for your support!
+Please call again
+ILLANO
+C
+P
+SaveMor
+Bronberg
+SaveMor
+Tel:
+(012) 817 2119
+Vat
+Reg:
+4410166088
+R
+GOLDI
+FROZEN
+CHICKEN
+NE
+1KG
+39.99
+A
+Cl
+JABA
+S/PWD
+CURRY
+15GR
+2
+@
+1.49
+2.98
+A
+OR
+SAVEMOR
+CARRIER
+I'S
+1.16
+A
+TOTAL
+FOR
+4
+ITEMS
+44.13
+Co
+TENDERED
+Cash
+50.00
+CHANGE
+Cash
+5.90
+8
+ROUNDING
+0.03
+ROUNDED
+TOTAL
+44.10
+TAX
+INVOICE
+St
+VAT
+rate
+excl.
+TAX
+incl.
+Va
+15.00%
+38.37
+5.76
+44.13
+A
+To
+SLIP
+/
+TILL
+/
+CASHIER
+/
+DATE
+/
+TIME
+9958
+004
+104
+04.04.24
+15:51
+Ro
+CASHIER
+NAME:
+POS
+4
+Thank
+you
+for
+your
+support!
+Please
+call
+again

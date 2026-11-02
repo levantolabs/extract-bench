@@ -1,0 +1,2 @@
+gold as prediction: {"n_items": 200, "n_fields": 573, "n_gold_keys_all": 589, "field_acc": 1.0, "field_acc_cov": 0.9728353140916808, "question_acc": 1.0, "question_acc_strict": 0.945}
+all-null prediction: {"n_items": 200, "n_fields": 573, "n_gold_keys_all": 589, "field_acc": 0.06806282722513089, "field_acc_cov": 0.06621392190152801, "question_acc": 0.01, "question_acc_strict": 0.005}

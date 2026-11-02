@@ -1,0 +1,824 @@
+{
+ "vrdu-adbuy-05998648-2c87ddef": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#26803072', gold '26803072'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-0892f433-6fba144f": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#26900215', gold '26900215'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  },
+  "tv_address": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku '125 West 55th St, New York, NY 10019' = gold plus comma, scored 0; clairic street only.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-0be55a7b-98d5708d": {},
+ "vrdu-adbuy-1460c595-ceeead22": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#2488189', gold '2488189'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-15262983-50c8f161": {},
+ "vrdu-adbuy-1674e8d0-157cb67f": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#4260086', gold '4260086'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-1d2bcff2-02149fa9": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#665361', gold '665361'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-23a5de85-d26addaf": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#1982847', gold '1982847'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-2accece9-ef5da0c5": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#2252378', gold '2252378'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-3f02d9ab-1b62b97a": {
+  "agency": {
+   "flag": "gold_wrong",
+   "note": "Gold null but contract 'And:' block names 'TBC Advertising Inc.' (Attention: Valerie Holstein) as agency; all arms agree.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-416441-5d262fb2": {
+  "agency": {
+   "flag": "gold_wrong",
+   "note": "Gold null but contract 'And:' block names 'Mentzer Media Services, Inc.' (Towson MD) as agency; all arms agree.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-42d9bc09-adb56361": {
+  "line_program_desc": {
+   "flag": "ambiguous",
+   "note": "Gold merges inventory code + program line ('Early News Weekday (1M Erie News Now @ 5p'); arms gave code + time '5p-530p'. Both cell mashes.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-462537-c5a26922": {
+  "tv_address": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku '12315 Collection Center Drive, Chicago, IL 60693' = gold plus a comma, scored 0; others street only.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-482663-588dac3d": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#963706', gold '963706'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-493546-a5c2e3cb": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#48952', gold '48952'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  },
+  "property": {
+   "flag": "ambiguous",
+   "note": "Property 'WHDH-TV' vs haiku 'WHDH' call letters; instructions allow call letters or name.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-494008-857317b2": {
+  "line_program_start_date": {
+   "flag": "ambiguous",
+   "note": "Doc has 10 contract lines (22,24,26-preempt,28..37); haiku gives 10 incl. preempted line 26 (10/24); gold 9 drops it. Line-count choice.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-4b15ddfe-a8cd333b": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#1318609', gold '1318609'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-4c83f66c-54be3c5d": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#1633344', gold '1633344'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  },
+  "tv_address": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku '5 Television Dr, Bridgeport, WV 26330' = gold plus comma, scored 0.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-6135cac3-c8dcfb0c": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#271089', gold '271089'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-71635959-dd9915c2": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#116419', gold '116419'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-749e7f7f-4f5fc385": {
+  "agency": {
+   "flag": "gold_wrong",
+   "note": "Gold null but credit memo Billing Address names 'Screen Strategies Media' (Attention: Jim Nelson); agency present.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-7e00d875-6c5fe582": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#1342418', gold '1342418'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-99b2e286-ee2a0721": {},
+ "vrdu-adbuy-ac511bf9-fe58cb66": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#26780404', gold '26780404'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  },
+  "line_program_desc": {
+   "flag": "ambiguous",
+   "note": "Instructions allow 'program description or daypart'; haiku 'Good Morning America M-F MSD 2 8a-9a' adds daypart; gold program only.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-be8e0e18-f98421ce": {
+  "agency": {
+   "flag": "gold_wrong",
+   "note": "Gold null but doc Billing Address block names 'Assembly Media' (Attention: Assembly National Broadcast); agency clearly present.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-cda5811d-fe5aaa7a": {
+  "line_sub_amount": {
+   "flag": "ambiguous",
+   "note": "Gold has 19 amounts, omits line 12.2 ($1,600.00, one $ cell); haiku has 20 = gold + that line in order; gemini reads it as 0. List-count strictness.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-e8afd93c-36f2b7ef": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#387060', gold '387060'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-e9494981-7d4e9b62": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#1400029', gold '1400029'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  },
+  "line_program_desc": {
+   "flag": "ambiguous",
+   "note": "Line row OCR truncated 'Early Morn M-Sun Rotato'; spot row says 'Rotator' (haiku/gemini). Surface variant; scorer exact on truncation.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-f1ebf26b-54ac6a9d": {
+  "agency": {
+   "flag": "gold_wrong",
+   "note": "Gold null but invoice Billing Address names 'Blue West Media' (Attention: BlueWest Media), Denver; agency present.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-adbuy-f25a6d9e-15ee1a2b": {
+  "contract_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#1384047', gold '1384047'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-adbuy-fdf168ea-f6d1910a": {},
+ "vrdu-reg-19681001-VisitDenmark-Amendment-Amendmen-bed6e6aa": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['25 day of Octolico 68 168']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19730401-India-Tourism-New-York-Amendmen-ab247fb6": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: [\"28 day of MARCH 1973 VINICHET A. MAGLIA', 'JR.\"]",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19730601-Bermuda-Tourism-Authority-Amend-ef4b8536": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['_ day of 9 DONATO CECCIO Notary Public, State of New']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19741101-Cayman-Islands-Department-of-To-cc102186": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['8th November day of 19 74']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19760201-Italian-Government-Tourist-Boar-94914714": {
+  "registration_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#1884', gold '1884'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19760701-Tourism-Authority-of-Thailand-N-5213a89e": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['16 day of 19 Jury 766']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19770401-World-Zionist-Organization-Amer-2fddc336": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['1927 16th day of']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19790101-IDA-Ireland-Amendment-Amendment-517eda51": {
+  "file_date": {
+   "flag": "ambiguous",
+   "note": "scorer: only date is notary 'SWORN TO BEFORE ME JAN - 2 1979'; haiku/gemini 1979-01-02 scored 0 (gold surface form unparsed). | auto: unparseable_date_gold: no gold surface form parses as a date: ['JAN - 2 1979']",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-19790801-Far-East-Trade-Services-Inc-Ame-8e193f07": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['19 79 . day of 419STEAL']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19791001-Aruba-Tourism-Authority-Amendme-766b6c09": {
+  "file_date": {
+   "flag": "gold_wrong",
+   "note": "Signature date 'October 9, 1979' (Willy Walter CHAI); '11 day of October' is notary jurat; '1975' is stray OCR. Gold 1975-10-11 wrong; all arms 1979-10-09.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-19810201-Tourism-Australia-Amendment-Ame-9f39d5a0": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['this 10th 10th day of OFFICIAL SEAL DOROTHY ROSENBERG']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19830601-Hong-Kong-Tourism-Board-Amendme-84661a5b": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['27th 1983 day of may']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19840401-Garvey-Schubert-Barer-Amendment-39f2e726": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['the day of April']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19850801-St-Lucia-Tourist-Board-Amendmen-ed35fdb9": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['15+9 August 1,1985 day of']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19871001-Akin-Gump-Strauss-Hauer-Feld-LL-78a49a75": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['7th day of _ October .1987']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19890501-Akin-Gump-Strauss-Hauer-Feld-LL-03aaa62d": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['. 6 19 day of May 19.89']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19900101-Arnold-Porter-Kaye-Scholer-LLP-b35bbc54": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['25thday of January ,19_90']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19901201-JETRO-San-Francisco-Disseminati-f004f3d7": {
+  "registration_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#1813', gold '1813'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19910601-JETRO-Houston-Dissemination-Rep-63061d71": {
+  "foreign_principle_name": {
+   "flag": "ambiguous",
+   "note": "Gold appends 'Tokyo, Japan'; haiku 'Japan External Trade Organization'. Span boundary (sage/clairic 'ImpetUS Japan' wrong).",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-19920601-Hogan-Lovells-US-LLP-Disseminat-3e92e733": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['1992 June 12,']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19920601-Scottish-Enterprise-Disseminati-6f500d24": {
+  "foreign_principle_name": {
+   "flag": "ambiguous",
+   "note": "Gold appends 'Glasgow, Scotland'; all text arms gave 'Scottish Enterprise' (the principal name). Span boundary.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-19920701-Akin-Gump-Strauss-Hauer-Feld-LL-f798535e": {
+  "file_date": {
+   "flag": "gold_wrong",
+   "note": "Gold 'day of July 19_92' is OCR debris, not a parseable date (no day number). | auto: unparseable_date_gold: no gold surface form parses as a date: ['day of July 19_92']",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-19921101-Crowell-Moring-International-Lt-e92c596a": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['4/4 and November 19.92 day of']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19930301-Hogan-Lovells-US-LLP-Amendment-983739b0": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['28th day of']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19930401-JETRO-New-York-Dissemination-Re-ef55151a": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['4193']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19930601-Crowell-Moring-International-Lt-00130496": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['28th day of June ,19_93_']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19930801-Ethiopian-People-s-Revolutionar-8f2d4af2": {
+  "foreign_principle_name": {
+   "flag": "gold_wrong",
+   "note": "Gold 'transmitted. ETHIOPIAN PEOPLES REVOLUTIONARY PARTY' has prefix debris 'transmitted.'; haiku/gemini gave clean name.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-19940914-JETRO-Los-Angeles-Dissemination-d68878be": {
+  "foreign_principle_name": {
+   "flag": "ambiguous",
+   "note": "Gold appends location 'Tokyo, Japan'; haiku 'Japan External Trade Organization' is the principal's name. Span boundary.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-19960118-JETRO-Houston-Dissemination-Rep-beb31649": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['01/-08/96']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19970815-Bermuda-Tourism-Authority-Amend-919a0cb3": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['14th day of Ayust 1,199']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-19980812-Reed-T-Dean-Amendment-Amendment-a4d96df7": {
+  "file_date": {
+   "flag": "gold_wrong",
+   "note": "Gold 'Ava. 12, 1998' is OCR-garbled (Aug. 12, 1998) and unparseable; haiku/gemini 1998-08-12. | auto: unparseable_date_gold: no gold surface form parses as a date: ['Ava. 12, 1998']",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20001121-Daniel-J-Edelman-Inc-Amendment-43f0762a": {
+  "foreign_principle_name": {
+   "flag": "gold_wrong",
+   "note": "Gold null but amendment item 5 (new address of client) lists 'Korea International Trade Association' as the principal; all arms agree.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20010409-International-Registries-Inc-Am-9f357bf4": {
+  "registration_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#4533', gold '4533'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  },
+  "signer_name": {
+   "flag": "gold_wrong",
+   "note": "Gold 'Phillip Ege Egeiston' = signature scrawl + OCR of typed name; typed name is 'Phillip Egelston' (clairic/haiku/gemini).",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20020909-Garvey-Schubert-Barer-Amendment-74478b78": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['Tept 9, 2002']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20080417-CMGRP-Inc-Jensen-Paul-Short-For-19b6e94f": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (143 chars): 'Government of the Bahamas; Ministry of TRade and Industry Arab Republic of Egypt/Alexandria Cotton E'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20080821-Ketchum-Inc-NY-Jeavons-Kathleen-5008db2b": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['08/1 18/08 Date of']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20080918-Squire-Patton-Boggs-LLP-Boggs-T-405d0c80": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (252 chars): \"By this filing, the Embassy of India. Also, The Embassy of the People's Republic of China; The Gover\"",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20080918-Squire-Patton-Boggs-LLP-Varma-A-d5cf7f98": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (36 chars): 'By this filing, the Embassy of India'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20090402-JETRO-New-York-Hikino-Teruki-Sh-248b7e75": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['03-31 - 2009']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20090424-BGR-Government-Affairs-LLC-Coch-8f30f94b": {
+  "file_date": {
+   "flag": "gold_wrong",
+   "note": "Gold '4/21/0 (Date of signature)' is truncated date + label debris; arms 2009-04-21. | auto: unparseable_date_gold: no gold surface form parses as a date: ['4/21/0 (Date of signature)']",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20090424-Raben-Group-LLC-Huffman-Kathari-06733b33": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['April vil 17 2003']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20090522-Invest-Northern-Ireland-Murray-b08b69a3": {
+  "signer_name": {
+   "flag": "gold_wrong",
+   "note": "Gold 'A. Murray (Signature)' includes form-label debris '(Signature)'; arms gave 'A. Murray' / 'AENGUS MURRAY'.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20090624-MSLGROUP-Americas-Inc-Pietras-S-bdedb8c3": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (137 chars): 'The Kingdom of Saudi Arabia; Kurdistan Regional Government (Kurdistan); ited Mexican St (Mexico); Re'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20090925-CMGRP-Inc-Kline-Laura-Short-For-abc22842": {
+  "foreign_principle_name": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku lists all 4 principals separated by ';', same content as gold; others gave first or last three. | auto: whole_cell_gold: gold is the whole form cell (126 chars): 'Government of the Federal District (Mexico City) Temasek Holdings Government of the Bahamas Bahrain '",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20100105-Akin-Gump-Strauss-Hauer-Feld-LL-fcaaba76": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['30 (Date of']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20100119-Invest-Northern-Ireland-McKeown-9e139113": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['_01-14-2009.']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20100222-Daniel-J-Edelman-Inc-Harris-Had-7121dd8b": {
+  "signer_name": {
+   "flag": "gold_wrong",
+   "note": "Gold null but EXECUTION block has signature 'Harris' (Short form filer Hadley Harris, 12/02/09); signer present.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20100929-JETRO-New-York-Mizutani-Koichi-5730e945": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['2.']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20101029-Muttahida-Quami-Movement-USA-Si-19729741": {
+  "registrant_name": {
+   "flag": "ambiguous",
+   "note": "Span boundary: doc 'Muttahida Quami Movement USA (District of Columbia Non-Profit Corporation)'; sage gave name without parenthetical.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20110103-Representative-of-the-Turkish-R-76af112c": {
+  "signer_title": {
+   "flag": "ambiguous",
+   "note": "Doc: 'DILEK YANUZ YANIK Representative | Director'; title split over 2 lines, 'Representative' (sage/haiku) or 'Director' (clairic) are partial readings.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20110128-Podesta-Group-Inc-Clark-Christi-648efe8d": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (128 chars): 'By this filing: National Security Council of Georgia By previous filings: Republic of India, Hong Ko'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20110411-BGR-Government-Affairs-LLC-Ture-6bbb102c": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['11']",
+   "source": "auto_vrdu"
+  },
+  "foreign_principle_name": {
+   "flag": "ambiguous",
+   "note": "Gold concatenates several principals (BGR Gabara..., Kurdistan RG, India, Qatar); sage/haiku gave first principal. List partly right. | auto: whole_cell_gold: gold is the whole form cell (175 chars): 'BGR Gabara, Ltd. (for the Embassy of Kazakhstan London, United Kingdom) Kurdistan Regional Governmen'",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20110623-Cayman-Islands-Department-of-To-cc08a770": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['6/14/7']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20110729-Quebec-Government-Office-Abenso-bff29517": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (188 chars): 'Dept. of National Affairs; Dept. of Economic Affairs; Dept. of Communications ; Dept. of Regional & '",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20110908-Squire-Patton-Boggs-LLP-Waltz-D-0ea2497f": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (62 chars): 'By this filing: Interim Transitional National Council of Libya'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20120608-Ketchum-Inc-NY-Knox-Lauren-Pete-fbccac64": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['5-23']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20121001-BGR-Government-Affairs-LLC-Mant-6b2d3ea2": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (135 chars): 'Royal Thai Embassy, Washington D.C., Thaksin Shinawatra, Kurdistan Regional Government (formerly kno'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20130320-Podesta-Group-Inc-Chang-Benjami-78faa8cb": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['8/13']",
+   "source": "auto_vrdu"
+  },
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (166 chars): 'By this filing: (1) Republic of Iraq; (2) Embassy of the Republic of Azerbaijan. By previous filings'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20130716-Van-Scoyoc-Associates-Inc-Gingr-e1fc2ea1": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['7/13']",
+   "source": "auto_vrdu"
+  },
+  "foreign_principle_name": {
+   "flag": "gold_wrong",
+   "note": "Gold 'By this filing: Embassy of Ecuador' includes label prefix; arms 'Embassy of Ecuador'. | auto: whole_cell_gold: gold is the whole form cell (34 chars): 'By this filing: Embassy of Ecuador'",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20131211-Dickens-Madson-Canada-Inc-Ben-M-1349b629": {
+  "foreign_principle_name": {
+   "flag": "gold_wrong",
+   "note": "Doc item 10 lists 'Cyrenaica Transitional Council Political Bureau of Cyrenaica | Ibrihim Said al-Jathran | Usama Buera'; gold drops middle words and Buera.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20140924-Kemp-Goldberg-Partners-LLC-Phil-d68bffb1": {
+  "file_date": {
+   "flag": "gold_wrong",
+   "note": "Gold '9,24.2014' is OCR-garbled, unparseable; sage/haiku 2014-09-24. | auto: unparseable_date_gold: no gold surface form parses as a date: ['9,24.2014']",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20141006-Sorini-Samet-Associates-LLC-Cos-f01ef3d2": {
+  "foreign_principle_name": {
+   "flag": "ambiguous",
+   "note": "Two principals; gold lists both '1) CONGEP... 2) Ministry of Economy...'; text arms gave first one only. Field singular, list partly right. | auto: whole_cell_gold: gold is the whole form cell (110 chars): '1) CONGEP on behalf of Dept of Trade & Industry, Philippines 2) Ministry of Economy and Finance (thr'",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20150317-Squire-Patton-Boggs-LLP-McGrain-7a02c067": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (47 chars): 'By this registration: The Government of Kosovo.'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20150416-Daschle-Group-LLC-Daschle-Natha-24f9ec69": {
+  "registrant_name": {
+   "flag": "ambiguous",
+   "note": "Short form: item 1 Name 'Nathan Daschle' (filer), item 8 primary registrant 'The Daschle Group, LLC'. Both readings fit 'registrant'.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20150603-Fleishman-Hillard-Inc-Amendment-7d2831fd": {
+  "signer_title": {
+   "flag": "gold_wrong",
+   "note": "Gold ends with stray 'Sr.' (OCR line '& Corporate Controller | Sr.'); haiku 'Vice President, Sr. Partner & Corporate Controller' scored 0.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20160210-Squire-Patton-Boggs-LLP-Garrett-688a7250": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (45 chars): 'By this filing the Government of Saint Lucia.'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20160516-Hogan-Lovells-US-LLP-Stanton-Jo-5c2cebfe": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (326 chars): 'Andra AP-fonden (AP2) Swedish national pension fund of the Government of Sweden; Forsta AP-fonden (A'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20160727-Quebec-Government-Office-Malin-5306ba1a": {
+  "file_date": {
+   "flag": "ambiguous",
+   "note": "scorer: doc '/s/ Malin, Daniel eSigned Juillet 26, 2016 (Date of signature)'; French month gold unparsed; all arms 2016-07-26. | auto: unparseable_date_gold: no gold surface form parses as a date: ['Juillet 26, 2016']",
+   "source": "hand_audit"
+  },
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (214 chars): 'Quebec Government (Ministry of International Relations); National Affairs; Governmental Relations an'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20160810-West-Wing-Writers-LLC-Farber-An-5fa36155": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['Auguit9.2016']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20161114-Squire-Patton-Boggs-LLP-Newberr-217ab354": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (162 chars): 'By this filing: The Republic of Croatia, By prior filings: 1) The Palestinian Authority; and 2) The '",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20170112-Podesta-Group-Inc-Thompson-Dana-dedbf511": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (168 chars): 'By this filing (1) Center for Studies and Media Affairs at the Saudi Royal Court, (2) Embassy of the'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20170130-Burson-Marsteller-LLC-Washingto-c18eabbb": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['(Date of signature']",
+   "source": "auto_vrdu"
+  },
+  "signer_name": {
+   "flag": "gold_wrong",
+   "note": "Gold 'belief. Catalie frantinery (Signature' is OCR debris of a signature + labels; gemini reads 'Natalie Martinez'.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20170222-Squire-Patton-Boggs-LLP-Savelie-75e54b6f": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (207 chars): 'By this registration: The High Negotiations Committee of the Syrian Opposition. By prior registratio'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20170306-Friends-of-Sinn-Fein-Inc-Amendm-88f52d94": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['FebruaryFebruary 16, 2017']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20170424-JETRO-San-Francisco-Wood-Miki-S-5e02268b": {
+  "registrant_name": {
+   "flag": "gold_wrong",
+   "note": "Gold null but Short-Form item 1 Name: 'Miki Wood' (primary registrant JETRO); registrant name is present.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20170522-Nelson-Mullins-Riley-Scarboroug-6caa6c5d": {
+  "file_date": {
+   "flag": "unparseable_date_gold",
+   "note": "no gold surface form parses as a date: ['may 22, (Date of signature)']",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20170601-Squire-Patton-Boggs-LLP-Norman-d84a780d": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (62 chars): 'By this registration: The Government of the Republic of Sudan.'",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20170626-Sorini-Samet-Associates-LLC-Sor-16d419bf": {
+  "foreign_principle_name": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku 'Embassy of Japan; Ministry of Industry and Commerce of the Republic of Haiti (through ADIH)' = gold content, different list separator. | auto: whole_cell_gold: gold is the whole form cell (96 chars): '1) Embassy of Japan 2) Ministry of Industry and Commerce of the Republic of Haiti (through ADIH)'",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20180129-FTI-Consulting-SC-Inc-Pultorak-82a3a60f": {
+  "registrant_name": {
+   "flag": "gold_wrong",
+   "note": "Gold ': ´FTI Consulting, Inc.' has OCR prefix debris; sage_fast/clairic/haiku 'FTI Consulting, Inc.'.",
+   "source": "hand_audit"
+  }
+ },
+ "vrdu-reg-20180227-Sonoran-Policy-Group-LLC-Nehrin-7d49159c": {
+  "registration_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#6399', gold '6399'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20180302-Avenue-Strategies-Global-LLC-Es-5505d3c6": {
+  "foreign_principle_name": {
+   "flag": "whole_cell_gold",
+   "note": "gold is the whole form cell (114 chars): 'By this filing: Circle of Democrats and Republicans of Congo By previous filing: The Embassy of the '",
+   "source": "auto_vrdu"
+  }
+ },
+ "vrdu-reg-20180413-Livingston-Group-LLC-Livingston-2a120db8": {
+  "registration_num": {
+   "flag": "hash_prefixed_id",
+   "note": "doc shows '#6344', gold '6344'; '#' breaks exact_norm",
+   "source": "auto_vrdu"
+  }
+ }
+}

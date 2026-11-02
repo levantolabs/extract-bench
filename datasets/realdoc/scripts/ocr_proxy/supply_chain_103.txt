@@ -1,0 +1,82 @@
+LINE INFORMATION
+
+31. LINE 1 HTS CODE:
+#1 8708.70.6060
+
+31A. Country of Mining: Mexico (MX) [_] Disclaimed
+31B. Country of Harvest: Disclaimed
+
+#2
+
+31C. Vessel Flag: N/A (truck shipment)
+
+31D. Vessel Name:
+
+31E. Vessel International Maritime Organization (IMO) Number:
+
+N/A (truck) - Tractor TXP-4421 N/A
+31F. Method of Harvest: Disclaimed
+31. LINE 2 HTS CODE: 31A. Country of Mining: Mexico (MX) [_] Disclaimed
+#1 8708.70.6060 31B. Country of Harvest: Disclaimed
+
+#2
+
+31C. Vessel Flag: N/A (truck shipment)
+
+31D. Vessel Name:
+
+31E. Vessel International Maritime Organization (IMO) Number:
+
+N/A (truck) - Tractor TXP-4421 N/A
+31F. Method of Harvest: Disclaimed
+31. LINE 3 HTS CODE: 31A. Country of Mining: [_] Disclaimed
+#1 31B. Country of Harvest: [_] Disclaimed
+#2
+
+31C. Vessel Flag:
+
+31D. Vessel Name:
+
+31E. Vessel International Maritime Organization (IMO) Number:
+
+31F. Method of Harvest:
+
+31. LINE 4 HTS CODE: 31A. Country of Mining: [_] Disclaimed
+#1 31B. Country of Harvest: [_] Disclaimed
+#2
+
+31C. Vessel Flag:
+
+31D. Vessel Name:
+
+31E. Vessel International Maritime Organization (IMO) Number:
+
+31F. Method of Harvest:
+
+31. LINE 5 HTS CODE: 31A. Country of Mining: [_] Disclaimed
+#1 31B. Country of Harvest: [_] Disclaimed
+#2
+
+31C. Vessel Flag:
+
+31D. Vessel Name:
+
+31E. Vessel International Maritime Organization (IMO) Number:
+
+31F. Method of Harvest:
+
+31. LINE 6 HTS CODE: 31A. Country of Mining: [_] Disclaimed
+#1 31B. Country of Harvest: [_] Disclaimed
+#2
+
+31C. Vessel Flag:
+
+31D. Vessel Name:
+
+31E. Vessel International Maritime Organization (IMO) Number:
+
+31F. Method of Harvest:
+
+CBP Form 7501 (02/26)
+
+Page 3 of 27

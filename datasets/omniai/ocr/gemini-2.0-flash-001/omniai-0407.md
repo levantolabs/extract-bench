@@ -1,0 +1,28 @@
+```markdown
+NEW YORK STATE
+LEARNER PERMIT
+UNDER 21
+ENHANCED
+<logo>USA</logo>
+Mark JF. Ochroeder
+Commissioner of Motor Vehicles
+ID 987 654 321
+Class DJ
+Sex F Eyes BLU
+Height 5'-08"
+DOB 10/31/2003
+Issued 03/07/2022
+Expires 10/31/2026
+E NONE
+R NONE
+Michelle M Motorist
+MOTORIST
+MICHELLE, MARIE
+2345 ANYWHERE STREET
+ALBANY, NY 12222
+Organ Donor
+U18 UNTIL
+OCT 21
+U21 UNTIL
+OCT 24
+```

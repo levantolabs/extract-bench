@@ -1,0 +1,892 @@
+{
+ "date": "2026-10-23",
+ "auditor": "Claude Opus 5.5, not blind to gold, single pass [MY JUDGEMENT]",
+ "receipts": [
+  "cord-dev-029",
+  "cord-dev-049",
+  "cord-test-009",
+  "cord-test-037",
+  "cord-test-039",
+  "cord-test-057",
+  "cord-test-076",
+  "cord-dev-006",
+  "cord-dev-025",
+  "cord-dev-039",
+  "cord-dev-044",
+  "cord-dev-068",
+  "cord-dev-085",
+  "cord-test-007",
+  "cord-test-051",
+  "cord-test-068",
+  "cord-test-079",
+  "cord-test-082",
+  "cord-test-092"
+ ],
+ "n_receipts": 19,
+ "n_null_slots": 107,
+ "verdict_counts": {
+  "absent": 98,
+  "masked": 5,
+  "ambiguous": 2,
+  "wrong_null": 1,
+  "unclear": 1
+ },
+ "slots": [
+  {
+   "id": "cord-dev-029",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-029",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-029",
+   "field": "total_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-029",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-029",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-049",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-049",
+   "field": "service_price",
+   "verdict": "masked",
+   "value_on_image": null,
+   "note": "a blurred line between SubTTL and TAX",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-049",
+   "field": "total_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-049",
+   "field": "changeprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-049",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-049",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-009",
+   "field": "discount_price",
+   "verdict": "ambiguous",
+   "value_on_image": 0,
+   "note": "'Discount (0 %)' printed with no amount; CORD labels only the key word (is_key=1), so gt_parse has no discount_price. 0 is a defensible reading",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-009",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-009",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-009",
+   "field": "total_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-009",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-009",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-037",
+   "field": "subtotal_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-037",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-037",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-037",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-037",
+   "field": "total_price",
+   "verdict": "wrong_null",
+   "value_on_image": 20000,
+   "note": "'TOTAL 20.000' printed under the item line; CORD labels it total.total_etc",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-037",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-037",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-039",
+   "field": "subtotal_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-039",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-039",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-039",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-039",
+   "field": "total_price",
+   "verdict": "unclear",
+   "value_on_image": null,
+   "note": "a 'TOTAL HRG' line is cut off at the bottom edge of the photo; amount not legible",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-039",
+   "field": "cashprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-039",
+   "field": "changeprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-057",
+   "field": "subtotal_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-057",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-057",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-057",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-057",
+   "field": "total_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-057",
+   "field": "changeprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-057",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-057",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-076",
+   "field": "subtotal_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-076",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-076",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-076",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-076",
+   "field": "total_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-076",
+   "field": "changeprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-076",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-test-076",
+   "field": "menuqty_cnt",
+   "verdict": "ambiguous",
+   "value_on_image": null,
+   "note": "'ITEMS 5' printed; CORD labels it total.menutype_cnt ('50 -')",
+   "stratum": "total_price_null"
+  },
+  {
+   "id": "cord-dev-006",
+   "field": "subtotal_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-006",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-006",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-006",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-006",
+   "field": "cashprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-006",
+   "field": "changeprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-006",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-025",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-025",
+   "field": "cashprice",
+   "verdict": "masked",
+   "value_on_image": null,
+   "note": "blurred payment line after Total",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-025",
+   "field": "changeprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-025",
+   "field": "creditcardprice",
+   "verdict": "masked",
+   "value_on_image": null,
+   "note": "blurred payment line after Total",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-039",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-039",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-039",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-044",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-044",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-044",
+   "field": "cashprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-044",
+   "field": "changeprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-044",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-068",
+   "field": "subtotal_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-068",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-068",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-068",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-068",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-068",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-085",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-085",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-085",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-dev-085",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-007",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-007",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-007",
+   "field": "changeprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-007",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-007",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-051",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-051",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-051",
+   "field": "cashprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-051",
+   "field": "changeprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-068",
+   "field": "subtotal_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-068",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-068",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-068",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-068",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-068",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-079",
+   "field": "subtotal_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-079",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-079",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-079",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-079",
+   "field": "changeprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-079",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-082",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-082",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-082",
+   "field": "tax_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-082",
+   "field": "cashprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-082",
+   "field": "menuqty_cnt",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-092",
+   "field": "subtotal_price",
+   "verdict": "masked",
+   "value_on_image": null,
+   "note": "two blurred lines between item and TOTAL",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-092",
+   "field": "discount_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-092",
+   "field": "service_price",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-092",
+   "field": "tax_price",
+   "verdict": "masked",
+   "value_on_image": null,
+   "note": "two blurred lines between item and TOTAL",
+   "stratum": "random_seed20"
+  },
+  {
+   "id": "cord-test-092",
+   "field": "creditcardprice",
+   "verdict": "absent",
+   "value_on_image": null,
+   "note": "",
+   "stratum": "random_seed20"
+  }
+ ]
+}

@@ -1,0 +1,44 @@
+VW
+
+4
+
+Barnes, Garcia and Martin
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 3312345678910221
+
+Bill to:Megan Cardenas
+
+1609 Charles Glens Suite 029
+South Robert, IL 85116 US
+Tel:+(074)373-7411
+Email:fross@example.com
+Site:http://www.yates.net/
+
+Description
+" Authority bit.
+| This series.
+| Officer.
+
+QUANTITY
+3.00
+4.00
+2.00
+
+TAX INVOICE
+
+INVOICE # 1662-250
+Date: 02-Jun-1998
+
+| PRICE
+| $29.13
+| $76.66
+| $43.22
+
+SUB_TOTAL : 480.47 USD
+
+GST(7%) : 33.63
+
+TOTAL : 502.79 USD

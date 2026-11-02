@@ -1,0 +1,101 @@
+{
+ "n_sample": 100,
+ "models": {
+  "gpt-4o_november_2024_prompt2.json": {
+   "all_merged_rows": 1000,
+   "all_acc_ours": 0.969,
+   "all_acc_published": 0.969,
+   "all_records_published": 1000,
+   "reproduces_published": true,
+   "all_acc_squashed": 0.983,
+   "sample_rows_merged": 100,
+   "sample_rows_distinct": 100,
+   "sample_acc_repo_matcher": 0.94,
+   "sample_acc_squashed": 0.96
+  },
+  "gpt-4o-mini_november_2024.json": {
+   "all_merged_rows": 1000,
+   "all_acc_ours": 0.969,
+   "all_acc_published": 0.969,
+   "all_records_published": 1000,
+   "reproduces_published": true,
+   "all_acc_squashed": 0.98,
+   "sample_rows_merged": 100,
+   "sample_rows_distinct": 100,
+   "sample_acc_repo_matcher": 0.94,
+   "sample_acc_squashed": 0.96
+  },
+  "claude37_sonnet_november_2024_prompt2.json": {
+   "all_merged_rows": 1000,
+   "all_acc_ours": 0.964,
+   "all_acc_published": 0.964,
+   "all_records_published": 1000,
+   "reproduces_published": true,
+   "all_acc_squashed": 0.984,
+   "sample_rows_merged": 100,
+   "sample_rows_distinct": 100,
+   "sample_acc_repo_matcher": 0.96,
+   "sample_acc_squashed": 0.98
+  },
+  "gemini_25_november_2024_prompt2.json": {
+   "all_merged_rows": 1000,
+   "all_acc_ours": 0.962,
+   "all_acc_published": 0.962,
+   "all_records_published": 1000,
+   "reproduces_published": true,
+   "all_acc_squashed": 0.985,
+   "sample_rows_merged": 100,
+   "sample_rows_distinct": 100,
+   "sample_acc_repo_matcher": 0.96,
+   "sample_acc_squashed": 0.98
+  },
+  "claude35_haiku_november_2024_prompt2.json": {
+   "all_merged_rows": 1000,
+   "all_acc_ours": 0.956,
+   "all_acc_published": 0.956,
+   "all_records_published": 1000,
+   "reproduces_published": true,
+   "all_acc_squashed": 0.968,
+   "sample_rows_merged": 100,
+   "sample_rows_distinct": 100,
+   "sample_acc_repo_matcher": 0.94,
+   "sample_acc_squashed": 0.96
+  },
+  "gpt_41_mini_november_2024_prompt2.json": {
+   "all_merged_rows": 1000,
+   "all_acc_ours": 0.932,
+   "all_acc_published": 0.932,
+   "all_records_published": 1000,
+   "reproduces_published": true,
+   "all_acc_squashed": 0.981,
+   "sample_rows_merged": 100,
+   "sample_rows_distinct": 100,
+   "sample_acc_repo_matcher": 0.93,
+   "sample_acc_squashed": 0.97
+  },
+  "claude_haiku_45_november_2024_prompt2.json": {
+   "all_merged_rows": 1000,
+   "all_acc_ours": 0.929,
+   "all_acc_published": 0.929,
+   "all_records_published": 1000,
+   "reproduces_published": true,
+   "all_acc_squashed": 0.951,
+   "sample_rows_merged": 100,
+   "sample_rows_distinct": 100,
+   "sample_acc_repo_matcher": 0.91,
+   "sample_acc_squashed": 0.93
+  },
+  "gpt_41_nano_november_2024_prompt2.json": {
+   "all_merged_rows": 1000,
+   "all_acc_ours": 0.884,
+   "all_acc_published": 0.884,
+   "all_records_published": 1000,
+   "reproduces_published": true,
+   "all_acc_squashed": 0.938,
+   "sample_rows_merged": 100,
+   "sample_rows_distinct": 100,
+   "sample_acc_repo_matcher": 0.91,
+   "sample_acc_squashed": 0.93
+  }
+ }
+}

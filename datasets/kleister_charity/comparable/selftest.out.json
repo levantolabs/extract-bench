@@ -1,0 +1,43 @@
+{
+ "expected_vs_itself": 100.0,
+ "empty_output": 0.0,
+ "typed_gold_first_value_via_adapter": {
+  "ALL_UC_dev0_reweighted": 100.0,
+  "per_group": {
+   "address": 100.0,
+   "money": 100.0,
+   "town": 100.0,
+   "postcode": 100.0,
+   "street": 100.0,
+   "name": 100.0,
+   "number": 100.0,
+   "income": 100.0,
+   "spending": 100.0,
+   "date": 100.0
+  }
+ },
+ "verbatim_span_ceiling_textract_via_adapter": {
+  "ALL_UC_dev0_reweighted": 97.38,
+  "per_group": {
+   "address": 99.05,
+   "money": 100.0,
+   "town": 100.0,
+   "postcode": 98.73,
+   "street": 98.37,
+   "name": 83.05,
+   "number": 99.24,
+   "income": 100.0,
+   "spending": 100.0,
+   "date": 100.0
+  }
+ },
+ "gold_money_float_date_ddmmyyyy_via_adapter": 100.0,
+ "gold_plus_value_for_every_null_key": {
+  "F1": 98.4,
+  "P": 96.84,
+  "R": 100.0,
+  "tp": 3408.88,
+  "n_expected": 3408.88,
+  "n_output": 3520.0
+ }
+}

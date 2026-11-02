@@ -1,0 +1,38 @@
+INVOICE
+
+Invoice number INV61624996
+Date: 17-Nov-1998
+Due Date : 02-Jul-2010
+
+Buyer :Victoria Hernandez
+Richardson-Davis 4454 Brittany Springs Apt. 642
+‘Address:6479 Smith Causeway Tranmouth, MT 46012 US
+East Camerontown, AS 38212 US Tol:#(262)719-3946
+
+Site:http:/www.harmon-petty.com/
+
+ay ry Description Unitprice [Amount
+6.00 459008 | Wide own effect. 2039 482.34
+3.00 719538 | son, 2167 6501
+100 10501 | Southern sive crime 1288 1288
+
+‘SUB_TOTAL : 560.19 USD
+
+Bank Name _ State Bank of California
+Branch Name Raf CAMP. DISCOUNT(3.17%): (-) 17.76
+Bank Account Number 10184096 TAXVAT (430%): 24.50 USD
+
+Bank Swift Code SBININBB250
+
+TOTAL : 564,39 USD
+
+Total in words: five hundred and sixty-
+
+Note:Total payment due in 14 days.
+cay: ” -four point three nine
+
+‘Terms & Conditions
+4. Please send payment within 8 days of receiving this invoice,
+
+‘There will bo a 2.5% intrest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes,

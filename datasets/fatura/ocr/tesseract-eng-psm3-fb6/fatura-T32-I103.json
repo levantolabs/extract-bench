@@ -1,0 +1,1 @@
+{"id": "fatura-T32-I103", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 387.6, "per_image": [{"file": "Template32_Instance103.jpg", "page": "Template32_Instance103.jpg", "psm_used": 3, "chars": 460, "ms": 364.6}], "ts": "2026-10-23T07:22:55+0800"}

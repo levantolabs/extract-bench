@@ -1,0 +1,74 @@
+== comparable/preds_gpt-4o_november_2024_prompt2.sample.jsonl
+{
+ "n": 100,
+ "n_pred": 100,
+ "n_pred_null": 0,
+ "repo_matcher": {
+  "acc": 0.94,
+  "ci95": [
+   0.89,
+   0.98
+  ]
+ },
+ "exact_norm": {
+  "acc": 0.94,
+  "ci95": [
+   0.89,
+   0.98
+  ]
+ },
+ "squashed": {
+  "acc": 0.96,
+  "ci95": [
+   0.92,
+   0.99
+  ]
+ },
+ "repo_matcher_by_reachability": {
+  "verbatim": {
+   "n": 94,
+   "acc": 0.9362
+  },
+  "non_verbatim": {
+   "n": 6,
+   "acc": 1.0
+  }
+ }
+}
+== comparable/preds_claude_haiku_45_november_2024_prompt2.sample.jsonl
+{
+ "n": 100,
+ "n_pred": 100,
+ "n_pred_null": 0,
+ "repo_matcher": {
+  "acc": 0.91,
+  "ci95": [
+   0.85,
+   0.96
+  ]
+ },
+ "exact_norm": {
+  "acc": 0.91,
+  "ci95": [
+   0.85,
+   0.96
+  ]
+ },
+ "squashed": {
+  "acc": 0.93,
+  "ci95": [
+   0.88,
+   0.98
+  ]
+ },
+ "repo_matcher_by_reachability": {
+  "verbatim": {
+   "n": 94,
+   "acc": 0.9043
+  },
+  "non_verbatim": {
+   "n": 6,
+   "acc": 1.0
+  }
+ }
+}

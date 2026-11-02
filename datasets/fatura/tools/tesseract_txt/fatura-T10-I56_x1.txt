@@ -1,0 +1,32 @@
+Address:4894 Melanie Pass Apt. 742
+‘Tammyland, SD 42587 US
+
+Invoice Date: 02-Feb-1997
+Invoice number 1258-282
+
+Mclean-Cochran
+Due Date : 20-Jun-2010
+
+Bill to:Alan Leblanc
+957 Patrick Row Apt. 664
+
+East Robertoton, NC 79044 US
+Tel:+(475)719-3450
+Email:hpark@example.net
+Site:https://swanson-ross.com/
+
+iTems ‘quantiry PRICE TAK AMOUNT
+‘Leg without kitchen leg, 600 © $2003 $0.00, si74.18
+whatever 1100 $3084 == $0.00 ss08e
+
+DISCOUNT(3.98%): (-) 8.16
+
+TOTAL: 212.94
+
+‘Terms and Conditions
+will be charged if payment is not made within the due date.
+
+Note: All payments to be made in cash.
+Contact us for queries on these quotations.
+
+Email:cjames@example.com

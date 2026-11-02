@@ -1,0 +1,6 @@
+27
+-
+OS71-1854 RLUS WAIT
+1002-g0869 SHOPPING
+i os *
+CC. Viss

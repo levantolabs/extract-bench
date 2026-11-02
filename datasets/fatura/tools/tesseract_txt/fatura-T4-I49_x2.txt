@@ -1,0 +1,27 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US
+
+TAX INVOICE TOTAL : 473.90 USD
+BILL_TO:
+Veronica Murray
+8870 Janet Ports Due Date : 23-Nov-1993
+
+Riveraton, SC 72834 US
+Tel:+(069)186-6672
+Email:margaret25@example.com
+Site:https://marshall.net/
+
+Invoice Date: 21-Oct-2018
+
+| Description | QUANTITY | PRICE
+| Attack system, | 2.00 | $86.58
+| Tough show. | 5.00 "$14.34
+| Clear local. | 6.00 | $33.61
+| Its mother senior. | 1.00 | $14.49
+
+SUB_TOTAL : 461.01 USD
+DISCOUNT(1.61%): (-) 7.42
+
+Thank you for your business!

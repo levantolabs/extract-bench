@@ -1,0 +1,23 @@
+```markdown
+Amya Muller
+47803 Ziemann Junctions
+New Silas, Nevada 43460-3268
+
+PAY TO THE ORDER OF
+
+HALEY, CARTWRIGHT AND ABSHIRE
+
+<logo>citibank</logo>
+
+ONE THOUSAND FOUR HUNDRED SEVENTY NINE AND 25/100
+
+MEMO
+
+⑆29692778⑆ 126526103 ⑈9252⑈
+
+2025-02-11
+
+$1,479.25
+
+DOLLARS
+```

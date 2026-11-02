@@ -1,0 +1,42 @@
+Ww
+
+“
+
+Barnes, Garcia and Martin,
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US.
+
+GSTIN: 3312345678910221
+
+Buyer :Kristi Smith
+5698 Calderon Roads
+Emilychester, FM 51356 US
+Tel:+(389)585-8336
+Email:kimberly67@example.net
+Site:https://joseph-kemp.com!
+
+Description ‘QUANTITY
+Focus performance, 5.00
+‘Nor wel 1.00
+Return something he 3.00
+‘Break push, 100
+Think authority 3.00
+
+COMMERCIAL INVOICE
+
+INVOICE # 6Y1M2d-195,
+Date: 25-Feb-2017
+
+PRICE
+$5.95
+$1.30
+$1.80
+$3.56
+$46.27
+
+‘SUB_TOTAL : 178.82 $
+
+GST(7%) : 12.52
+
+TOTAL : 183.14 §

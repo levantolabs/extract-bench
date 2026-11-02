@@ -1,0 +1,19 @@
+Date: 12-Sep-2018 INVOICE # 5Y7M7d-738
+
+Miller Inc NN Bill to:Laura Shannon
+2377 Powell Light
+
+Address:5190 Perry Passage Port Victoria, FM 25826 US
+
+Kellyburgh, RI 60615 US Tel:+(893)194-3035
+Email:emily22@example.org
+Site:http://house-rivas.com/
+
+Email:marymoore@example.org
+
+ITEMS QUANTITY PRICE TAX AMOUNT
+Company yet know light. 6.00 $83.17 $0.00 $499.02
+Organization modem. 1.00 $17.63 $0.00 $17.63
+Thank you for choosing us! SUB_TOTAL : 516.65 USD
+
+TOTAL : 531.13 USD

@@ -1,0 +1,39 @@
+INVOICE
+
+INVOICE ID INV/36-49/771
+Invoice Date: 27-Feb-2011
+Due Date : 24-Apr-2001
+
+Bill to:Sheila Hester
+
+Richardson-Davis 28900 Castro Cliff Suite 184
+Address:6479 Smith Causeway North Keithbury, UT 53428 US
+East Camerontown, AS 38212 US Tel:+(947)866-8803
+
+Email:gcoleman@example.net
+Site:https://www.hanna.com/
+
+Specific total spring.
+
+Not weight work.
+
+Bank Name State Bank of Europe SUB_TOTAL : 883.76 $
+Branch Name Raf CAMP DISCOUNT(1.32%): (-) 11.67
+Bank Account Number 19989665 r 6
+
+Bank Swift Code SBININBB250 TANAT GSO) A046 8
+
+TOTAL : 915.63 $
+
+Total in words: nine hundred and fif-
+
+Note: e
+teen point six three
+
+This order is shipped through blue dart courier
+
+Terms & Conditions
+
+1. Please send payment within 8 days of receiving this invoice.
+There will be a 2.5% interest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes.

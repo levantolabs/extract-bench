@@ -1,0 +1,40 @@
+INVOICE
+
+INVOICE # INV93479530
+Invoice Date: 26-Jun-2018
+Due Date : 27-May-2020
+
+Bill to:Donna Moore
+
+Richardson-Davis 810 Jonathan Oval Apt. 936
+Address:6479 Smith Causeway Robertmouth, LA 31523 US
+East Camerontown, AS 38212 US Tel:+(136)923-2489
+
+Email:gonzalezfaith@example.net
+Site:https://chandler.com/
+
+Description
+One outside.
+
+Even yard.
+Wear know dog.
+
+SUB_TOTAL : 630.34 EUR
+
+Bank Name State Bank of England
+Branch Name Raf CAMP DISCOUNT(1.6%): (-) 10.09
+Bank Account Number 16113367 TAX:VAT (4.99%): 31.48 EUR
+
+Bank Swift Code SBININBB250
+
+TOTAL : 650.79 EUR
+
+Total in words: six hundred and fif-
+
+Note: All payments to be made in cash.
+ty point seven nine
+
+Contact us for queries on these quotations.
+
+Terms and Conditions
+will be charged if payment is not made within the due date.

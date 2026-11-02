@@ -1,0 +1,79 @@
+{
+ "n_lines": 83,
+ "n_parsed": 83,
+ "n_fields": 415,
+ "n_null_gold_fields": 75,
+ "gold_as_pred": {
+  "scored": 340,
+  "perfect": 340,
+  "variants_scored": 582,
+  "variants_perfect": 582
+ },
+ "term_equivalence": {
+  "kleister_words": 34,
+  "clairic_months": 34,
+  "n": 34
+ },
+ "party_forms": {
+  "kleister_list_f1_1": 83,
+  "n": 83
+ },
+ "request_shapes": {
+  "clairic_fields": {
+   "effective_date": "date",
+   "jurisdiction": "text",
+   "term": "duration/months",
+   "party": "list",
+   "party_any": "text"
+  },
+  "sage_fields": {
+   "effective_date": "date",
+   "jurisdiction": "text",
+   "term": "duration",
+   "party_any": "text"
+  },
+  "openrouter_required": [
+   "effective_date",
+   "jurisdiction",
+   "term",
+   "party",
+   "party_any"
+  ]
+ },
+ "tokens_o200k": {
+  "text_best": {
+   "p50": 3096,
+   "p95": 6128.4,
+   "max": 8783,
+   "total": 281020
+  },
+  "tesseract_layer": {
+   "p50": 3124,
+   "p95": 6112.8,
+   "max": 8769,
+   "total": 280732
+  },
+  "textract_layer": {
+   "p50": 3157,
+   "p95": 6122.1,
+   "max": 8745,
+   "total": 283435
+  }
+ },
+ "pages": {
+  "p50": 5,
+  "p95": 11.9,
+  "max": 17,
+  "total": 489
+ },
+ "holdout_n": 17,
+ "null_by_field": {
+  "effective_date": 21,
+  "jurisdiction": 5,
+  "term": 49,
+  "party": 0,
+  "party_any": 0
+ },
+ "fails": [],
+ "ok": true
+}

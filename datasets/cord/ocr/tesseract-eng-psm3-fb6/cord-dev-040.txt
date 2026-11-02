@@ -1,0 +1,15 @@
+Chilli Sauce H
+Gojek Chicken
+Soy Sauce F
+Gojek French
+Fries
+
+Sub Total
+Service
+Tax
+
+Discount
+
+345,000
+0
+34,500

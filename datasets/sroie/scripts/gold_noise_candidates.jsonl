@@ -1,0 +1,26 @@
+{"id": "sroie-X00016469670", "image": "img/X00016469670.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "B1750", "ocr_tokens": ["81750"]}]}
+{"id": "sroie-X51005337867", "image": "img/X51005337867.jpg", "candidates": [{"field": "company", "kind": "one_char_token", "gold_token": "SND", "ocr_tokens": ["SN5"]}, {"field": "company", "kind": "not_substring_of_ocr", "gold": "OLD TOWN KOPITAM SND BHD"}]}
+{"id": "sroie-X51005361906", "image": "img/X51005361906.jpg", "candidates": [{"field": "company", "kind": "one_char_token", "gold_token": "TED", "ocr_tokens": ["TEL", "TEO"]}, {"field": "company", "kind": "not_substring_of_ocr", "gold": "TED HENG STATIONERY & BOOKS"}]}
+{"id": "sroie-X51005433548", "image": "img/X51005433548.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "81750", "ocr_tokens": ["B1750"]}]}
+{"id": "sroie-X51005442322", "image": "img/X51005442322.jpg", "candidates": [{"field": "date", "kind": "not_substring_of_ocr", "gold": "03 MAR 19"}]}
+{"id": "sroie-X51005442382", "image": "img/X51005442382.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "TAMPOI", "ocr_tokens": ["TAMPOL"]}, {"field": "address", "kind": "one_char_token", "gold_token": "TAMPOI", "ocr_tokens": ["TAMPOL"]}]}
+{"id": "sroie-X51005447841", "image": "img/X51005447841.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "19-1&", "ocr_tokens": ["19-G&"]}]}
+{"id": "sroie-X51005568887", "image": "img/X51005568887.jpg", "candidates": [{"field": "date", "kind": "one_char_token", "gold_token": "26/04/2017", "ocr_tokens": ["06/04/2017"]}, {"field": "date", "kind": "not_substring_of_ocr", "gold": "26/04/2017"}]}
+{"id": "sroie-X51005587261", "image": "img/X51005587261.jpg", "candidates": [{"field": "date", "kind": "not_substring_of_ocr", "gold": "23/03/17"}]}
+{"id": "sroie-X51005605295", "image": "img/X51005605295.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "GO1", "ocr_tokens": ["G01"]}, {"field": "address", "kind": "one_char_token", "gold_token": "IBU", "ocr_tokens": ["JBU"]}, {"field": "address", "kind": "one_char_token", "gold_token": "TMN", "ocr_tokens": ["IMN"]}, {"field": "address", "kind": "one_char_token", "gold_token": "DANAU", "ocr_tokens": ["DANAW"]}]}
+{"id": "sroie-X51005675914", "image": "img/X51005675914.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "LUMPUR", "ocr_tokens": ["LUMPER"]}]}
+{"id": "sroie-X51005715455", "image": "img/X51005715455.jpg", "candidates": [{"field": "company", "kind": "one_char_token", "gold_token": "MART", "ocr_tokens": ["MAPT"]}, {"field": "company", "kind": "not_substring_of_ocr", "gold": "99 SPEED MART S/B"}]}
+{"id": "sroie-X51005719898", "image": "img/X51005719898.jpg", "candidates": [{"field": "company", "kind": "not_substring_of_ocr", "gold": "MR. D. I. Y. (KUCHAI) SDN BHD"}]}
+{"id": "sroie-X51005724623", "image": "img/X51005724623.jpg", "candidates": [{"field": "company", "kind": "one_char_token", "gold_token": "CHJAN", "ocr_tokens": ["CHUAN"]}, {"field": "company", "kind": "not_substring_of_ocr", "gold": "KEDA PAPAN YEW CHJAN"}]}
+{"id": "sroie-X51005746204", "image": "img/X51005746204.jpg", "candidates": [{"field": "company", "kind": "not_substring_of_ocr", "gold": "BEMED (SP) SDN BHD."}]}
+{"id": "sroie-X51005746206", "image": "img/X51005746206.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "PEADANA.", "ocr_tokens": ["PERDANA."]}]}
+{"id": "sroie-X51005749904", "image": "img/X51005749904.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "SHAN", "ocr_tokens": ["SHAH"]}]}
+{"id": "sroie-X51005757233", "image": "img/X51005757233.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "FLR", "ocr_tokens": ["FOR"]}, {"field": "address", "kind": "one_char_token", "gold_token": "BANDAR", "ocr_tokens": ["BAMDAR"]}]}
+{"id": "sroie-X51006311714", "image": "img/X51006311714.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "KUARA", "ocr_tokens": ["KIARA"]}]}
+{"id": "sroie-X51006414600", "image": "img/X51006414600.jpg", "candidates": [{"field": "company", "kind": "not_substring_of_ocr", "gold": "AEON CO. (M) SDN BHD"}]}
+{"id": "sroie-X51006414728", "image": "img/X51006414728.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "NO.", "ocr_tokens": ["NO:"]}]}
+{"id": "sroie-X51006619842", "image": "img/X51006619842.jpg", "candidates": [{"field": "date", "kind": "not_substring_of_ocr", "gold": "03 JUN 2016"}]}
+{"id": "sroie-X51007846358", "image": "img/X51007846358.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "JAHOR", "ocr_tokens": ["JOHOR"]}]}
+{"id": "sroie-X51007846387", "image": "img/X51007846387.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "NO.", "ocr_tokens": ["NOT"]}]}
+{"id": "sroie-X51007846397", "image": "img/X51007846397.jpg", "candidates": [{"field": "company", "kind": "not_substring_of_ocr", "gold": "UNIHAKKA INTERANTIONAL SDN BHD"}]}
+{"id": "sroie-X51009447842", "image": "img/X51009447842.jpg", "candidates": [{"field": "address", "kind": "one_char_token", "gold_token": "19-1&", "ocr_tokens": ["19-G&"]}]}

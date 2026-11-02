@@ -1,0 +1,248 @@
+{
+ "per_format": {
+  "SHIPPING_INVOICE": {
+   "items": 52,
+   "photo": 2,
+   "rotated": 3,
+   "bools_excluded": 0,
+   "scalar": 552,
+   "scalar_null": 12,
+   "list": 136
+  },
+  "DELIVERY_NOTE": {
+   "items": 51,
+   "photo": 1,
+   "rotated": 3,
+   "bools_excluded": 0,
+   "list": 639,
+   "scalar": 765
+  },
+  "PHOTO_RECEIPT": {
+   "items": 10,
+   "photo": 10,
+   "rotated": 0,
+   "bools_excluded": 0,
+   "list": 43,
+   "scalar": 89,
+   "scalar_null": 7
+  },
+  "DRIVER_LICENSE": {
+   "items": 4,
+   "photo": 4,
+   "rotated": 0,
+   "bools_excluded": 0,
+   "scalar": 64,
+   "scalar_null": 5
+  },
+  "FORM": {
+   "items": 7,
+   "photo": 7,
+   "rotated": 0,
+   "bools_excluded": 1,
+   "scalar": 62,
+   "list": 22
+  },
+  "SCANNED_FORM": {
+   "items": 6,
+   "photo": 6,
+   "rotated": 0,
+   "bools_excluded": 1,
+   "scalar": 113,
+   "list": 6
+  },
+  "BANK_CHECK": {
+   "items": 16,
+   "photo": 1,
+   "rotated": 1,
+   "bools_excluded": 0,
+   "scalar": 240,
+   "scalar_null": 6
+  },
+  "ACCOUNT_STATEMENT": {
+   "items": 16,
+   "photo": 0,
+   "rotated": 3,
+   "bools_excluded": 0,
+   "list": 98,
+   "scalar": 106
+  },
+  "CREDIT_CARD_STATEMENT": {
+   "items": 16,
+   "photo": 0,
+   "rotated": 3,
+   "bools_excluded": 0,
+   "scalar": 57,
+   "list": 71
+  },
+  "FORM_1040": {
+   "items": 16,
+   "photo": 1,
+   "rotated": 3,
+   "bools_excluded": 265,
+   "scalar": 444,
+   "scalar_null": 28,
+   "list": 64,
+   "list_null": 12
+  },
+  "PATIENT_INTAKE": {
+   "items": 16,
+   "photo": 3,
+   "rotated": 2,
+   "bools_excluded": 190,
+   "scalar": 150,
+   "scalar_null": 22,
+   "list": 48,
+   "list_null": 14
+  },
+  "COMMERCIAL_LEASE_AGREEMENT": {
+   "items": 15,
+   "photo": 1,
+   "rotated": 3,
+   "bools_excluded": 0,
+   "scalar": 240
+  },
+  "PETITION_FORM": {
+   "items": 15,
+   "photo": 0,
+   "rotated": 0,
+   "bools_excluded": 0,
+   "scalar": 150,
+   "list": 60
+  }
+ },
+ "null_reason": {
+  "scalar|null_in_gold_json": 80,
+  "list|null_in_gold_json": 26
+ },
+ "date_rules": {
+  "mdy_ambiguous": 36,
+  "mdy": 49,
+  "ymd": 145,
+  "mdy yy_pivot30": 5,
+  "dmy yy_pivot30": 1,
+  "dmy": 1,
+  "month_name": 40,
+  "null": 1
+ },
+ "list_item_types": {
+  "number": 458,
+  "text": 712,
+  "date": 17
+ },
+ "strata": {
+  "date": 278,
+  "text": 2078,
+  "decimal": 30,
+  "list": 1187,
+  "money": 376,
+  "integer": 140,
+  "time": 10,
+  "enum": 90,
+  "duration_component": 30
+ },
+ "reencoded": [
+  [
+   "omniai-0407",
+   {
+    "orig_file": "raw/images/407.png",
+    "orig_bytes": 4293618,
+    "orig_format": "PNG",
+    "width": 1174,
+    "height": 1827,
+    "mode": "RGB",
+    "orig_sha256": "34662c3b94518452d8ce47e41e9949ddc8052575037326d9d36db3875fda5474",
+    "reencoded": true,
+    "out_bytes": 624737,
+    "out_format": "JPEG",
+    "jpeg_quality": 90,
+    "scale": 1.0,
+    "out_width": 1174,
+    "out_height": 1827,
+    "reencode_reason": "over 4 MiB"
+   }
+  ]
+ ],
+ "cross_dataset_duplicates": [
+  [
+   "omniai-0009",
+   {
+    "dataset": "sroie",
+    "sroie_test_key": "X51006329183"
+   }
+  ],
+  [
+   "omniai-0019",
+   {
+    "dataset": "sroie",
+    "sroie_test_key": "X51005746203"
+   }
+  ]
+ ],
+ "text_span_presence_per_format": {
+  "SHIPPING_INVOICE": {
+   "n": 401,
+   "in_azure": 366,
+   "in_gold_md": 401
+  },
+  "DELIVERY_NOTE": {
+   "n": 714,
+   "in_azure": 702,
+   "in_gold_md": 680
+  },
+  "PHOTO_RECEIPT": {
+   "n": 41,
+   "in_azure": 38,
+   "in_gold_md": 40
+  },
+  "DRIVER_LICENSE": {
+   "n": 47,
+   "in_azure": 45,
+   "in_gold_md": 47
+  },
+  "FORM": {
+   "n": 50,
+   "in_azure": 43,
+   "in_gold_md": 44
+  },
+  "SCANNED_FORM": {
+   "n": 84,
+   "in_azure": 78,
+   "in_gold_md": 84
+  },
+  "BANK_CHECK": {
+   "n": 154,
+   "in_azure": 144,
+   "in_gold_md": 151
+  },
+  "ACCOUNT_STATEMENT": {
+   "n": 74,
+   "in_azure": 73,
+   "in_gold_md": 74
+  },
+  "CREDIT_CARD_STATEMENT": {
+   "n": 16,
+   "in_azure": 16,
+   "in_gold_md": 16
+  },
+  "FORM_1040": {
+   "n": 146,
+   "in_azure": 143,
+   "in_gold_md": 143
+  },
+  "PATIENT_INTAKE": {
+   "n": 109,
+   "in_azure": 106,
+   "in_gold_md": 109
+  },
+  "COMMERCIAL_LEASE_AGREEMENT": {
+   "n": 135,
+   "in_azure": 128,
+   "in_gold_md": 135
+  },
+  "PETITION_FORM": {
+   "n": 120,
+   "in_azure": 112,
+   "in_gold_md": 120
+  }
+ }
+}

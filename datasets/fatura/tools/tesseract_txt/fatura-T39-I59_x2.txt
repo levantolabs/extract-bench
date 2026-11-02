@@ -1,0 +1,22 @@
+TAX INVOICE INVOICE ID INV/16-90/290
+
+Bill to:Eric Jennings
+759 Cameron Terrace
+North Kathy, DC 28945 US
+Address:19021 Christopher Estate Tel:+(967)386-4594
+South Williammouth, NH 22397 US Email:kathryn72@example.org
+Site:https://www.avila.com/
+
+Date: 10-Mar-2019 Due Date : 14-Apr-2012
+De DIO @) pit price Amo
+Public factor. 4.00 $46.61 $186.44
+Feel point popular. 4.00 $84.02 $336.08
+
+SUB_TOTAL : 522.52 USD
+TAX:VAT (3.26%): 17.01 USD
+DISCOUNT(2.91%): (-) 15.21
+
+Thank you for choosing us!
+
+Terms and Conditions
+will be charged if payment is not made within the due date.

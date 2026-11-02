@@ -1,0 +1,51 @@
+Date: 19-Nov-2018
+
+Miller inc
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Emai
+
+1arymoore@example.org
+
+rems
+Otten tat.
+Former hai
+
+‘Souther with,
+
+Note:
+
+NS
+
+‘quantity
+
+200
+
+200
+
+3.00
+
+6.00
+
+This order is shipped through blue dart courier
+
+Invoice number 8137-030
+
+Bill to:James Clark
+5469 Harris Mountain
+Williamston, NH 76488 US
+Tol:+(289)054-0377
+Email:kimberly87@example.net
+Site:http://kim-manning, biz!
+
+PRICE TAK AMOUNT
+$5681 $000 sita62
+$6583 $000 s13t66
+$7386 $0.00 s221.58
+surz $000 $208.32
+
+‘SUB_TOTAL : 675.18 EUR
+
+TOTAL : 681.16 EUR

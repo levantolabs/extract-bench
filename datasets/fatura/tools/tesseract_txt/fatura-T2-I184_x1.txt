@@ -1,0 +1,34 @@
+COMMERCIAL INVOICE
+
+INVOICE # 7374-816
+Invoice Date: 03-Mar-2014
+
+Ww
+
+“
+
+Barnes, Garcia and Martin,
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US.
+
+GSTIN: 3312345678910221
+
+Bill to:Kevin Roberts
+(030 Danielle Run Suite 539
+Robinsonstad, FM 15379 US
+Tel:+(424)253-1050
+Email:sandracollins@example.net
+Site:http:/www.stevenson-kennedy.net!
+
+Description ‘QUANTITY PRICE
+‘Standard project defense 6.00 $219
+
+Ready high. 100 $96.10
+Turn several 5.00 $55.25
+
+‘SUB_TOTAL : 385.49 $
+
+GST(7%) : 26.98
+
+TOTAL : 396.07 §

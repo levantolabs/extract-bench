@@ -1,0 +1,39 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+
+Port Lindsey, MP 98258 US
+
+TAX INVOICE
+
+BILL_TO:
+
+Virginia Sherman
+
+2531 Haley Loaf Suite 733
+Dennisberg, CA 65342 US
+Tel:+(185)956-9016
+Email:tamaraharris@example.com
+Site:http://www.dominguez-walker.biz/
+
+Description QUANTITY
+
+Forget dream outside. 6.00
+
+Leave another. 4.00
+Note:
+
+TOTAL : 435.97 EUR
+
+Due Date : 28-Aug-1994
+
+Date: 02-Jul-2019
+
+| PRICE
+$24.60
+$70.50
+
+SUB_TOTAL : 429.60 EUR
+DISCOUNT(1.63%): (-) 7.0
+
+This order is shipped through blue dart courier

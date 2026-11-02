@@ -1,0 +1,1 @@
+{"id": "fatura-T10-I77", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 525.4, "per_image": [{"file": "Template10_Instance77.jpg", "page": "Template10_Instance77.jpg", "psm_used": 3, "chars": 810, "ms": 496.6}], "ts": "2026-10-23T07:23:00+0800"}

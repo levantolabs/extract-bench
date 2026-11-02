@@ -1,0 +1,15 @@
+{
+ "system": "clairic_img",
+ "benchmark_version": "v0.1",
+ "display_name": "Clairic + image",
+ "org": "Cloudflare",
+ "model": "@cf/cloudflare/clairic (Workers AI)",
+ "arm": "clairic_vision_ocr",
+ "input": "image+text",
+ "run_date": "2026-10-23",
+ "open_weights": false,
+ "maintainer_product": false,
+ "notes": "Page image(s) plus the same text; image sets only.",
+ "tier": "maintainer-run",
+ "n_items": 1457
+}

@@ -1,0 +1,33 @@
+Address:4894 Melanie Pass Apt. 742
+‘Tammyland, SD 42587 US
+
+Invoice Date: 28-Feb-2006
+
+Invoice number 3099-683
+Mclean-Cochran
+Due Date : 12-Jun-2020
+Buyer :Lori Price
+9688 Rose Spur Suite 886
+Xavierton, PR 72347 US
+Tel:+(108)010-9953,
+Email:elizabethfox@example.com
+
+Site:http://www,johnson.com/
+
+rems QUANTITY PRICE TAK ‘AMOUNT
+Seven loader. 600 $3259 $0.00 $195.54
+‘Stond before join. 400 $8610 $0.00 944.40
+Stop. 500 $5865 $000 $205.28
+
+DISCOUNT(2.88%): (-) 24.0
+
+TOTAL : 850.14
+
+‘Terms & Conditions
+4. Please sond payment within 8 days of receiving this invoice.
+‘There will be a 2.5% intrest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes,
+
+‘Thank you for your business!
+
+Email:cjames@example.com

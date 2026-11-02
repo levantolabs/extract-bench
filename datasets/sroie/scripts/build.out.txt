@@ -1,0 +1,22 @@
+{
+ "n": 347,
+ "reencoded": 0,
+ "img_formats": {
+  "JPEG": 347
+ },
+ "date_rules": {
+  "dmy_numeric": 296,
+  "d_monname_y": 47,
+  "ymd": 3,
+  "dmy_numeric_invalid": 1
+ },
+ "money_rules": {
+  "plain": 285,
+  "currency_stripped": 62
+ },
+ "mirror_missing": [],
+ "mirror_dims_diff": [],
+ "prompts_distinct": 2,
+ "holdout_n": 69
+}
+typed_flags: 6 mirror_gold_diff: 0

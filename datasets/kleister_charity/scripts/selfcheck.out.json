@@ -1,0 +1,118 @@
+{
+ "n_lines": 212,
+ "n_parsed": 212,
+ "n_fields": 1696,
+ "n_null_gold_fields": 45,
+ "gold_as_pred": {
+  "values_scored": 1858,
+  "values_perfect": 1858
+ },
+ "empty_alt_texts": {
+  "tesseract_layer": 0,
+  "djvu_layer": 10,
+  "best_layer": 0
+ },
+ "typed_equivalence": {
+  "money_float": 422,
+  "money_written_gbp": 422,
+  "money_n": 422,
+  "date_uk_words": 212,
+  "date_ddmmyyyy": 212,
+  "date_n": 212
+ },
+ "request_shapes": {
+  "clairic_fields": {
+   "charity_name": "text",
+   "charity_number": "text",
+   "report_date": "date",
+   "income_annually_in_british_pounds": "number/GBP",
+   "spending_annually_in_british_pounds": "number/GBP",
+   "address__post_town": "text",
+   "address__postcode": "text",
+   "address__street_line": "text"
+  },
+  "sage_fields": {
+   "charity_name": "text",
+   "charity_number": "text",
+   "report_date": "date",
+   "income_annually_in_british_pounds": "money",
+   "spending_annually_in_british_pounds": "money",
+   "address__post_town": "text",
+   "address__postcode": "text",
+   "address__street_line": "text"
+  },
+  "openrouter_required": [
+   "charity_name",
+   "charity_number",
+   "report_date",
+   "income_annually_in_british_pounds",
+   "spending_annually_in_british_pounds",
+   "address__post_town",
+   "address__postcode",
+   "address__street_line"
+  ]
+ },
+ "strata": {
+  "dev0_long": 112,
+  "dev0_short": 328,
+  "sample_long": 112,
+  "sample_short": 100,
+  "holdout_long": 22,
+  "holdout_short": 20
+ },
+ "tokens_o200k": {
+  "textract_primary": {
+   "p50": 16538.0,
+   "p95": 34843.2,
+   "max": 58423,
+   "total": 3372378
+  },
+  "tesseract_layer": {
+   "p50": 16257.0,
+   "p95": 35067.5,
+   "max": 57294,
+   "total": 3316015
+  },
+  "djvu_layer": {
+   "p50": 15568.5,
+   "p95": 37507.4,
+   "max": 74528,
+   "total": 3357696
+  },
+  "best_layer": {
+   "p50": 16465.5,
+   "p95": 37507.4,
+   "max": 74528,
+   "total": 3478259
+  },
+  "textract_long": {
+   "n": 112,
+   "p50": 22754.0,
+   "p95": 43546.1,
+   "max": 58423
+  },
+  "textract_short": {
+   "n": 100,
+   "p50": 4852.5,
+   "p95": 10546.6,
+   "max": 14715
+  }
+ },
+ "sage_windows_mismatch_vs_harness": 0,
+ "sage_windows_total_harness": 356,
+ "holdout_n": 42,
+ "null_by_field": {
+  "charity_name": 0,
+  "charity_number": 2,
+  "report_date": 0,
+  "income_annually_in_british_pounds": 1,
+  "spending_annually_in_british_pounds": 1,
+  "address__post_town": 6,
+  "address__postcode": 7,
+  "address__street_line": 28
+ },
+ "pdf_annex_keys": 212,
+ "fails": [],
+ "n_fails": 0,
+ "ok": true
+}

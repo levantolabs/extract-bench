@@ -1,0 +1,29 @@
+CORT TAX INVOICE
+
+CASH
+
+Receipt No: CS1803/28617 Date: 16/03/2018
+
+HEM ry UP Disc AMOUNT
+
+: ' MRD)
+4974052801334 48 =«2.70 «741 ~~~«120.004
+= ARTLINE 70
+Total Qty.: #8 ~ 420.00
+SUB-TOTAL (EX) : 120.00
+TOTAL TAX 7.20
+ROUNDING : 0.00
+TOTAL : 127.20
+CASH : 127.20
+CHANGE : 0.00
+GST SUMMARY |
+oo : AMOUNT ~ TAX
+_ TANcope —% (ei a
+sR 6.00 420.00 7.29
+TOTAL; “42000 7.20
+
+Nofe: (*) Indicated The Item. Sold Has Been Related
+Ta GST (Goods & Services Tax).
+
+GOODS SOLD ARE NOT RETURNABLE,
+THANK YOU.

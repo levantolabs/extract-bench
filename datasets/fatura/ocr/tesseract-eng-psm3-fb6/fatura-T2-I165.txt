@@ -1,0 +1,40 @@
+Ww
+
+“
+
+Barnes, Garcia and Martin,
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US.
+
+GSTIN: 3312345678910221
+
+Bill to:Mrs. Catherine Cline
+7424 Hall Lane
+
+Megantown, Hi 74016 US
+Tel:+(605)349-5266
+Email:jennifer19@example.com
+Site:https://www.brown.net!
+
+Description
+Measure.
+‘Successful simply.
+
+Keep summer.
+
+TAX INVOICE
+
+INVOICE # 9914-741
+Date: 01-Jul-2019
+
+‘QUANTITY PRICE
+100 $55.46
+4.00 $20.79
+4.00 $07.88 |
+
+‘SUB_TOTAL : 530.14 $
+
+GST(7%) : 37.41
+
+TOTAL : 535.75 §

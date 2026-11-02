@@ -1,0 +1,43 @@
+VW
+
+4
+
+Barnes, Garcia and Martin
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 3312345678910221
+
+Bill to:Kelly Greene
+
+4428 Oconnor Groves
+
+North Stephanie, AL 18762 US
+Tel:+(897)470-3439
+Email:dsmith@example.net
+Site:http://www.king.net/
+
+Description QUANTITY
+| There speak. 4.00
+| Agreement any. 2.00
+| Final fear drop. 1.00
+| Only group. 6.00
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV/83-27/935
+Date: 21-Apr-1999
+
+| PRICE
+| $2.76
+
+| $81.55
+| $88.89
+| s20.44
+
+SUB_TOTAL : 433.67 EUR
+
+GST(7%) : 30.36
+
+TOTAL : 446.89 EUR

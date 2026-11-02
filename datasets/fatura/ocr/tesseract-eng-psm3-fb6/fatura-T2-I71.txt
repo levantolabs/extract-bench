@@ -1,0 +1,35 @@
+TAX INVOICE
+
+INVOICE # INV94163723,
+Invoice Date: 30-Mar-2003
+
+Ww
+
+“
+
+Barnes, Garcia and Martin,
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US.
+
+GSTIN: 3312345678910221
+
+Bill to:Cynthia Wolfe
+6336 Stewart Fork
+
+New Steven, MD 70695 US
+Tel:+(963)275-5989
+Email:zwalton@example.net
+Site:https://taylorjohnson.biz/
+
+Description ‘QUANTITY PRICE
+‘Souther ok fl 2.00 $67.28
+Game walk. 4100 $39.53
+‘Sure stu 100 $38.40
+‘Think single hand, 1.00 se277
+
+SUB_TOTAL : 245.16 EUR
+
+GST(7%) : 17.16
+
+TOTAL : 244.71 EUR

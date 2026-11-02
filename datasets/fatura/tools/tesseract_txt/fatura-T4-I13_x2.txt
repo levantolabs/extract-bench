@@ -1,0 +1,24 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US
+
+COMMERCIAL INVOICE TOTAL : 481.11 USD
+BILL_TO:
+William Lopez
+497 Dudley Flats Apt. 907 Due Date : 25-Jul-2003
+Fernandezhaven, PR 67327 US
+Tel:+(184)931-2384 ‘ 5
+Email:vburch@example.net Invoice Date: 11-Dec-2020
+Site:http://jimenez.com/
+| Description | QUANTITY | PRICE
+| Her wind network. 6.00 $11.82
+| One close. | 5.00 $27.89
+| Where test rich, 1.00 $27.76
+Knovdedge some where must, i 5.00 $9.60
+Firm ask. | 2.00 | $94.27
+
+SUB_TOTAL : 474.67 USD
+DISCOUNT(1.02%): (-) 4.84
+
+Note:Total payment due in 14 days.

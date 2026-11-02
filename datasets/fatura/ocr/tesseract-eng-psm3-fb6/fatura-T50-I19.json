@@ -1,0 +1,1 @@
+{"id": "fatura-T50-I19", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 495.8, "per_image": [{"file": "Template50_Instance19.jpg", "page": "Template50_Instance19.jpg", "psm_used": 3, "chars": 1019, "ms": 471.3}], "ts": "2026-10-23T07:22:53+0800"}

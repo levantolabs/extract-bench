@@ -1,0 +1,100 @@
+null scalar slots: 517
+
+### agency | vrdu-adbuy-749e7f7f-4f5fc385 | template=1-page
+   (label not found in OCR)
+
+### flight_from | vrdu-adbuy-15262983-50c8f161 | template=2-4-page
+   ... ', WJAC/EJAC (3608)\nph: (814) 255-7600\nInvoice\nInv Date\nTerms\nContract\nBill Type\nPeriod\n7452240\n5/31/2020\nCIA\n4360160\nCalendar\n5/1/2020-5/31/2020\nSaday\nDT Firm, The-12.5 perc\n909 GREEN ST\nHARRISBURG, PA 17102-2927\nSpecial Handling\nProduct\nBr'
+   ... 'nvolce 7452240\nInv Date\n5/31/2020\nTerms\nCIA\nContract 4360160\nBIII Type Calendar\nPeriod 5/1/2020-5/31/2020\nSpecial Handling\nProduct\nBrand\nAcct Types\nEst/External\nDemo\nRevision\nComments\nNone\nPOLITICAL CANDIDATE (ns) (1186)\nMAY 2020 (1378410)\n'
+
+### foreign_principle_name | vrdu-reg-19850801-St-Lucia-Tourist-Board-Amendmen-ed35fdb9 | template=Amendment
+   (label not found in OCR)
+
+### foreign_principle_name | vrdu-reg-20010409-International-Registries-Inc-Am-9f357bf4 | template=Amendment
+   ... 'of the Act which lists the names of all\nagents registered under the Act and the foreign principals they represent. This report is available to the public. Finally, the Attorney General intends, at the earliest\npossible opportunity, to make '
+
+### foreign_principle_name | vrdu-reg-20030930-Hogan-Lovells-US-LLP-Amendment-83c950e9 | template=Amendment
+   ... 'of the Act which lists the names of all\nagents registered under the Act and the foreign principals they represent. This report is available to the public. Finally, the Attorney General intends, at the earliest\npossible opportunity, to make '
+
+### foreign_principle_name | vrdu-reg-20031210-Hill-and-Knowlton-Strategies-LL-7e25817d | template=Amendment
+   ... 'of the Act which lists the names of all agents registered\nunder the Act and the foreign principals they represent. This report is available to the public. Finally, the Attorney General intends, at the earliest\npossible opportunity, to make '
+   ... 'c Safety and Security of the Government of\nOntario Canada to change the name of foreign principal to the Government of Ontario Canada. In Exhibit A, item 6(a) add\nMinistry of Health and Long Term Care, and in item 6(b) add The Honorable Ton'
+
+### foreign_principle_name | vrdu-reg-20060407-Garvey-Schubert-Barer-Amendment-c83da6ed | template=Amendment
+   ... 'of the Act which lists the names of all\nagents registered under the Act and the foreign principals they represent. This report is available to the public. Finally, the Attorney General intends, at the earliest\npossible opportunity, to make '
+
+### foreign_principle_name | vrdu-reg-20100812-Hill-and-Knowlton-Strategies-LL-b46e1214 | template=Amendment
+   ... 'of the Act which lists the names of all agents registered under the Act and the foreign principals they represent. This report\nis available to the public in print and online at: hutp://www.fara.gov/\nPublic Reporting Burden. Public reporting'
+   ... "l Statement for the period ending November 30, 2009.\nQuestion 7\nYes\nName of the foreign principal: Government of Singapore, Prime Minister's Office (through\nHill & Knowlton, Singapore)\nDate of termination: 08/09/2009\nName of the foreign pri"
+
+### foreign_principle_name | vrdu-reg-20140813-Fratelli-Group-Amendment-Amendm-4fc86576 | template=Amendment
+   ... 'of the Act which lists the names of all agents registered under\nthe Act and the foreign principals they represent. This report is available to the public in print and online at: http://www.fara.gov.\nPublic Reporting Burden. Public reporting'
+
+### foreign_principle_name | vrdu-reg-20161130-KOTRA-Kim-Kunki-Short-Form-9a1efb05 | template=Short-Form
+   ... "he engages in no activities in furtherance of the interests of the registrant's foreign principal or unless the services he renders to the registrant\nare in a secretarial, clerical, or in a related or similar capacity. Compliance is accompl"
+   ... 'of the Act which lists the names of all agents registered under\nthe Act and the foreign principals they represent. This report is available to the public and online at: http://www.fara.gov.\nPublic Reporting Burden. Public reporting burden f'
+
+### foreign_principle_name | vrdu-reg-20180417-Alignment-Government-Strategies-2fc53d3a | template=Amendment
+   ... 'of the Act which lists the names of all agents registered under\nthe Act and the foreign principals they represent. This report is available to the public in print and online at: https://www.fara.gov.\nPublic Reporting Burden. Public reportin'
+
+### product | vrdu-adbuy-28ecadfe-e240004b | template=1-page
+   (label not found in OCR)
+
+### signer_name | vrdu-reg-19800301-Hong-Kong-Tourism-Board-Amendme-5545c6f0 | template=Amendment
+   ... 'tion, or caucus held to select candidates for\npolitical office? Yes\nNo\nThe undersigned swear(s) or affirm(s) that he has (they have read the information set forth in this\namendment and that he is (they are) familiar with the contents thereo'
+   ... 'f his (their) knowledge and belief.\nman\n(Both coples of this amendment shall be signed and sworn\nto before a notary public or other person authorized to ad-\nminister oaths by the agent, if the registrant is an individual,\nor by a majority o'
+
+### signer_name | vrdu-reg-20161214-Fratelli-Group-Cox-Frances-K-Sh-63bcc261 | template=Short-Form
+   ... 'ation of Event\nDate\nN/A\nEXECUTION\nIn accordance with 28 U.S.C. § 1746, the undersigned swears or affirms under penalty of perjury that he/she has read the\ninformation set forth in this registration statement and that he/she is familiar with'
+   ... 'e and accurate to the best of his/her knowledge and belief.\n12/12/2014\n(Date of signature)\nSignature)\nFootnote: "Political activity," as defined in Section 1(o) of the Act, incans any activity which the person engaging in believes will, or '
+
+### signer_name | vrdu-reg-20170112-Podesta-Group-Inc-Thompson-Dana-dedbf511 | template=Short-Form
+   ... 'idate\nLocation of Event\nEXECUTION\nIn accordance with 28 U.S.C. § 1746, the undersigned swears or affirms under penalty of perjury that he/she has read the\ninformation set forth in this registration statement and that he/she is familiar with'
+   ... 'e and accurate to the best of his/her knowledge and belief.\n1/12/17\nR.\n(Date of signature)\n(Signature)\nFootnote: "Political activity," as defined in Section 1(0) of the Act, means any activity which the person engaging in believes will, or '
+
+### signer_name | vrdu-reg-20180425-Bluetext-LLC-Stetler-Olivia-Sho-5d8c51e4 | template=Short-Form
+   ... 'idate\nLocation of Event\nEXECUTION\nIn accordance with 28 U.S.C. § 1746, the undersigned swears or affirms under penalty of perjury that he/she has read the\ninformation set forth in this registration statement and that he/she is familiar with'
+   ... 'true and accurate to the best of his/her knowledge and belief.\n4/25/18\n(Date of signature)\n(Signature)\nFootnote: "Political activity." as defined in Section 1(o) of the Act, means any activity which the person engaging in believes will, or '
+
+### signer_name | vrdu-reg-20180501-MSLGROUP-Americas-Inc-Keppler-C-8530b76a | template=Short-Form
+   ... 'idate\nLocation of Event\nEXECUTION\nIn accordance with 28 U.S.C. § 1746, the undersigned swears or affirms under penalty of perjury that he/she has read the\ninformation set forth in this registration statement and that he/she is familiar with'
+   ... 'e to the best of his/her knowledge and belief..\nDeler\nwamy\nMay 1, 2018\n(Date of signature)\nSign\n(Signature\nFootnote: "Political activity," as defined in Section 1(o) of the Act, means any activity which the person engaging in believes will,'
+
+### signer_title | vrdu-reg-20060407-Garvey-Schubert-Barer-Amendment-c83da6ed | template=Amendment
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20080401-Glover-Park-Group-LLC-Amendment-d2dcc0f7 | template=Amendment
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20080417-CMGRP-Inc-Jensen-Paul-Short-For-19b6e94f | template=Short-Form
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20090409-Public-Strategies-Washington-In-932c68b0 | template=Amendment
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20110128-Podesta-Group-Inc-Clark-Christi-648efe8d | template=Short-Form
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20120907-Hogan-Lovells-US-LLP-Amendment-772abfa2 | template=Amendment
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20120920-Commonwealth-of-Dominica-Mariti-e54dcefc | template=Short-Form
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20121129-Commonwealth-of-Dominica-Mariti-a9616a28 | template=Short-Form
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20121207-Pillsbury-Winthrop-Shaw-Pittman-7d551def | template=Amendment
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20150416-Greenberg-Traurig-LLP-Zausner-L-e6dc3583 | template=Short-Form
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20170112-Podesta-Group-Inc-Thompson-Dana-dedbf511 | template=Short-Form
+   (label not found in OCR)
+
+### signer_title | vrdu-reg-20170130-Burson-Marsteller-LLC-Washingto-c18eabbb | template=Short-Form
+   (label not found in OCR)
+
+### tv_address | vrdu-adbuy-493496-bf96430d | template=2-4-page
+   (label not found in OCR)

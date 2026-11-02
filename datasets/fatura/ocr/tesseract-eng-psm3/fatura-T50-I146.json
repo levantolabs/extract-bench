@@ -1,0 +1,1 @@
+{"id": "fatura-T50-I146", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1}, "ms": 537.3, "per_image": [{"file": "Template50_Instance146.jpg", "page": "Template50_Instance146.jpg", "ms": 512.3}], "ts": "2026-10-23T07:16:03+0800"}

@@ -1,0 +1,57 @@
+Stein-Fernandez BILL_To:
+
+Joffrey Strickland
+
+INVOICE
+
+Date: 21-Sep-2022
+
+‘990 Shawn Parkways Apt. 487
+
+Address:0344 Jonathan Club
+
+Port Patriciashire, PW 72063 US _—_—Tel:+(695)190-8300
+
+Lake Jose, NJ 41977 US
+
+Due Date : 26-Jul-2001
+
+@example.net
+
+Site:https:/iwolfe.info!
+
+Item Price
+
+Product age get board. 38.47
+
+Education. 35.08
+
+Price within, 50.53,
+Terms & Conditions:
+
+4. Please send payment within 8 days of receiving this invoice.
+‘There willbe a 2.5% intrest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes,
+
+‘Thank you for your business!
+
+Bank Name Central Bank of USA
+Branch Name Raf CAMP.
+
+Bank Account Number 17462002
+Bank Swift Code SBININBB250
+
+Quantity ‘Amount
+1.00 38.47
+1.00 35.08
+4.00 202.12
+
+‘SUB_TOTAL : 275.67 EUR
+DISCOUNT(2.85%): (-) 7.86
+TAXVAT (4.27%): 11.77 EUR
+TOTAL : 276.58 EUR
+
+Total in words: two hundred and sevent-
+y-six point five eight
+
+Email:houstonjoyce@example.net

@@ -1,0 +1,48 @@
+7
+
+RESTAURANT JIAWE|
+JIAWE! HOUSE
+
+002693074-K
+13, JLN i ASIK UTAMA 8
+MEDAN NIAGA DAMA| SG BES!
+57000 KL
+
+INVOICE
+
+Invoice 884 Cashier: admin
+
+POS No:2
+Date : 23/2/2018 20:04:08
+
+Table : 13
+
+{TEM QTY  U/P(RM) DISC (%) — Amt (RM)
+
+Red Cat Fish
+1 42. 00 0.00 42.
+Steamed
+Ginger Clams (S)
+1 20. 00 0. 00
+Beancurd W Dao Gan(S)
+
+18. 00 0. 00
+G. Dragon Chives (S)
+1 16. 00 0. 00
+STIR FRIED
+Pu Er (1~3)
+(1-3) 1 5.00 0. 00 5. 0:
+HOT
+Rice (B) |
+. 50 0. 00 6
+Rice Smal |
+1 00 0. 00 3. 0:
+Sub Total Be scount RM 110. 00
+Service Char, . RM 0. 00
+Total Sales RM 110.00
+Rounding Adjustment - RM 0. 00
+TOTAL RM 110. 00
+
+SOR OOCOCORIOOEER IO ACCICOK IIA ARIK ACOA IK.
+
+—— os ak

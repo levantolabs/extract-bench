@@ -1,0 +1,37 @@
+Address:4894 Melanie Pass Apt. 742
+Tammyland, SD 42587 US
+
+Invoice Date: 30-Sep-2012
+Invoice number INV/96-08/088
+
+Mclean-Cochran
+Due Date : 10-Dec-1993
+
+Bill to:Stephanie Smith
+
+59541 Douglas Dam
+
+East Stephanie, PA 03953 US
+Tel:+(993)618-2795
+Email:donaldjimenez@example.net
+Site:https://www.anderson.biz/
+
+ITEMS QUANTITY PRICE TAX AMOUNT
+Friend should company. 4.00 $75.18 $0.00 $300.72
+Out about toward. 5.00 $3.91 $0.00 $19.55
+Agent might. 3.00 $97.78 $0.00 $293.34
+Lay loss. 1.00 $70.66 $0.00 $70.66
+
+DISCOUNT(3.49%): (-) 23.88
+
+TOTAL : 704.19 EUR
+
+Terms & Conditions
+
+1. Please send payment within 8 days of receiving this invoice.
+There will be a 2.5% interest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes.
+
+Note:Total payment due in 14 days.
+
+Email:cjames@example.com

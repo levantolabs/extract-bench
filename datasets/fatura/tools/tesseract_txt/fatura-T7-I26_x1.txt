@@ -1,0 +1,35 @@
+White and Sons
+
+Email:cpetersen@example.com
+
+‘www.WhiteandSons.org
+
+COMMERCIAL INVOICE
+
+Bill to:Thomas Kline
+19904 Lambert Freeway
+
+Lake Meganville, AZ 31505 US
+
+Tel:+(509)337-7736
+Email
+
+.cobsrobert@example.net
+Site:http:/www.gutierrez.com!
+
+INVOICE ID INV/87-35/310
+
+Date: 13-Apr-2022
+Due Date : 25-May-2009
+
+TEMS (QUANTITY, PRICE:
+
+Yes painting security 3.00 S715
+Trouble return 2.00 $15.13
+Eight man police 4.00 S108
+
+GST(9%) : 51.11
+
+‘SUB_TOTAL : 567.87 USD
+
+TOTAL : $73.69 USD

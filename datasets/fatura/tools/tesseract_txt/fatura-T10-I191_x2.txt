@@ -1,0 +1,36 @@
+Address:4894 Melanie Pass Apt. 742
+Tammyland, SD 42587 US
+
+Date: 18-Jun-2015
+
+INVOICE ID INV37607154
+Mclean-Cochran
+
+Due Date : 18-May-2019
+
+Buyer :Jennifer Sampson
+
+25422 Smith Ranch Suite 525
+Currychester, FM 61910 US
+Tel:+(955)553-4503
+Email:calhoundarren@example.net
+Site:http://www.villegas.com/
+
+ITEMS QUANTITY PRICE TAX AMOUNT
+Letter against hold. 6.00 $39.03 $0.00 $234.18
+Respond. 2.00 $38.46 $0.00 $76.92
+
+DISCOUNT(4.81%): (-) 14.96
+
+TOTAL : 319.28 $
+
+Terms & Conditions
+
+1. Please send payment within 8 days of receiving this invoice.
+There will be a 2.5% interest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes.
+
+Note:
+This order is shipped through blue dart courier
+
+Email:cjames@example.com

@@ -1,0 +1,90 @@
+{
+ "n": 347,
+ "reencoded": 0,
+ "img_formats": {
+  "JPEG": 347
+ },
+ "date_rules": {
+  "dmy_numeric": 296,
+  "d_monname_y": 47,
+  "ymd": 3,
+  "dmy_numeric_invalid": 1
+ },
+ "money_rules": {
+  "plain": 285,
+  "currency_stripped": 62
+ },
+ "typed_flags": [
+  {
+   "id": "sroie-X51005719895",
+   "notes": [
+    {
+     "field": "date",
+     "raw": "1/8/2018",
+     "rule": "dmy_numeric",
+     "note": "ambiguous_unpadded: day-first kept by rule; month-first reading would be 2018-01-08"
+    }
+   ]
+  },
+  {
+   "id": "sroie-X51006414532",
+   "notes": [
+    {
+     "field": "date",
+     "raw": "6/4/2018",
+     "rule": "dmy_numeric",
+     "note": "ambiguous_unpadded: day-first kept by rule; month-first reading would be 2018-06-04"
+    }
+   ]
+  },
+  {
+   "id": "sroie-X51006414715",
+   "notes": [
+    {
+     "field": "date",
+     "raw": "4/22/2018",
+     "rule": "dmy_numeric_invalid",
+     "note": "day-first reading is not a valid date; month-first reading listed for review"
+    }
+   ]
+  },
+  {
+   "id": "sroie-X51006556654",
+   "notes": [
+    {
+     "field": "total",
+     "raw": "-6.42",
+     "rule": "plain",
+     "note": "negative total in gold (credit/refund receipt?); kept as is"
+    }
+   ]
+  },
+  {
+   "id": "sroie-X51006556723",
+   "notes": [
+    {
+     "field": "total",
+     "raw": "-5.09",
+     "rule": "plain",
+     "note": "negative total in gold (credit/refund receipt?); kept as is"
+    }
+   ]
+  },
+  {
+   "id": "sroie-X51006619784",
+   "notes": [
+    {
+     "field": "date",
+     "raw": "7/6/2016",
+     "rule": "dmy_numeric",
+     "note": "ambiguous_unpadded: day-first kept by rule; month-first reading would be 2016-07-06"
+    }
+   ]
+  }
+ ],
+ "mirror_gold_diff": [],
+ "mirror_missing": [],
+ "mirror_dims_diff": [],
+ "prompts_distinct": 2,
+ "holdout_n": 69
+}

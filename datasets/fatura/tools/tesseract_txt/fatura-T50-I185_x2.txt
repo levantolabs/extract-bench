@@ -1,0 +1,37 @@
+INVOICE
+
+Stein-Fernandez BILL_TO:
+
+Matthew Padilla A :
+
+5114 Morris Fork Apt. 707 Invoice Date: 11-May-2013
+Address:0344 Jonathan Club Lorraineside, AZ 74442 US Due Date : 01-Apr-2007
+Port Patriciashire, PW 72063 US Tel:+(512)176-5999
+
+Email:laura56@example.net
+Site:http://wilcox.com/
+
+Item Price Quantity Amount
+Expect brother. 6.35 3.00 19.05
+Drug which soldier. 88.38 5.00 441.90
+T & Conditi F
+4. Please cand paynienil within 8 days of receiving this invoice. SUBLTOTAL ::460:95 EUR
+There will be a 2.5% interest charge per month on late invoices. DISCOUNT(1.44%): (-) 6.64
+
+2. Please include the Invoice number in your payment notes.
+TAX:VAT (6.53%): 30.08 EUR
+
+Thank you for your business! TOTAL : 482.50 EUR
+
+Total in words: four hundred and ei-
+ghty-two point five
+
+Bank Name Central Bank of California
+Branch Name Raf CAMP
+
+Bank Account Number 11288400
+
+Bank Swift Code SBININBB250
+
+Email:houstonjoyce@example.net
+

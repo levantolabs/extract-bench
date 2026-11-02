@@ -1,0 +1,1 @@
+{"id": "fatura-T4-I132", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 393.7, "per_image": [{"file": "Template4_Instance132.jpg", "page": "Template4_Instance132.jpg", "psm_used": 3, "chars": 470, "ms": 356.5}], "ts": "2026-10-23T07:22:59+0800"}

@@ -1,0 +1,1 @@
+{"id": "cord-dev-073", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 429.6, "per_image": [{"file": "cord-dev-073.png", "page": "cord-dev-073.png", "psm_used": 6, "chars": 28, "ms": 404.9}], "ts": "2026-10-23T07:23:59+0800"}

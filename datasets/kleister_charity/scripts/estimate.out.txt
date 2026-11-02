@@ -1,0 +1,13 @@
+ESTIMATE ONLY (list prices + stated assumptions; tokens o200k via tiktoken)
+arm                   dataset            items  calls      in_tok   out_tok       USD wall_min assumedTxt
+clairic_text          kleister_charity     212    217  30,442,186         0    3.0442      0.4          0
+clairic_text_w15k     kleister_charity     212    350  30,580,506         0    3.0581      0.7          0
+sage_precise          kleister_charity     212    356   3,559,990   467,072    4.8487      1.6          0
+haiku_json            kleister_charity     212    212   3,527,138    46,640    0.3760     12.0          0
+
+per arm:
+  clairic_text           $3.0442  217 calls  ~0.4 min
+  clairic_text_w15k      $3.0581  350 calls  ~0.7 min
+  sage_precise           $4.8487  356 calls  ~1.6 min
+  haiku_json             $0.3760  212 calls  ~12.0 min
+  ALL                    $11.3270

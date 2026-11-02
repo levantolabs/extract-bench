@@ -1,0 +1,23 @@
+Marvin Hane
+8601 S 6th Street
+Fort Donavon, Idaho 14858-1414
+
+PAY TO THE ORDER OF
+
+Miller - Schamberger
+
+<logo>WELLS FARGO<logo>
+
+ONE THOUSAND FOUR HUNDRED THIRTY THREE and 59/100
+
+MEMO
+
+⑆963261223⑆ 3921313987 ⑈8717⑈
+
+2025-02-12
+
+$1,433.59
+
+DOLLARS
+
+Marvin Hane

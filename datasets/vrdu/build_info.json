@@ -1,0 +1,26 @@
+{
+ "adbuy_test_docs": 300,
+ "adbuy_dropped_over_4_pages": 29,
+ "adbuy_eligible": 271,
+ "adbuy_pop_1page": 81,
+ "adbuy_pop_2to4page": 190,
+ "stratum_weight": {
+  "1-page": 0.5977859778597786,
+  "2-4-page": 1.4022140221402215
+ },
+ "adbuy_page_hist_test": {
+  "1": 81,
+  "2": 91,
+  "3": 70,
+  "4": 29,
+  "5": 14,
+  "6": 6,
+  "7": 3,
+  "8": 3,
+  "10": 1,
+  "12": 2
+ },
+ "n_items": 360,
+ "n_registration": 300,
+ "n_adbuy": 60
+}

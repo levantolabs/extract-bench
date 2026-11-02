@@ -1,0 +1,89 @@
+{
+ "n_items": 200,
+ "errors": [],
+ "by_split": {
+  "dev": 100,
+  "test": 100
+ },
+ "holdout": {
+  "dev:False": 80,
+  "dev:True": 20,
+  "test:False": 80,
+  "test:True": 20
+ },
+ "field_types": {
+  "money": 1597,
+  "number": 200,
+  "list": 600
+ },
+ "n_fields_total": 2397,
+ "gold_null": {
+  "subtotal_price": 68,
+  "discount_price": 188,
+  "service_price": 175,
+  "tax_price": 110,
+  "creditcardprice": 170,
+  "menuqty_cnt": 145,
+  "changeprice": 80,
+  "cashprice": 69,
+  "total_price": 7,
+  "menu_cnt": 19,
+  "menu_price": 2
+ },
+ "gold_present": {
+  "total_price": 193,
+  "cashprice": 131,
+  "changeprice": 120,
+  "menu_nm": 200,
+  "menu_cnt": 181,
+  "menu_price": 198,
+  "subtotal_price": 132,
+  "tax_price": 88,
+  "menuqty_cnt": 55,
+  "creditcardprice": 30,
+  "discount_price": 11,
+  "service_price": 25
+ },
+ "n_null_gold_fields": 1033,
+ "n_null_gold_scalar_fields": 1012,
+ "oracle_text_tokens_o200k": {
+  "n": 200,
+  "p50": 55.0,
+  "p95": 128.1,
+  "min": 20,
+  "max": 196,
+  "mean": 62.0
+ },
+ "field_defs_tokens_o200k": {
+  "n": 200,
+  "p50": 670.0,
+  "p95": 670.0,
+  "min": 612,
+  "max": 670,
+  "mean": 669.2
+ },
+ "oracle_plus_field_defs_tokens_o200k": {
+  "n": 200,
+  "p50": 725.0,
+  "p95": 798.1,
+  "min": 645,
+  "max": 866,
+  "mean": 731.2
+ },
+ "ccocr_prompt_tokens_o200k_test": {
+  "n": 100,
+  "p50": 185.0,
+  "p95": 202.0,
+  "min": 157,
+  "max": 217,
+  "mean": 183.3
+ },
+ "image_bytes": {
+  "n": 200,
+  "p50": 1388661.0,
+  "p95": 2274067.45,
+  "min": 89977,
+  "max": 3724447,
+  "mean": 1320117.4
+ }
+}

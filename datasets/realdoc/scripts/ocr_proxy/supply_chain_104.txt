@@ -1,0 +1,86 @@
+LINE INFORMATION
+
+#2
+
+31D. Vessel Name:
+
+31. LINE 1 HTS CODE: 31A. Country of Mining: [X Disclaimed
+# 9022.21. 0000 31B. Country of Harvest: Disclaimed
+#2 31C. Vessel Flag China (CN)
+31D. Vessel Name: 31E. Vessel International Maritime Organization (IMO) Number:
+M/V Ever Globe 47C 9327
+31F. Method of Harvest: Dise | Pree). |
+31. LINE 2 HTS CODE: 31A. Country of Mining: [X] Disclaimed
+#1 90 22.21.0000 31B. Country of Harvest: [X] Disclaimed
+#2 31C. Vessel Flag) China (Cn)
+31D. Vessel Name: 31E. Vessel International Maritime Organization (IMO) Number:
+M/V Ever Globe 9789327
+31F. Method of Harvest! Disclaimeal
+31. LINE 3 HTS CODE: 31A. Country of Mining: [_] Disclaimed
+#1 31B. Country of Harvest: [_] Disclaimed
+
+31C. Vessel Flag:
+
+31E. Vessel International Maritime Organization (IMO) Number:
+
+31F. Method of Harvest:
+
+31. LINE 4 HTS CODE:
+#1
+
+#2
+
+31D. Vessel Name:
+
+31A. Country of Mining: ie Disclaimed
+
+[_] Disclaimed
+
+31B. Country of Harvest:
+
+31C. Vessel Flag:
+
+31E. Vessel International Maritime Organization (IMO) Number:
+
+31F. Method of Harvest:
+
+31. LINE 5 HTS CODE:
+#1
+
+#2
+
+31D. Vessel Name:
+
+31A. Country of Mining: C] Disclaimed
+
+[J Disclaimed
+
+31B. Country of Harvest:
+
+31C. Vessel Flag:
+
+31E. Vessel International Maritime Organization (IMO) Number:
+
+31F. Method of Harvest:
+
+31. LINE 6 HTS CODE:
+#1
+
+#2
+
+31D. Vessel Name:
+
+31A. Country of Mining:
+31B. Country of Harvest:
+31C. Vessel Flag:
+
+31E. Vessel International Maritime Organization (IMO) Number:
+
+(] Disclaimed
+(_] Disclaimed
+
+31F. Method of Harvest:
+
+CBP Form 7501 (02/26)
+
+Page 3 of 27

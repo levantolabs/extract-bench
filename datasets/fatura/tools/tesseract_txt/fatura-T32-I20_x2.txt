@@ -1,0 +1,31 @@
+Invoice Date: 29-Jul-2006
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Email:marymoore@example.org
+
+ITEMS QUANTITY
+Customer. 1.00
+Bar stock. 6.00
+Note:
+
+This order is shipped through blue dart courier
+
+INVOICE # INV/62-58/354
+
+Buyer :Ryan Fox
+
+7562 Brown Parks Suite 179
+Bruceport, NC 77423 US
+Tel:+(599)397-0010
+Email:leachscott@example.net
+Site:http://www.wolfe.org/
+
+PRICE TAX AMOUNT
+$19.73 $0.00 $19.73
+$9.93 $0.00 $59.58
+
+SUB_TOTAL : 79.31 $
+
+TOTAL : 79.44 $

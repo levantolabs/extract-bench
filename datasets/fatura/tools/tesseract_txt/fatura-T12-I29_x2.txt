@@ -1,0 +1,40 @@
+TAX INVOICE
+
+Invoice number 7Y 1M2d-066
+Date: 27-Aug-2015
+Due Date : 05-Aug-1994
+
+Buyer :Shannon English
+
+Richardson-Davis 8735 Barber Forks Suite 229
+Address:6479 Smith Causeway Kevinchester, PR 84345 US
+East Camerontown, AS 38212 US Tel:+(007)527-6132
+
+Email:phamshelley@example.com
+Site:https://www.contreras-underwood.biz/
+
+1600 | 679423 When something work charge. 347.40
+5.00 7.60
+
+301020 Prove finally that. 38.00
+
+257.80
+19.17
+
+Bank Name Central Bank of Texas SUB_TOTAL : 930.24 USD
+Branch Name Raf CAMP DISCOUNT(4.86%): (-) 45.21
+Bank Account Number 13609518 r S
+
+Bank Swift Code SBININBB250 TARRVAT (B65 70)::49:29 USD
+
+TOTAL : 934.27 USD
+
+Total in words: nine hundred and thirt-
+
+Note:
+y-four point two seven
+
+This order is shipped through blue dart courier
+
+Terms and Conditions
+will be charged if payment is not made within the due date.

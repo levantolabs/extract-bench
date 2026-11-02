@@ -1,0 +1,58 @@
+{
+ "063a3796dad19cc0c92c71424a600946": {
+  "answer": {
+   "flag": "gold_wrong",
+   "note": "Gold is a mid-sentence fragment starting 'driven by the acquisition of Red Hat; offset by...' and drops the main driver ($32,491M acquisitions) the arms gave.",
+   "source": "hand_audit"
+  }
+ },
+ "32cb94c563c3916f04128616e2daf764": {
+  "answer": {
+   "flag": "ambiguous",
+   "note": "scorer: arms (clairic/haiku/sage_fast) give gold's first sentence 'the revenue the Group will recognise...'; gold adds second sentence.",
+   "source": "hand_audit"
+  }
+ },
+ "43c792d0803c8cd37130be5e06db5ebc": {
+  "answer": {
+   "flag": "ambiguous",
+   "note": "scorer: arms give 'investments made to upgrade our wireless network...', near-identical to gold 'result of investments...'.",
+   "source": "hand_audit"
+  }
+ },
+ "7218d43d1c9d66badcf6f782891abd1f": {
+  "answer": {
+   "flag": "ambiguous",
+   "note": "Question 'broad categories' admits row labels; gold = 2 subtotal rows. Arms listed table rows incl. 'Non-current segment assets' (partly right).",
+   "source": "hand_audit"
+  }
+ },
+ "72a0d957bd35bb20239aa14da1df1ba3": {
+  "answer": {
+   "flag": "ambiguous",
+   "note": "scorer: arms 'loans payable' vs gold 'As of December 31, 2019 and 2018, loans payable' (span boundary).",
+   "source": "hand_audit"
+  }
+ },
+ "900d3286a766a50294dd9f52a40f8016": {
+  "answer": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku gives full gold sentence plus 'were not material...'; clairic gives core span 'assets measured at fair value on a nonrecurring basis'.",
+   "source": "hand_audit"
+  }
+ },
+ "9f6491d767032159922ae7b2d7e025e3": {
+  "answer": {
+   "flag": "ambiguous",
+   "note": "Text lists 4 drivers; gold keeps first 2. Clairic gave driver 1, haiku gave the full list. Span-choice issue.",
+   "source": "hand_audit"
+  }
+ },
+ "fa64104d2b254454e60202e0c24ff9dc": {
+  "answer": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku gives gold sentence verbatim with 'For contracts that exceed one year,' prefix; others partial.",
+   "source": "hand_audit"
+  }
+ }
+}

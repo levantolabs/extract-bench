@@ -1,0 +1,71 @@
+Period Overview
+
+|                               | Current        | Year-to-Date   |
+| :---------------------------- | :------------- | :------------- |
+| Beginning of Period Value     | $283,234.00    | $753,905.00    |
+| Comprehensive Portfolio Change | -$70,044.25   | -$128,424.60  |
+| Capital Appreciation          | $86,182.91    | $107,525.50    |
+| Dividends                     | $0.00          | $15,843.65    |
+| Distributions                 | -$141,043.38  | -$206,900.10  |
+| Deposits                      | $22,089.53    | $67,860.20    |
+| Portfolio Rebalancing         | $0.00          | $95,317.60    |
+| Ancillary Transactions        | -$18,732.81   | -$47,634.90   |
+| ENDING ACCOUNT VALUE          | $161,686.00    | $657,492.35    |
+
+¹ Net Change in Portfolio is the difference between the ending account value and beginning account value after activity.
+
+Your Account Information
+
+TAX LOT DEFAULT DISPOSITION METHOD
+
+Default cost basis method for mutual ☐ AVERAGE ☑ FIFO ☐ LIFO ☐ Specific
+fund shares:
+
+Default cost basis strategy for DRIP- ☐ AVERAGE ☑ FIFO ☐ LIFO ☐ Specific ☐ HighCost
+enrolled equities:
+
+Preferred tax-lot selection for general securities ☑ FIFO ☐ LIFO ☐ Specific ☐ HIFO
+(e.g., FIFO, HIFO):
+
+BOND AMORTIZATION ELECTIONS
+
+Use constant-yield calculations to reduce bond premiums: NO
+Leverage an accrual approach to recognize discount across bond categories: Constant
+Recognize bond discount in each year's income: Defer
+
+| Security Identifier | ETF                                       | Closing Price | One Day Change | Avg. Daily Volume | Asset Class | Price Change in Period (YTD) |
+| :------------------ | :---------------------------------------- | :------------ | :--------------- | :---------------- | :---------- | :----------------------------- |
+| VTV                 | Vanguard Value ETF                          | 168.94        | -0.0101          | 1827734           | Equity      | 0.1571                         |
+| VEA                 | Vanguard FTSE Developed Markets ETF         | 47.81         | -0.0062          | 10714970          | Equity      | 0.0312                         |
+| IJH                 | iShares Core S&P Mid-Cap ETF                | 62.17         | -0.007           | 7659450           | Equity      | 0.1366                         |
+| IJR                 | iShares Core S&P Small-Cap ETF              | 114.97        | -0.0072          | 3509577           | Equity      | 0.0839                         |
+| IEMG                | iShares Core MSCI Emerging Markets ETF       | 52.31         | -0.0082          | 9449047           | Equity      | 0.0667                         |
+| IVV                 | iShares Core S&P 500 ETF                    | 590.98        | -0.011           | 5875330           | Equity      | 0.2542                         |
+| VGT                 | Vanguard Information Technology ETF         | 627.57        | -0.0125          | 453405            | Equity      | 0.305                          |
+| VOO                 | Vanguard S&P 500 ETF                        | 540.99        | -0.0111          | 5594505           | Equity      | 0.2548                         |
+
+Client Service Information
+Statement for period October 1, 2018 - December 31, 2018
+
+Your Financial Consultant: Jaime Thompson Contact Information
+ID: FF5EZYPTd Business: (694) 579-2281
+313 Celestine Meadow Padbergfield Oklahoma, 62646-9681
+
+Daily Balances
+
+| Date         | Amount        | Date         | Amount        |
+| :----------- | :------------ | :----------- | :------------ |
+| 2023-12-30   | $161,938.00   | 2023-12-15   | $162,228.00   |
+| 2023-12-29   | $161,925.00   | 2023-12-14   | $162,163.00   |
+| 2023-12-28   | $161,929.00   | 2023-12-13   | $162,255.00   |
+| 2023-12-27   | $161,793.00   | 2023-12-12   | $162,343.00   |
+| 2023-12-26   | $161,845.00   | 2023-12-09   | $162,157.00   |
+| 2023-12-23   | $161,870.00   | 2023-12-08   | $162,045.00   |
+| 2023-12-22   | $161,926.00   | 2023-12-07   | $161,934.00   |
+| 2023-12-21   | $163,610.00   | 2023-12-06   | $161,837.00   |
+| 2023-12-20   | $163,751.00   | 2023-12-05   | $161,918.00   |
+| 2023-12-19   | $163,651.00   | 2023-12-02   | $161,906.00   |
+| 2023-12-16   | $163,580.00   | 2023-12-01   | $160,220.00   |
+
+Evercore
+<page_number>61</page_number>

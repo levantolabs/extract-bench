@@ -1,0 +1,51 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+
+Port Lindsey, MP 98258 US
+
+COMMERCIAL INVOICE
+
+BILL_TO:
+
+Wayne Montgomery
+
+6518 Taylor Causeway
+
+New Melissatown, WI 43230 US
+Tel:+(922)296-6782
+Email:pamelamartinez@example.org
+Site:http://jones.biz/
+
+[ Description
+
+[ Respond mean of.
+
+| Manage people world,
+| Will bar. ;
+
+| With actually.
+
+| QUANTITY
+| 6.00
+| 6.00
+| 4.00
+[6.00
+
+TOTAL : 1117.48 EUR
+
+Due Date : 08-Apr-2004
+
+Invoice Date: 28-Feb-1997
+
+| PRICE
+| $68.40
+| $6.21
+
+| $37.79
+| $97.35
+
+SUB_TOTAL : 1069.55 EUR
+DISCOUNT(2.24%): (-) 23.96
+
+Thank you for your business!

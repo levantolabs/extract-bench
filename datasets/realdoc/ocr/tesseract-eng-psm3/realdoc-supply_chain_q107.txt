@@ -1,0 +1,70 @@
+MUREX
+
+BOL No: 3582421 Straight Bill of Lading - Original - Not Negotiable Ship Date: 01/06/2022 09:01
+To Consignee: Lincoln Oil From Shipper: Hereford Ethanol Partners, LP
+Customer: Lincoln Oil
+Sold To: Lincoln Oil Origin: Hereford Ethanol Partners, LP
+1 Main St 4300 COUNTY ROAD 8
+
+Hereford, TX 79045
+Destination: c/o Musket Terminal - Fort Worth, TX
+Fort Worth, TX 76106
+
+HEREFORD, TX 79045
+
+Contract No: 35036
+
+Routing:
+Notes: Comments:
+Origin Release No. Vehicle:
+29,027 Net GALLONS HM Description of Articles
+UN 1987, Alcohols N.O.S.(Ethanol and TILX731758
+x gasoline), 3, PG Il, HAZMAT STCC 4909152, Customer PO No.
+29,000 Gross GALLONS Placarded: Flammable
+Total Quantity 1 Bulk Package Seals: 168353 168355 168356 Product Code: ETHD RF 6
+Certificate of Analysis
+Meter Ticket: 2 Temp: 58,50° Net Vol: 29027 Gross Vol: 29000 Scale:
+Source Tank; 8203 By: Pete Vargas Activated Date: 01/06/2022 06:06
+Quality Range Result UOM Testing Method
+Ethanol; vol% 92.1 min 96,9906 vol% ASTM D5501
+Methanol; vol% 0.5 max 0.0688 vol% ASTM DS5501
+Solvent Washed Gum; mg/100ml 5.0 max 1.0 mg/100mi ASTM D361
+Water; vol% 1.0 max 0.698 vol% ASTM E1064
+Chloride; mg/L. 8 max 1 mg/L. ASTM 07319
+Copper; mg/L 0.1 max 05 mg/L ASTM D1688
+Acidity (as acetic acid); wt% 0,007 max 0.0021 wt% ASTM D1613
+pHe 6.5-9.0 8.24 ASTM D6423
+Sulfur, ppm 10 max 1.23 ppm ASTM D5453
+Total Sulfate, ppm (wt/wt) 4 max 0.169 ppm ASTM 07319
+Visual Appearance: Clear and Bright Visual
+Benzene; vol% 0.06 max 0.01 vol% ASTM D5580
+Aromatics; vol% 03 4.7: max
+Olefins; vol% 0.5 max 03 vol% ASTM D5580
+Corrosion Inhibitor; CorrPro NT
+Corrosion Inhibitor; PTBE 7.08
+Denaturant Content; vol% 1,96 to 2.49 2.2675 vol% ASTM D5501
+Noles: 1 Tesi indicaled are performed quarierly by an Independant third pary laboratory.
+: 2: Resulls are calculated based on denaturant content and tank lest results p
+
+nt third party Laborato:
+: Denalurant used meets the CARB specifications for fuel ethanol denaturants, This product meats n Mageben op specifications for thane! Denetured fuel ethanol, maximum 10 ppm sulfur.
+
+Received, subject to classifications and lawfully filed tariffs in effect on the date of the Issue of this Bill of Lading, the property described above is in apparent good order, except as noted
+
+{contents and condtons of packages unknown), marked, consigned and destined as indicated above ‘which sald carrier (the word carrier belng understood throughout this contract as meaning any person
+Corporation In possession ofthe property under the contract) agrees to carry to lls usual place of delivery at sald destination, if on ils route o destnalon and as each party at any
+
+intorosted In all of any of sald propa property, that any service fo be perormed hereunder shall be subjacto alo the bil of lang terms and conditions in the the governing classicaton of the date
+
+2, Shipper hereby certifies tha he is familar thal ot tre ol of ladlng terms and condlions or he goverring classifeation and the sald terms and condtions are hereby agrees by the
+
+shipper and accepled lo himself and his assigns.
+
+From Shipper: Hereford Ethanol Partners, LP Carrier: RAIL
+
+Per: Per:
+IN CASE OF EMERGENCY CONTACT CHEMTREC 1-800-424-9300 CCN 613923Date: 01/06/2022
+
+Mark with "to designate Hazardous Material as defined in Tite 49 ofthe Code of Federal Regulations, Monitored at ll mes the Hazardous Material in transportation Including storage
+incidental to transportation (1.72,604) This to certify that herein named materials are properly described, marked, and labelled and in proper condition for transportation
+‘according to the applicable regulations of the Department of Transportation**

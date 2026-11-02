@@ -1,0 +1,32 @@
+Address:4894 Melanie Pass Apt. 742
+Tammyland, SD 42587 US
+
+Date: 21-Apr-2020
+
+Invoice number INV11987254
+Mclean-Cochran
+
+Due Date : 16-Jan-2011
+
+Buyer :April Melton
+
+26437 Stone Brooks Apt. 773
+Robertfort, NV 95579 US
+Tel:+(194)003-6215
+Email:nhoffman@example.com
+
+Site:http://www.nelson.com/
+ITEMS QUANTITY PRICE TAX AMOUNT
+Approach son maintain. 5.00 $67.99 $0.00 $339.95
+Finally weight. 5.00 $24.70 $0.00 $123.50
+
+DISCOUNT(4.16%): (-) 19.28
+
+TOTAL : 459.73 $
+
+Terms and Conditions
+will be charged if payment is not made within the due date.
+
+Thank you for choosing us!
+
+Email:cjames@example.com

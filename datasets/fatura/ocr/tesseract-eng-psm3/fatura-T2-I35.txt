@@ -1,0 +1,44 @@
+Ww
+
+“
+
+Barnes, Garcia and Martin,
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US.
+
+GSTIN: 3312345678910221
+
+Bill to:Daniel Johnston
+740 Cynthia Plains
+
+Port Robert, MD 42465 US
+Tel:+(397)246-3899
+Email:edward53@example.org
+Site:https://www.hunter.com/
+
+Description ‘QUANTITY
+Political company factor 6.00
+Decide minute why. 1.00
+Five front hime 1.00
+Letter though than 2.00
+ass experience professional foo 5.00
+
+COMMERCIAL INVOICE
+
+INVOICE ID INV27765231
+Date: 31-Aug-1993
+
+PRICE
+$87.13
+$605
+
+$62.90
+$05.25
+$98.16
+
+‘SUB_TOTAL : 968.12 USD
+
+GST(7%) : 67.77
+
+TOTAL : 1022.24 USD

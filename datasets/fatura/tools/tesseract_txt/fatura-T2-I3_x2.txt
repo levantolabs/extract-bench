@@ -1,0 +1,34 @@
+COMMERCIAL INVOICE
+
+Invoice number 7Y5M6d-853
+Invoice Date: 11-May-2007
+
+VW
+
+4
+
+Barnes, Garcia and Martin
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 3312345678910221
+
+Buyer :Tracy Drake
+
+0864 Michelle Haven Suite 174
+
+Lake Kimberly, WV 26542 US
+Tel:+(770)167-9226
+Email:bobby54@example.org
+Site:http://www.mcfarland-graham.com/
+
+Description QUANTITY | PRICE
+Share writer real. 2.00 $64.60
+Rather on entire. 6.00 | $5.42
+
+SUB_TOTAL : 161.72 USD
+
+GST(7%) : 11.32
+
+TOTAL : 165.45 USD

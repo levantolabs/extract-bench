@@ -1,0 +1,27 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US
+
+COMMERCIAL INVOICE TOTAL : 247.63 $
+BILL_TO:
+Becky Garcia
+443 Melissa Pass Due Date : 24-Mar-2019
+
+Burtonton, MD 73613 US
+Tel:+(307)117-7589
+Email:rodneywright@example.com
+Site:http://www.ortiz-huffman.com/
+
+Date: 07-May-1998
+
+| Description | QUANTITY | PRICE
+| Child. | 4.00 | $2.79
+| Medical police. | 3.00 [$5.11
+| Defense fight. | 5.00 | $28.97
+| Subject within. | 3.00 | $23.73
+
+SUB_TOTAL : 242.53 $
+DISCOUNT(2.03%): (-) 4.92
+
+Note:Total payment due in 14 days.

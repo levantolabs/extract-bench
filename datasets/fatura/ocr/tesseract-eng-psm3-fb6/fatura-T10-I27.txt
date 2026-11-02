@@ -1,0 +1,26 @@
+Address:4894 Melanie Pass Apt. 742
+‘Tammyland, SD 42587 US
+Date: 12-Feb-2013
+Invoice number INV82119267
+Mclean-Cochran
+Due Date : 15-Jul-1998
+
+‘ogarcia@example.net
+Site:https://parks.com/
+
+rems QUANTITY PRICE TAK ‘AMOUNT
+Permay run, 1100 $2088 $0.00 $20.56
+‘Agency gun camera, 200 $6908 $0.00 $198.12
+Industry teat. 500 $5338 © $000 $266.90
+
+DISCOUNT(1.63%): (-) 6.94
+
+TOTAL : 432.00 USD
+
+‘Terms and Conditions
+will be charged if payment is not made within the due date.
+
+Note:
+This order is shipped through blue dart courier
+
+Email:cjames@example.com

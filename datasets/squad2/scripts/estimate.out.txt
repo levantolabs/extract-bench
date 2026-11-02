@@ -1,0 +1,21 @@
+ESTIMATE ONLY (list prices + stated assumptions; tokens o200k via tiktoken)
+arm                   dataset            items  calls      in_tok   out_tok       USD wall_min assumedTxt
+clairic_text          squad2               120    120      37,342         0    0.0037      0.2          0
+clairic_text_w15k     squad2               120    120      37,342         0    0.0037      0.2          0
+clairic_vision        squad2                 0      0           0         0    0.0000      0.0          0
+clairic_vision_ocr    squad2                 0      0           0         0    0.0000      0.0          0
+sage_precise          squad2               120    120      44,119    19,680    0.1990      0.5          0
+sage_fast             squad2               120    120      44,119    19,680    0.1990      0.5          0
+haiku_json            squad2               120    120      56,613     5,400    0.0084      6.8          0
+gemini_vision_json    squad2                 0      0           0         0    0.0000      0.0          0
+
+per arm:
+  clairic_text           $0.0037  120 calls  ~0.2 min
+  clairic_text_w15k      $0.0037  120 calls  ~0.2 min
+  clairic_vision         $0.0000  0 calls  ~0.0 min
+  clairic_vision_ocr     $0.0000  0 calls  ~0.0 min
+  sage_precise           $0.1990  120 calls  ~0.5 min
+  sage_fast              $0.1990  120 calls  ~0.5 min
+  haiku_json             $0.0084  120 calls  ~6.8 min
+  gemini_vision_json     $0.0000  0 calls  ~0.0 min
+  ALL                    $0.4138

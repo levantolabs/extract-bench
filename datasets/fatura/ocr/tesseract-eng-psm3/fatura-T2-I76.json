@@ -1,0 +1,1 @@
+{"id": "fatura-T2-I76", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1}, "ms": 453.7, "per_image": [{"file": "Template2_Instance76.jpg", "page": "Template2_Instance76.jpg", "ms": 431.4}], "ts": "2026-10-23T07:16:07+0800"}

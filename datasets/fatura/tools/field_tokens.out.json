@@ -1,0 +1,8 @@
+{
+ "table_md": "| template | invoice_number | invoice_date | due_date | po_number | seller_name | buyer_name | subtotal | tax | discount | total | amount_due |\n|---|---|---|---|---|---|---|---|---|---|---|---|\n| T50 | null | val | val | null | val | val | val | val | alt | val | EXCL |\n| T7 | val | val | val | null | val | val | val | val | null | val | EXCL |\n| T32 | val | val | null | null | val | val | val | EXCL | null | val | EXCL |\n| T39 | val | val | val | null | EXCL | val | val | val | alt | null | null |\n| T2 | val | val | null | null | val | val | val | val | null | val | EXCL |\n| T12 | val | val | val | null | val | val | val | val | alt | val | EXCL |\n| T4 | null | val | val | null | val | val | val | null | alt | val | EXCL |\n| T49 | val | val | null | null | val | alt | val | null | null | val | val |\n| T10 | val | val | val | null | val | val | null | EXCL | alt | val | EXCL |\n| T25 | val | val | val | null | val | val | val | EXCL | null | val | EXCL |",
+ "field_def_tokens_o200k": {
+  "p50": 260.0,
+  "max": 282,
+  "min": 231
+ }
+}

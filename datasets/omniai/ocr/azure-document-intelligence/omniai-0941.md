@@ -1,0 +1,26 @@
+Toy Orn
+88622 Salisbury Road
+North Sydneystead, Oklahoma 77721-7006
+
+SIT
+
+WELLS
+FARGO
+
+PAY TO THE ORDER OF
+
+2025-02-12
+
+Zieme, Lehner and Waters
+
+$ 21,003.86
+
+TWENTY ONE THOUSAND THREE and 86/100
+
+DOLLARS
+
+MEMO
+
+⑆978745687⑆
+639797867
+⑈3303⑈

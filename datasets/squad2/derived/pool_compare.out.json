@@ -1,0 +1,14 @@
+{
+ "eligible": {
+  "n": 333,
+  "mean_questions": 9.6,
+  "median_chars": 700,
+  "mean_unanswerable_share": 0.506
+ },
+ "excluded": {
+  "n": 871,
+  "mean_questions": 9.96,
+  "median_chars": 712,
+  "mean_unanswerable_share": 0.502
+ }
+}

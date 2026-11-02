@@ -1,0 +1,153 @@
+{
+ "rows": [
+  {
+   "arm": "clairic_text",
+   "dataset": "tatqa",
+   "items": 150,
+   "calls": 150,
+   "in_tok": 93553,
+   "out_tok": 0,
+   "usd": 0.009355327999999996,
+   "wall_s": 11.249999999999982,
+   "assumed_text_items": 0,
+   "fields": 150
+  },
+  {
+   "arm": "clairic_text_w15k",
+   "dataset": "tatqa",
+   "items": 150,
+   "calls": 150,
+   "in_tok": 93553,
+   "out_tok": 0,
+   "usd": 0.009355327999999996,
+   "wall_s": 11.249999999999982,
+   "assumed_text_items": 0,
+   "fields": 150
+  },
+  {
+   "arm": "clairic_vision",
+   "dataset": "tatqa",
+   "items": 0,
+   "calls": 0,
+   "in_tok": 0,
+   "out_tok": 0,
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "assumed_text_items": 0,
+   "fields": 0
+  },
+  {
+   "arm": "clairic_vision_ocr",
+   "dataset": "tatqa",
+   "items": 0,
+   "calls": 0,
+   "in_tok": 0,
+   "out_tok": 0,
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "assumed_text_items": 0,
+   "fields": 0
+  },
+  {
+   "arm": "sage_precise",
+   "dataset": "tatqa",
+   "items": 150,
+   "calls": 131,
+   "in_tok": 90611,
+   "out_tok": 21484,
+   "usd": 0.21937055000000003,
+   "wall_s": 36.02499999999991,
+   "assumed_text_items": 0,
+   "fields": 150
+  },
+  {
+   "arm": "sage_fast",
+   "dataset": "tatqa",
+   "items": 150,
+   "calls": 131,
+   "in_tok": 90611,
+   "out_tok": 21484,
+   "usd": 0.21937055000000003,
+   "wall_s": 36.02499999999991,
+   "assumed_text_items": 0,
+   "fields": 150
+  },
+  {
+   "arm": "haiku_json",
+   "dataset": "tatqa",
+   "items": 150,
+   "calls": 150,
+   "in_tok": 112619,
+   "out_tok": 6750,
+   "usd": 0.014636899999999993,
+   "wall_s": 509.9999999999986,
+   "assumed_text_items": 0,
+   "fields": 150
+  },
+  {
+   "arm": "gemini_vision_json",
+   "dataset": "tatqa",
+   "items": 0,
+   "calls": 0,
+   "in_tok": 0,
+   "out_tok": 0,
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "assumed_text_items": 0,
+   "fields": 0
+  }
+ ],
+ "per_arm": {
+  "clairic_text": {
+   "usd": 0.009355327999999996,
+   "wall_s": 11.249999999999982,
+   "calls": 150
+  },
+  "clairic_text_w15k": {
+   "usd": 0.009355327999999996,
+   "wall_s": 11.249999999999982,
+   "calls": 150
+  },
+  "clairic_vision": {
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "calls": 0
+  },
+  "clairic_vision_ocr": {
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "calls": 0
+  },
+  "sage_precise": {
+   "usd": 0.21937055000000003,
+   "wall_s": 36.02499999999991,
+   "calls": 131
+  },
+  "sage_fast": {
+   "usd": 0.21937055000000003,
+   "wall_s": 36.02499999999991,
+   "calls": 131
+  },
+  "haiku_json": {
+   "usd": 0.014636899999999993,
+   "wall_s": 509.9999999999986,
+   "calls": 150
+  },
+  "gemini_vision_json": {
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "calls": 0
+  }
+ },
+ "assumptions": {
+  "datasets": "tatqa",
+  "arms": "clairic_text,clairic_text_w15k,clairic_vision,clairic_vision_ocr,sage_precise,sage_fast,haiku_json,gemini_vision_json",
+  "root": null,
+  "clairic_ratio": 1.12,
+  "clairic_img_tok": 1500,
+  "or_img_tok": 1120,
+  "ocr_tok": 700,
+  "psm": 3,
+  "json": "datasets/tatqa/scripts/estimate.out.json"
+ }
+}

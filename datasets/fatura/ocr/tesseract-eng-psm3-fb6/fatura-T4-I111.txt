@@ -1,0 +1,35 @@
+TAX INVOICE
+
+BILL.
+
+To:
+
+Patti
+
+13003 Russell Trail
+Escobarfort, GA 08317 US
+
+Tel:
+
+Craig
+
+Huff-Bryan
+
+‘Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US.
+
+TOTAL : 441.91 EUR
+
+Due Date : 21-Apr-2002
+
+Invoice Date: 08-Apr-1999
+
+Description
+
+‘QUANTITY
+
+‘SUB_TOTAL : 431.85 EUR
+DISCOUNT(2.68%): (-) 11.57
+
+Note:
+This order is shipped through blue dart courier

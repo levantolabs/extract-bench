@@ -1,0 +1,34 @@
+Address:4894 Melanie Pass Apt. 742
+‘Tammyland, SD 42587 US
+
+Invoice Date: 25-Jun-2004
+INVOICE ID INVI55-24/340
+
+Mclean-Cochran
+Due Date : 10-Jan-2021
+
+Buyer :Jennifer Weaver
+7707 Hughes Cape
+Christopherfort, MN 11108 US
+Tel:+(792)083-0850
+Email:rjohnson@example.org
+Site:https://www fowler.net/
+
+rems QUANTITY PRICE TAK AMOUNT
+Buigngfeoing it 400 $1499 $0.00 $59.96
+History address. 400 sra71— $0.00 szo08
+His aw 400 $3098 $0.00 12876
+Horse halt. 400 $8764 $000 $350.56
+
+DISCOUNT(4.36%): (-) 35.98
+
+TOTAL : 826.68 §
+
+‘Terms & Conditions
+4. Please sond payment within 8 days of receiving this invoice.
+‘There will be a 2.5% intrest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes,
+
+‘Thank you for your business!
+
+Email:cjames@example.com

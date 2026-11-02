@@ -1,0 +1,37 @@
+TAX INVOICE
+
+Stein-Fernandez BILL_TO:
+
+Elizabeth Williams 44-Sen:
+
+82494 Short Rapids Apt. 899 Dates 14-Sep-2009
+Address:0344 Jonathan Club Dakotamouth, MP 32054 US Due Date : 18-Jan-1999
+Port Patriciashire, PW 72063 US Tel:+(710)346-5778
+
+Email:jholden@example.com
+Site:https://www.carter.org/
+
+Item Price Quantity Amount
+Kid address station. 25.54 2.00 51.08
+Film your kitchen. 46.07 2.00 92.14
+T & Conditi F
+1. Please send payreenl within 8 days of receiving this invoice. SUBLTOTAL 148.22 EUR
+There will be a 2.5% interest charge per month on late invoices. DISCOUNT(3.64%): (-) 5.21
+
+2. Please include the Invoice number in your payment notes.
+TAX:VAT (5.54%): 7.93 EUR
+
+Thank you for choosing us! TOTAL : 145.51 EUR
+
+Total in words: one hundred and fort-
+y-five point five one
+
+Bank Name State Bank of California
+Branch Name Raf CAMP
+
+Bank Account Number 13293410
+
+Bank Swift Code SBININBB250
+
+Email:houstonjoyce@example.net
+

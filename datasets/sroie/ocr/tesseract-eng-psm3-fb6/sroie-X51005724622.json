@@ -1,0 +1,1 @@
+{"id": "sroie-X51005724622", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 1187.5, "per_image": [{"file": "X51005724622.jpg", "page": "X51005724622.jpg", "psm_used": 3, "chars": 775, "ms": 1163.3}], "ts": "2026-10-23T07:23:13+0800"}

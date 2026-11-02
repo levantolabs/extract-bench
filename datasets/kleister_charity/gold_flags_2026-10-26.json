@@ -1,0 +1,843 @@
+{
+ "kleister_charity-00151bc74f2d59cecbed12e0d607a8e4": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'SG18 9N4': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "charity_name": {
+   "flag": "gold_wrong",
+   "note": "Doc name 'HITCHIN EDUCATIONAL FOUNDATION' throughout (=arms); gold 'Education' not in doc. | auto: doc_unreachable: gold 'Hitchin Education Foundation': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-0225e7c3004e26bb3c6bf23ed47c8ed2": {
+  "charity_name": {
+   "flag": "ambiguous",
+   "note": "Doc has both 'CHELTENHAM AND DISTRICT SAMARITANS' (accounts headers, =arms) and 'Samaritans Cheltenham & District' (report cover).",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-06ad4a17cc7736271bc099c00afd4543": {
+  "address__postcode": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR 'Wallingford, OX107J' (final G dropped); gold OX10 7JG right, arms copied truncation. | auto: doc_unreachable: gold ['OX10 7JG', 'OX107JG']: not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-0829a46c0a923128837de07d7dcb5c0f": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'CV37 9SW': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-10fdcdd93707d1bd3d55405d02e50860": {
+  "address__postcode": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR 'LE11 1 2DU' (stray '1') at registered office 3 Burton Walks; gold LE11 2DU right, arms copied debris. | auto: doc_unreachable: gold 'LE11 2DU': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-110a6f21b29e771ff628d26e2d496821": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'S60 4JD': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-151f5c3959be8b81666cfb6b1000c6a9": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '9458279.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "ambiguous",
+   "note": "scorer: doc only states £'000 total expenditure 8,908; arms 8,908,000 is best doc answer; gold 8,908,754 register precision not in doc. | auto: doc_unreachable: gold '8908754.00': amount (or £'000) not in doc text",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-165d072b734f816836379d70d5dd585a": {},
+ "kleister_charity-1989c371886aea0f19b02d4eba507e25": {
+  "address__postcode": {
+   "flag": "gold_wrong",
+   "note": "Doc charity 'Address: 74 Wildgoose Drive, Newcross, London SE14 5LL' (=arms); BR2 9SN is Linda Wanniaratchy's (preparer) cover address.",
+   "source": "hand_audit"
+  },
+  "charity_name": {
+   "flag": "gold_wrong",
+   "note": "Doc name everywhere 'Barnes Wallis Community Centre' (=arms); 'Association' never appears. | auto: doc_unreachable: gold 'Barnes Wallis Community Centre Association': not in doc text after squash",
+   "source": "hand_audit"
+  },
+  "charity_number": {
+   "flag": "gold_wrong",
+   "note": "Charity number 1163388 not stated in doc (no charity no. found); arms correctly null. Register-only gold. | auto: doc_unreachable: gold '1163388': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-1ada336f29e8247f9f55a8d7e1b1c0da": {
+  "report_date": {
+   "flag": "doc_unreachable",
+   "note": "gold '2018-07-31': no date surface form in the doc parses to gold",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-1ed89150e1d2a4efccdd350fcda8ddc3": {
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '13108000.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-204e31788adb1c1b245d019606f7fda9": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '41650000.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-24f0a3262c2bd015aa99b38beb211099": {
+  "address__post_town": {
+   "flag": "doc_unreachable",
+   "note": "gold 'HEMEL HEMPSTEAD': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'HP2 6HX': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold 'GADDESDEN ROW': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-297489fca7a98276860677eecd7329ca": {
+  "address__postcode": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR 'Kimbolton, Huntingdon, PE28 OEA' (O for 0); gold PE28 0EA right.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-2c274221f085ba72fbecd1f303b12972": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '13324205.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "Doc total expenditure 12,681,628 (=arms); gold 12,924,294 not in doc (register). | auto: doc_unreachable: gold '12924294.00': doc figure differs from register gold; nearest within 1%: 12,876,990.00",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-2fac540033f08d5eafd8d4d0a15dc05e": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '39768000.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-2fee4fb4691cb22f3ed2abb28619a300": {
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold '102 CHARFIELD DRIVE': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-35223aad23cedf46c9b29a4f7c20f890": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'N1 7GR': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold '34 WHARF ROAD': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-3a87578c504bdcc685d83bf1e8a9a8fe": {
+  "charity_name": {
+   "flag": "gold_wrong",
+   "note": "Doc is Breast Cancer Now (charity 1160558); merger with Breast Cancer Care is future (Apr 2019). Gold is post-merger register name. | auto: doc_unreachable: gold 'Breast Cancer Care and Breast Cancer Now': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-3bf35854444ebdad2524597070c95088": {
+  "income_annually_in_british_pounds": {
+   "flag": "ambiguous",
+   "note": "scorer: doc income 36,070.90; gold rounds to 36071. Arms gave exact doc figure.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-3ef1426fc4a2303489f63a1adbcd5fa6": {
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold '28 INGRAVE ROAD': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-44ba842bbbd4f18587ad8ae3fe4ecdd7": {
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold '34-38 BRENKLEY WAY': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-4ce76a305bbd4cad75ca066d0ee1c97d": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '115677.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '72333.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-54186ede8408e8f3a3c9aaa130731639": {
+  "income_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "UNSURE: doc only has monthly bank-statement income (~£10.1k for 2016; 'turnover around £9,000'); 6,445 not in doc. clairic 21999 wrong too. | auto: doc_unreachable: gold '6445.00': amount (or £'000) not in doc text",
+   "source": "hand_audit"
+  },
+  "report_date": {
+   "flag": "doc_unreachable",
+   "note": "gold '2016-04-06': no date surface form in the doc parses to gold",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '5249.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-56803642bf7bd7747ddaad098c977a9b": {
+  "charity_number": {
+   "flag": "doc_unreachable",
+   "note": "gold '1134077': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "UNSURE: doc cost of sales 53,386 + admin 16,743 = 70,129 (=haiku); gold 70,136 not in doc. | auto: doc_unreachable: gold '70136.00': amount (or £'000) not in doc text",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-56925ace7745a1e76749da759ca2852c": {
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold 'BURNLEE ROAD': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-5739a612400450958c14374421ac8350": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'SE18 3BD': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-58b08caa8d6685856e88d679a3adf759": {
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold 'BROWNBERRIE LANE': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-5d8905a8a76258c6568aad2e039a68ba": {
+  "income_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "Doc £'000 Turnover/Total income 33,021 => 33,021,000 (arms); gold 33,028,740 not in doc (register). | auto: doc_unreachable: gold '33028740.00': amount (or £'000) not in doc text",
+   "source": "hand_audit"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '32350765.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-5fa97ceb44a3e938380f9c8ac8bf66b0": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '29683971.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "Doc accounts in US$'000 (total expenditure 35,323); GBP 27,463,336 not in doc (register conversion). clairic 35323300 also wrong. | auto: doc_unreachable: gold '27463336.00': amount (or £'000) not in doc text",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-608849e4ed994dd2d4ccba43031cb724": {
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '25520729.00': doc figure differs from register gold; nearest within 1%: 25,520,730.00",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-625bdcae5be79a2141d4972140139503": {
+  "spending_annually_in_british_pounds": {
+   "flag": "ambiguous",
+   "note": "scorer: doc spending 59,532.97; gold rounds to 59533. Arms gave exact doc figure.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-6f8d7bb0affa1d0c4d062a961592e317": {
+  "address__postcode": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR 'BS5 OHE' (O for 0); gold BS5 0HE right, arms copied OCR.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-6f9b8f27fd43be13d822c0b4654be167": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '107771.00': doc figure differs from register gold; nearest within 1%: 107,711.00",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-703de6b31e4a859f80bdbc437a79db3b": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'PE11 2PJ': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-7076816a48e634f35caa9af67e084499": {
+  "address__post_town": {
+   "flag": "gold_wrong",
+   "note": "Doc principal/registered office: 45 Southwick Street, Southwick, West Sussex BN42 4TH. 'Brighton' not in doc; register address. | auto: doc_unreachable: gold 'BRIGHTON': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-713a126d1623563bda3c8c480c5e7602": {
+  "spending_annually_in_british_pounds": {
+   "flag": "ambiguous",
+   "note": "scorer: doc spending £96,066.02; gold rounds to 96066. Arms gave exact doc figure.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-747d9be044bea75f391be2c02406a7e6": {
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold 'Downing College In The University Of Cambridge': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '12067570.00': doc figure differs from register gold; nearest within 1%: 12,000,000.00",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-75d9b74e96e66ae4f4dd4e4579a85ba7": {
+  "address__street_line": {
+   "flag": "gold_wrong",
+   "note": "Gold street_line 'SALFORD' is the post town; doc registered office 'Bridge House | Salford M50 2BH' (=arms).",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-762f74d04c9fd0a99b2776603704267b": {
+  "spending_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "Doc £'000 operating costs 31,479 (2016) => 31,479,000 (clairic/haiku); gold 33,412,000 not in doc. | auto: doc_unreachable: gold '33412000.00': amount (or £'000) not in doc text",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-78bce740bdb89a39c139b84e0ac81b1d": {
+  "income_annually_in_british_pounds": {
+   "flag": "models_wrong",
+   "note": "Doc 'generated 2125,113 receipts' (£ OCR'd as 2); payments 104,813 + net 20,300 = 125,113 = gold. Arms 2125.113/21251.13/25113. | auto: doc_unreachable: gold '125113.00': amount (or £'000) not in doc text",
+   "source": "hand_audit"
+  },
+  "report_date": {
+   "flag": "doc_unreachable",
+   "note": "gold '2018-07-31': no date surface form in the doc parses to gold",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-7acb2adca31cd93b1a802da034dd4e8a": {
+  "spending_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "Doc 'Total resources expended 50,574 | - | 360 | 50,934': 50,574 is unrestricted column; total 50,934 = arms.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-7ee5975932fe540dd0d57db08e2864c2": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'N1 6HQ': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "charity_name": {
+   "flag": "ambiguous",
+   "note": "Doc title 'VOICE OF YOUTH AND GENUINE EMPOWERMENT (V.O.Y.A.G.E)', body uses 'Voyage'. Full name is reasonable; haiku included V.O.Y.A.G.E.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-80ca8faa4cc82774d1c349c379efe997": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'WR5 2BP': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold '72 BATTENHALL ROAD': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-81c9d8b1a52d9964c62873b9f7216eaf": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '418200.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "Doc Total Expenditure 18,117 (=clairic/haiku); gold 18,264 not in doc. | auto: doc_unreachable: gold '18264.00': doc figure differs from register gold; nearest within 1%: 18,117.00",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-836df653a2c0a8bca209852c87b47d43": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'RG2 7DE': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-8c31ca7f1d1fbed9528e651cac7dcf30": {
+  "address__street_line": {
+   "flag": "gold_wrong",
+   "note": "Doc address 'Hall House, Boughton, King's Lynn PE33 9AG' (=sage/haiku); '2 The Crescent' not in doc. | auto: doc_unreachable: gold '2 THE CRESCENT': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-8d415f467b6eafe36cfcbc61cfd5d4a7": {
+  "address__street_line": {
+   "flag": "gold_wrong",
+   "note": "Doc registered office 'Blyth Sports Centre | Bolam Park | Blyth NE24 5BT'; 'Bolam Avenue' not in doc (register). | auto: doc_unreachable: gold 'BOLAM AVENUE': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-90b3c3af4c6851b05adc5755005b943d": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'CM15 8AS': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-91f812cade41f0e0d9012403cd615449": {
+  "address__post_town": {
+   "flag": "doc_unreachable",
+   "note": "gold 'CARNFORTH': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "address__postcode": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR 'Church Hill, Arnside LA5 ODF' (O for 0); gold LA5 0DF right.",
+   "source": "hand_audit"
+  },
+  "income_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "Doc Total Income 56,403 (=arms); gold 33,592 not in doc (33,338 is restricted funds b/f). | auto: doc_unreachable: gold '33592.00': doc figure differs from register gold; nearest within 1%: 33,338.00",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-9ac1237d1cbd1d28bc4c8cec4a89f978": {
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold 'Sussex Community Nhs Foundation Trust Charitable Fund and Other Related Charities': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-9b7fb537f89d6d957777d134f708315a": {
+  "income_annually_in_british_pounds": {
+   "flag": "ambiguous",
+   "note": "scorer: doc income 49,426.54; gold rounds to 49427. Arms gave exact doc figure.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-9bea038bc6fecc5b6008fa332b24319f": {
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold '2 BISHOPSTOKE ROAD': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-a3c35eec4eb06ec0e3a183364cc0642a": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '6636.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  },
+  "report_date": {
+   "flag": "doc_unreachable",
+   "note": "gold '2018-05-31': no date surface form in the doc parses to gold",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '6204.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-a5d29db25976b85b6145c3bb4946cd04": {
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold 'Barts and The London Charity and Related Charities': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-a7355938aa2f1fddcb41c3364b4d9220": {
+  "address__postcode": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR 'Kimbolton, Huntingdon, PE28 OEA' (O for 0); gold PE28 0EA right.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-ab2945fcc4c30e3879acb917e36e4725": {
+  "address__postcode": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR 'Easton Bristol, BS5 OHE' (O for 0); gold BS5 0HE right.",
+   "source": "hand_audit"
+  },
+  "charity_name": {
+   "flag": "gold_wrong",
+   "note": "Doc is 'BRISTOL MEDIATION LTD' (charity 1000641) throughout; 'Resolve West' (later register name) never appears. | auto: doc_unreachable: gold ['Resolve West Ltd.', 'Resolve West Limited']: not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-aba296ae293b75173c08ee53b2719724": {
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold 'Downing College In The University Of Cambridge': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "income_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "Doc Financial Highlights income 2017 12,287,853 (=sage/haiku); gold 11,563,045 not in doc. | auto: doc_unreachable: gold '11563045.00': doc figure differs from register gold; nearest within 1%: 11,617,819.00",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-aeaa24cfc433cf959f4a969684769384": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '12903196.00': doc figure differs from register gold; nearest within 1%: 12,901,158.00",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '11985558.00': doc figure differs from register gold; nearest within 1%: 11,916,084.00",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-b01ed1863935570a1eb346d80bfede07": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '12343145.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '11275137.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-b3d08cbd6e74a3937dc140141e4a7873": {
+  "charity_name": {
+   "flag": "ambiguous",
+   "note": "scorer: doc 'Lover & Redlynch Pre School' (=arms); gold 'Lover and Redlynch Pre School' differs only &/and.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-b7acbd5f429329caa2a7fdf97dbf8290": {
+  "address__postcode": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR 'NW9 OXD' (O for 0) at registered address 29 Bowater Close; gold NW9 0XD right.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-b98f5512ef23aafc985d14b1619e3648": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'WF14 9AN': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-bad8acbfe457f90a2fff606da4f438dc": {
+  "income_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "Doc £'000 Total income 20,470 => 20,470,000 (=arms); gold 20,039,000 not in doc. | auto: doc_unreachable: gold '20039000.00': amount (or £'000) not in doc text",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-bbc95dfca732da2c8b7fe137ab4ea610": {
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold 'The Covenant and Conversation Trust': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-bc8eaf98d30bce528289aaa486a7a035": {
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold '2-3 HEATHGATE PLACE': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-bcd1190e3466f2c2b3d6353e1577ce11": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'M43 7BY': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "address__street_line": {
+   "flag": "gold_wrong",
+   "note": "Doc (foodbank accounts + AGM report) contains no address at all; '20 Willow Fold' register-only. Arms correctly null. | auto: doc_unreachable: gold '20 WILLOW FOLD': not in doc text after squash",
+   "source": "hand_audit"
+  },
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold 'Droylsden and District Foodbank': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "charity_number": {
+   "flag": "gold_wrong",
+   "note": "Charity number 1159438 not anywhere in this 4k-char foodbank doc (no number stated); arms correctly null. Register-only gold. | auto: doc_unreachable: gold '1159438': not in doc text after squash",
+   "source": "hand_audit"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "gold_wrong",
+   "note": "Doc expenditure Total '-3325.26' (sign is presentation); spending is 3,325.26 = arms. Negative spending contradicts field.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-bdec303cb4a08b3c24839fbc11f7cb1d": {
+  "address__postcode": {
+   "flag": "gold_wrong",
+   "note": "Doc registered office 99 Banbury Road, Oxford OX2 6JX (=arms); gold OX2 6HJ not in doc. | auto: doc_unreachable: gold 'OX2 6HJ': not in doc text after squash",
+   "source": "hand_audit"
+  },
+  "address__street_line": {
+   "flag": "gold_wrong",
+   "note": "Gold misspelt '99 BRANBURRY ROAD'; doc registered office '99 Banbury Road' = arms. | auto: doc_unreachable: gold '99 BRANBURRY ROAD': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-beb5f21cde76467a1d289fed3fc767ff": {
+  "address__street_line": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR '55 Chartotte Road' (registered office, EC2A 3QF); gold 55 Charlotte Road right, arms copied OCR typo. | auto: doc_unreachable: gold '55 CHARLOTTE ROAD': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-bfa2d23b2a8c688c80c2127522acd7fe": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '133500.00': doc figure differs from register gold; nearest within 1%: 133,508.00",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '160100.00': doc figure differs from register gold; nearest within 1%: 160,090.00",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-bfd08fe466e142006e4a04e9630d4579": {
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '25709000.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '24586000.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-c3cacfd74eb9def9c97b9cdffa7f8a1a": {
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold '34-38 BRENKLEY WAY': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-c42aa98f78582a3ded5ac2b5b9efe2b5": {
+  "charity_name": {
+   "flag": "ambiguous",
+   "note": "Doc name 'Monkton Combe School (a company limited by guarantee...)'; gold adds 'Ltd.'/'Limited'. Scorer on suffix.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-c6ae63e10fdced0138718cd09d5d97b1": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'WR9 0RQ': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold ['Gloverspiece Community Care Farm Ltd.', 'Gloverspiece Community Care Farm Limited']: not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '99121.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  },
+  "report_date": {
+   "flag": "doc_unreachable",
+   "note": "gold '2016-05-04': no date surface form in the doc parses to gold",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '94462.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-cc9880ece943bf688b49359a8c219b04": {
+  "charity_number": {
+   "flag": "doc_unreachable",
+   "note": "gold '803032': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-ce9f16f22d7424dc358270c802bd695a": {
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold 'Loughborough Schools Foundation': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-d799ee61c5ebecb9933b2e6f83f975f9": {
+  "charity_number": {
+   "flag": "doc_unreachable",
+   "note": "gold '296943': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '92589.00': doc figure differs from register gold; nearest within 1%: 92,850.72",
+   "source": "auto_charity_reach"
+  },
+  "spending_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '102125.00': doc figure differs from register gold; nearest within 1%: 102,386.43",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-dd3cd3deee23f0867499daa5b82b9a37": {
+  "address__post_town": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR 'River Street ewsey, Wiltshire SN9 5DB' (P dropped); gold PEWSEY right. | auto: doc_unreachable: gold 'PEWSEY': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-deb1a1daad2d4db9089f2f0054212d60": {
+  "report_date": {
+   "flag": "doc_unreachable",
+   "note": "gold '2017-04-05': no date surface form in the doc parses to gold",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-e028d6ffba9cdffae050c61fac0fc559": {
+  "charity_name": {
+   "flag": "ambiguous",
+   "note": "scorer: clairic gave doc text 'The Parochial Church\\nCouncil of the Ecclesiastical Parish of St. Andrews, Enfield' (newline, Andrews); others St Andrew's Church. | auto: doc_unreachable: gold 'The Parochial Church Council Of The Ecclesiastical Parish Of St. Andrew, Enfield': not in doc text after squash",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_charity-e16f0b526a7c4440deb12d7ebca6e189": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'HD1 6PG': not in doc text after squash (would match under 1/I/L, 5/S, 8/B OCR confusions; not accepted)",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-e4af8bc7245b774a317a17cfa75edcff": {
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold 'City Church (Great Grimsby and North East Lincolnshire)': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-e58a0e2e131a25457c02dcff96938047": {
+  "address__street_line": {
+   "flag": "gold_wrong",
+   "note": "Gold null but doc gives Principal address York House, Royal Connaught Drive, Bushey (registered office 27 Mortimer St = auditor's).",
+   "source": "hand_audit"
+  },
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '74325.00': doc figure differs from register gold; nearest within 1%: 74,326.00",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-e7422516b4f8e25c7079f1ff505a258c": {
+  "address__street_line": {
+   "flag": "doc_unreachable",
+   "note": "gold '39 WELLINGTON STREET': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-e9aa970ac7baa2dff287efc65c2be4ca": {
+  "address__post_town": {
+   "flag": "doc_unreachable",
+   "note": "gold 'BRIGHTON': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-f0deedb68079235e849456d8081f79a9": {
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold \"Beckett's and Sargeant's Educational Foundation\": not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-f2e2aac3afd9ca63a4647a5ef451e1f5": {
+  "charity_name": {
+   "flag": "doc_unreachable",
+   "note": "gold 'Fitzwilliam College In The University Of Cambridge': not in doc text after squash",
+   "source": "auto_charity_reach"
+  },
+  "income_annually_in_british_pounds": {
+   "flag": "doc_unreachable",
+   "note": "gold '11512000.00': amount (or £'000) not in doc text",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-f5f2d733045ec21b8cb195eecb1d7817": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'NE26 1JJ': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-f6e3e8e51827133e6550f7d8fcce8e9a": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'EC1V 2PT': not in doc text after squash (would match under 1/I/L, 5/S, 8/B OCR confusions; not accepted)",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-f709d2dd2cb81e907ef8866a08cc0b4a": {
+  "address__postcode": {
+   "flag": "doc_unreachable",
+   "note": "gold 'WC1H 8NX': not in doc text after squash",
+   "source": "auto_charity_reach"
+  }
+ },
+ "kleister_charity-fd14b3c4883a44006fc277bdf148f900": {
+  "address__postcode": {
+   "flag": "gold_unreachable",
+   "note": "Doc OCR 'London SW1H OBD' (O for 0) at registered office 55 Broadway; gold SW1H 0BD right.",
+   "source": "hand_audit"
+  }
+ }
+}

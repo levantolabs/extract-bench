@@ -1,0 +1,1 @@
+{"id": "fatura-T10-I191", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1}, "ms": 564.5, "per_image": [{"file": "Template10_Instance191.jpg", "page": "Template10_Instance191.jpg", "ms": 548.9}], "ts": "2026-10-23T07:16:11+0800"}

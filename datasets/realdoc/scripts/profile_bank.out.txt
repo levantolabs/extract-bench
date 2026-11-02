@@ -1,0 +1,26 @@
+questions 1356 fields 3742
+template hint (base) counts [('string', 1872), ('enum', 562), ('number', 484), ('integer', 386), ('boolean', 306), ('date string YYYY-MM-DD', 122), ('list of strings', 7), ('MISSING', 3)]
+gold python types [('str', 2408), ('int', 557), ('bool', 306), ('float', 276), ('null', 188), ('list', 7)]
+(hint, gold type) pairs [(('string', 'str'), 1740), (('enum', 'str'), 552), (('integer', 'int'), 355), (('boolean', 'bool'), 306), (('number', 'float'), 259), (('number', 'int'), 202), (('string', 'null'), 132), (('date string YYYY-MM-DD', 'str'), 113), (('number', 'null'), 23), (('integer', 'float'), 17), (('integer', 'null'), 14), (('enum', 'null'), 10), (('date string YYYY-MM-DD', 'null'), 9), (('list of strings', 'list'), 7), (('MISSING', 'str'), 3)]
+null golds by hint [('string', 132), ('number', 23), ('integer', 14), ('enum', 10), ('date string YYYY-MM-DD', 9)]
+fields per question [(1, 418), (2, 357), (3, 182), (4, 178), (5, 70), (6, 113), (7, 7), (8, 22), (9, 3), (12, 6)]
+domains all [('mortgage', 478), ('finance', 378), ('supply_chain', 319), ('medical_healthcare', 181)]
+domains eligible (>=1 non-bool non-list field) [('mortgage', 444), ('supply_chain', 311), ('finance', 305), ('medical_healthcare', 141)] total 1201
+bad field names 1208 [('mortgage_q227', 'Built-Up'), ('mortgage_q227', 'Property Values'), ('mortgage_q227', 'Demand/Supply'), ('mortgage_q234', 'a_Co-Borrower'), ('mortgage_q234', 'e_Co-Borrower'), ('mortgage_q234', 'g_Co-Borrower'), ('mortgage_q234', 'h_Co-Borrower'), ('mortgage_q236', 'Fixed Rate'), ('mortgage_q237', 'Approved: Approved subject to the additional conditions stated below, if any.'), ('mortgage_q237', 'Modified & Approved as follows:')]
+gold changed by widen_types_from_gold 0 []
+enum examples
+   ('finance_q18', 'primary_phone_type', 'one of: HOME | BUS | CELL', 'HOME')
+   ('finance_q28', 'premises_status', 'one of: Owned | Leased', 'Leased')
+   ('finance_q33', 'radioactive_exposure_selection', 'one of: Yes | No | both', 'both')
+   ('finance_q33', 'machinery_loaned_selection', 'one of: Yes | No | both', 'both')
+   ('finance_q34', 'install_service_demo_selection', 'one of: Yes | No | both', 'both')
+   ('finance_q34', 'foreign_products_selection', 'one of: Yes | No | both', 'both')
+   ('finance_q41', 'type_of_business', 'one of: Corporation | Partnership | Limited Liability Company | Sole Proprietor', 'Limited Liability Company')
+   ('finance_q43', 'loc2_interest', 'one of: OWNER | TENANT', 'OWNER')
+   ('finance_q47', 'formal_safety_policy_exists', 'one of: Yes | No | both', 'both')
+   ('finance_q47', 'structural_alterations_contemplated', 'one of: Yes | No | both', 'both')
+   ('finance_q47', 'radioactive_nuclear_exposure', 'one of: Yes | No | both', 'both')
+   ('finance_q48', 'draws_plans_designs_specifications', 'one of: Yes | No | both', 'both')
+   ('finance_q49', 'install_service_demonstrate_products', 'one of: Yes | No | both', 'both')
+   ('finance_q56', 'time_meridiem', 'one of: AM | PM', 'PM')
+   ('finance_q56', 'transaction_type', 'one of: QUOTE | ISSUE POLICY | RENEW | CHANGE | CANCEL', 'CHANGE')

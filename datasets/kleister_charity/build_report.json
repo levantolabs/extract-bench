@@ -1,0 +1,387 @@
+{
+ "dataset": "kleister_charity",
+ "source": "https://github.com/applicaai/kleister-charity",
+ "commit": "2309f4861cc49864ac653a7fa108efc2144400b3",
+ "tokenizer": "tiktoken o200k_base",
+ "provenance": {
+  "README.md": {
+   "git_blob_sha1": "490d4b3961857a3fb958467cbfda0761e3650286",
+   "sha256": "e3566e3fc6d1d08ad8e1f885b569eaf1a64925e71ccbc78be82e6bad1d0b51a8",
+   "bytes": 8815
+  },
+  "config.txt": {
+   "git_blob_sha1": "2487c7a7e50c73d3d59ee1a6a76fb00022112ff9",
+   "sha256": "d796445938e7befe90d727d95f01f330211e3e9796c6d9dbe2d7001242c43842",
+   "bytes": 785
+  },
+  "in-header.tsv": {
+   "git_blob_sha1": "c25f5d28a34bb1fa9eb42196451681fc7c60ef91",
+   "sha256": "441aaa02bedfd3f9db56596dcc364f55b7f77c9464296de8ff1e7c6efcd5b46f",
+   "bytes": 63
+  },
+  "dev-0/in.tsv.xz": {
+   "git_blob_sha1": "d4a1a8cf3575cacbbc1eca32e0a806d0c83767bc",
+   "sha256": "f6b0dfab523db02521a9aa3716f45d308fa5133d3973f952f39500b4c6f2a1c1",
+   "bytes": 6399280
+  },
+  "dev-0/expected.tsv": {
+   "git_blob_sha1": "d302b3a1366dc925dc1ca73c10e08f14cadf7acb",
+   "sha256": "5a56ca82384eed65dcca423ece28ec3f7b31c9b9f2a2ba59e3df9ed8696e5f36",
+   "bytes": 115441
+  }
+ },
+ "strata": {
+  "rule": "o200k tokens of text_textract > 15000 = long (all taken); <= 15000 = short (random.Random(20).sample(sorted(md5s), 100))",
+  "dev0_long": 112,
+  "dev0_short": 328,
+  "sample_long": 112,
+  "sample_short": 100,
+  "stratum_weight": {
+   "long": 1.0,
+   "short": 3.28
+  },
+  "dev0_long_share": 0.2545,
+  "dev0_over_15k_by_layer": {
+   "tesseract": 109,
+   "djvu": 109,
+   "best": 111,
+   "textract": 112
+  },
+  "dev0_tokens_textract": {
+   "n": 440,
+   "p50": 6331.0,
+   "p95": 29286.8,
+   "max": 58423,
+   "min": 258,
+   "mean": 10580.3,
+   "total": 4655339
+  }
+ },
+ "n_items": 212,
+ "n_fields_total": 1696,
+ "n_null_gold_fields": 45,
+ "null_gold_by_field": {
+  "charity_name": 0,
+  "charity_number": 2,
+  "report_date": 0,
+  "income_annually_in_british_pounds": 1,
+  "spending_annually_in_british_pounds": 1,
+  "address__post_town": 6,
+  "address__postcode": 7,
+  "address__street_line": 28
+ },
+ "dev0_absent_by_field": {
+  "charity_name": 0,
+  "charity_number": 3,
+  "report_date": 0,
+  "income_annually_in_british_pounds": 6,
+  "spending_annually_in_british_pounds": 6,
+  "address__post_town": 18,
+  "address__postcode": 14,
+  "address__street_line": 50
+ },
+ "gold_key_presence_in_sample": {
+  "charity_name": 212,
+  "charity_number": 210,
+  "report_date": 212,
+  "income_annually_in_british_pounds": 211,
+  "spending_annually_in_british_pounds": 211,
+  "address__post_town": 206,
+  "address__postcode": 205,
+  "address__street_line": 184
+ },
+ "holdout_n": 42,
+ "by_stratum": {
+  "long": {
+   "n": 112,
+   "holdout": 22,
+   "tokens_textract": {
+    "n": 112,
+    "p50": 22754.0,
+    "p95": 43546.1,
+    "max": 58423,
+    "min": 15019,
+    "mean": 25393.5,
+    "total": 2844067
+   },
+   "sage_windows": {
+    "n": 112,
+    "p50": 2.0,
+    "p95": 3.4,
+    "max": 5,
+    "min": 2,
+    "mean": 2.3,
+    "total": 255
+   },
+   "null_gold_fields": 16
+  },
+  "short": {
+   "n": 100,
+   "holdout": 20,
+   "tokens_textract": {
+    "n": 100,
+    "p50": 4852.5,
+    "p95": 10546.6,
+    "max": 14715,
+    "min": 1007,
+    "mean": 5283.1,
+    "total": 528311
+   },
+   "sage_windows": {
+    "n": 100,
+    "p50": 1.0,
+    "p95": 1.0,
+    "max": 2,
+    "min": 1,
+    "mean": 1.0,
+    "total": 101
+   },
+   "null_gold_fields": 29
+  }
+ },
+ "charity_clusters": {
+  "n_clusters": 147,
+  "n_items_in_multi_doc_clusters": 124,
+  "n_clusters_split_across_holdout": 20
+ },
+ "tokens_o200k_by_layer": {
+  "textract": {
+   "n": 212,
+   "p50": 16538.0,
+   "p95": 34843.2,
+   "max": 58423,
+   "min": 1007,
+   "mean": 15907.4,
+   "total": 3372378
+  },
+  "tesseract": {
+   "n": 212,
+   "p50": 16257.0,
+   "p95": 35067.5,
+   "max": 57294,
+   "min": 993,
+   "mean": 15641.6,
+   "total": 3316015
+  },
+  "djvu": {
+   "n": 212,
+   "p50": 15568.5,
+   "p95": 37507.4,
+   "max": 74528,
+   "min": 0,
+   "mean": 15838.2,
+   "total": 3357696
+  },
+  "best": {
+   "n": 212,
+   "p50": 16465.5,
+   "p95": 37507.4,
+   "max": 74528,
+   "min": 972,
+   "mean": 16406.9,
+   "total": 3478259
+  }
+ },
+ "n_over_sage_16k": 108,
+ "n_over_clairic_65k_est": 0,
+ "n_over_clairic_harness_45k": 5,
+ "dev0_over_clairic_65k_est": 0,
+ "dev0_over_45k": 5,
+ "sage_windows_total": 356,
+ "gold_reachable_rate_by_layer": {
+  "textract": {
+   "charity_name": {
+    "reachable": 196,
+    "with_gold": 212,
+    "rate": 0.9245
+   },
+   "charity_number": {
+    "reachable": 205,
+    "with_gold": 210,
+    "rate": 0.9762
+   },
+   "report_date": {
+    "reachable": 206,
+    "with_gold": 212,
+    "rate": 0.9717
+   },
+   "income_annually_in_british_pounds": {
+    "reachable": 138,
+    "with_gold": 211,
+    "rate": 0.654
+   },
+   "spending_annually_in_british_pounds": {
+    "reachable": 141,
+    "with_gold": 211,
+    "rate": 0.6682
+   },
+   "address__post_town": {
+    "reachable": 201,
+    "with_gold": 206,
+    "rate": 0.9757
+   },
+   "address__postcode": {
+    "reachable": 157,
+    "with_gold": 205,
+    "rate": 0.7659
+   },
+   "address__street_line": {
+    "reachable": 167,
+    "with_gold": 184,
+    "rate": 0.9076
+   }
+  },
+  "tesseract": {
+   "charity_name": {
+    "reachable": 197,
+    "with_gold": 212,
+    "rate": 0.9292
+   },
+   "charity_number": {
+    "reachable": 204,
+    "with_gold": 210,
+    "rate": 0.9714
+   },
+   "report_date": {
+    "reachable": 207,
+    "with_gold": 212,
+    "rate": 0.9764
+   },
+   "income_annually_in_british_pounds": {
+    "reachable": 129,
+    "with_gold": 211,
+    "rate": 0.6114
+   },
+   "spending_annually_in_british_pounds": {
+    "reachable": 131,
+    "with_gold": 211,
+    "rate": 0.6209
+   },
+   "address__post_town": {
+    "reachable": 202,
+    "with_gold": 206,
+    "rate": 0.9806
+   },
+   "address__postcode": {
+    "reachable": 167,
+    "with_gold": 205,
+    "rate": 0.8146
+   },
+   "address__street_line": {
+    "reachable": 167,
+    "with_gold": 184,
+    "rate": 0.9076
+   }
+  },
+  "djvu": {
+   "charity_name": {
+    "reachable": 185,
+    "with_gold": 212,
+    "rate": 0.8726
+   },
+   "charity_number": {
+    "reachable": 192,
+    "with_gold": 210,
+    "rate": 0.9143
+   },
+   "report_date": {
+    "reachable": 194,
+    "with_gold": 212,
+    "rate": 0.9151
+   },
+   "income_annually_in_british_pounds": {
+    "reachable": 109,
+    "with_gold": 211,
+    "rate": 0.5166
+   },
+   "spending_annually_in_british_pounds": {
+    "reachable": 114,
+    "with_gold": 211,
+    "rate": 0.5403
+   },
+   "address__post_town": {
+    "reachable": 191,
+    "with_gold": 206,
+    "rate": 0.9272
+   },
+   "address__postcode": {
+    "reachable": 149,
+    "with_gold": 205,
+    "rate": 0.7268
+   },
+   "address__street_line": {
+    "reachable": 156,
+    "with_gold": 184,
+    "rate": 0.8478
+   }
+  },
+  "best": {
+   "charity_name": {
+    "reachable": 196,
+    "with_gold": 212,
+    "rate": 0.9245
+   },
+   "charity_number": {
+    "reachable": 203,
+    "with_gold": 210,
+    "rate": 0.9667
+   },
+   "report_date": {
+    "reachable": 207,
+    "with_gold": 212,
+    "rate": 0.9764
+   },
+   "income_annually_in_british_pounds": {
+    "reachable": 119,
+    "with_gold": 211,
+    "rate": 0.564
+   },
+   "spending_annually_in_british_pounds": {
+    "reachable": 124,
+    "with_gold": 211,
+    "rate": 0.5877
+   },
+   "address__post_town": {
+    "reachable": 202,
+    "with_gold": 206,
+    "rate": 0.9806
+   },
+   "address__postcode": {
+    "reachable": 161,
+    "with_gold": 205,
+    "rate": 0.7854
+   },
+   "address__street_line": {
+    "reachable": 167,
+    "with_gold": 184,
+    "rate": 0.9076
+   }
+  }
+ },
+ "money_only_in_thousands_by_layer": {
+  "textract": {
+   "n": 93,
+   "of_whole_thousand_golds": 106
+  },
+  "tesseract": {
+   "n": 88,
+   "of_whole_thousand_golds": 106
+  },
+  "djvu": {
+   "n": 79,
+   "of_whole_thousand_golds": 106
+  },
+  "best": {
+   "n": 82,
+   "of_whole_thousand_golds": 106
+  }
+ },
+ "text_gold_variants": {
+  "n_text_golds": 1017,
+  "with_extra_surface_forms": 148,
+  "max_values": 4
+ },
+ "pdf_annex_keys_found": 212,
+ "pdf_bytes_sample_total": 1231820227,
+ "gold_flags": []
+}

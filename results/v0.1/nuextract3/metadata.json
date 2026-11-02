@@ -1,0 +1,15 @@
+{
+ "system": "nuextract3",
+ "benchmark_version": "v0.1",
+ "display_name": "NuExtract3",
+ "org": "NuMind",
+ "model": "numind/NuExtract3",
+ "arm": "nuextract3",
+ "input": "text",
+ "run_date": "2026-10-29",
+ "open_weights": true,
+ "maintainer_product": false,
+ "notes": "vLLM 0.32.0, bf16, temperature 0, one NVIDIA A40; JSON template + field definitions as instructions.",
+ "tier": "maintainer-run",
+ "n_items": 1844
+}

@@ -1,0 +1,92 @@
+This invoice must be completed in English.
+
+COMMERCIAL INVOICE
+
+Page :2024-0C of
+
+EXPORTER:
+
+Tax ID#: SELECT DOWN ARROW FOR OPTIONS
+Contact Name:
+
+Telephone No.:
+
+E-Mail:
+
+Company Name/Address:
+
+Country/Territory: United States
+Parties to Transaction:
+
+Related (1 non-Related
+
+Ship Date:
+Air Waybill No. / Tracking No.:
+
+Invoice No.:
+INV-2024-00387
+Payment Terms:
+United States
+Purpose of Shipment:
+01/16/2024
+
+Purchase Order No.:
+
+Bill of Lading:
+
+CONSIGNEE:
+
+Tax ID#: SELECT DOWN ARROW FOR OPTIONS
+Contact Name:
+
+Telephone No.:
+
+E-Mail:
+
+Company Name/Address:
+Japan
+
+Country/Territory: United States
+
+United States
+
+O Same as CONSIGNEE:
+Tax ID#: SELECT DOWN ARROW FOR OPTIONS
+
+Company Name/Address:
+United States
+
+Country/Territory: United States
+
+Name of Broker
+
+If there is a designated broker for this shipment, please provide contact information.
+Tel. No.
+
+Contact Name
+
+Duties and Taxes Payable by [_] Exporter [_] Consignee [_] other
+
+If Other, please specify
+
+No.of | No.of [Net Weight] Unit of Harmonized | Country of Unit Total
+Packages| Units | (LBS/KGS)| Measure Description of Goods S Tariff Number | Manufacture Value Value
+S 782 |eEA Portable Bluetooth Speaker Model X200 United States ES 0.00
+15.0 |ep 8544.42.20 EA 0.00
+80 leq 8518.30.20 EA 0.00
+78.2 |eq 8518.22.00 EA 0.00
+Total Total | TotalNet (Indicate |TotalGross (Indicate [TermS Op poniang
+Pkgs | Units | Weight LBS/KGS) | Weight  LBS/KGS) |of Sale: oma Subtotal: 0.00
+1212.5 0 0 Insurance: 48.3
+Special ad Freight: 0.00
+Handle with care - electronics
+Packing: 0.00
+Declaration Statement(s): Handling: 0.00
+| declare that all information contained in this invoice is true and correct Other: -
+0.00
+I declare that all the information contained in this invoice to be true and correct. Invoice Total: 3553.3
+Originator or Name of Company Representative if the invoice is being completed on behalf of a company or individual: Currency Code:
+
+Signature / Title / Date:
+
+REV. 04.10.13-1.08

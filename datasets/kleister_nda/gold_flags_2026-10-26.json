@@ -1,0 +1,24 @@
+{
+ "kleister_nda-5100360b6dc2bade6771d2dca08b1d3f": {
+  "effective_date": {
+   "flag": "gold_wrong",
+   "note": "Gold null, but text: '“Effective Date” shall mean April 1, 2018.' All arms 2018-04-01.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_nda-96e343b9123175bd6625537e27275ee0": {
+  "term": {
+   "flag": "gold_wrong",
+   "note": "Gold null, but text: 'This Agreement shall continue in full force and effect for a period of two years'. Arms P2Y/24 months.",
+   "source": "hand_audit"
+  }
+ },
+ "kleister_nda-af344c9a1d0fc128bcab1737a6b7d0ec": {},
+ "kleister_nda-b443bb48b9961da261c46fad8d9e84b0": {
+  "term": {
+   "flag": "ambiguous",
+   "note": "No stated duration; terminates Jan 1, 2017, letter dated Mar 15, 2016 = ~9M17D. Gold P9M rounded; haiku P1Y9M17D wrong; others null.",
+   "source": "hand_audit"
+  }
+ }
+}

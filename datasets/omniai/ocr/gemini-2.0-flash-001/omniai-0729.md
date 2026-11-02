@@ -1,0 +1,90 @@
+[Northern Trust]
+Statement of Portfolio Holdings
+
+ACCOUNT OVERVIEW
+
+|                               | Current Period | Year-to-Date   |
+| :---------------------------- | :------------- | :------------- |
+| STARTING VALLUE               | $369,744.00    | $385,473.00    |
+| Miscellaneous Changes         | -$11,674.03   | -$39,294.60   |
+| Deposits (Cash & Securities)  | $3,900.33      | $26,262.60    |
+| Sector Rotation               | $4,465.40      | $82,264.56    |
+| Redemptions                   | -$89,629.61   | -$109,987.80  |
+| Account Maintenance Fees      | -$38,777.50   | -$42,093.00   |
+| ENDING ACCOUNT VALUE          | $238,028.59    | $302,624.76    |
+
+¹ *Net Change in Portfolio is the difference between the ending account value and beginning account value after activity.*
+
+DAILY BALANCES
+
+| Date       | Amount        | Date       | Amount        | Date       | Amount        | Date       | Amount        |
+| :--------- | :------------ | :--------- | :------------ | :--------- | :------------ | :--------- | :------------ |
+| 2023-12-30 | $237,838.00   | 2023-12-22 | $238,387.00   | 2023-12-14 | $238,879.00   | 2023-12-06 | $238,881.00   |
+| 2023-12-29 | $237,686.00   | 2023-12-21 | $238,318.00   | 2023-12-13 | $238,906.00   | 2023-12-05 | $237,535.00   |
+| 2023-12-28 | $237,675.00   | 2023-12-20 | $238,550.00   | 2023-12-12 | $238,688.00   | 2023-12-02 | $235,277.00   |
+| 2023-12-27 | $237,534.00   | 2023-12-19 | $238,594.00   | 2023-12-09 | $238,881.00   | 2023-12-01 | $235,224.00   |
+| 2023-12-26 | $237,499.00   | 2023-12-16 | $238,566.00   | 2023-12-08 | $239,016.00   |            |               |
+| 2023-12-23 | $238,218.00   | 2023-12-15 | $238,744.00   | 2023-12-07 | $238,953.00   |            |               |
+
+| E.T.F.                                   | Ticker | Closing Price | YTD Price Change | Avg. Daily Volume | Classification | One Day Change |
+| :--------------------------------------- | :----- | :------------ | :--------------- | :---------------- | :------------- | :------------- |
+| Vanguard FTSE Emerging Markets ETF       | VWO    | 44.11         | 0.1076           | 8214263           | Equity         | -0.0088        |
+| Vanguard Dividend Appreciation ETF        | VIG    | 195.8         | 0.1697           | 965248            | Equity         | -0.0125        |
+| Vanguard Total International Stock ETF   | VXUS   | 59            | 0.052            | 3544059           | Equity         | -0.0067        |
+| iShares Core S&P Small-Cap ETF           | IJR    | 114.97        | 0.0839           | 3509577           | Equity         | -0.0072        |
+| Vanguard FTSE Developed Markets ETF       | VEA    | 47.81         | 0.0312           | 10714970          | Equity         | -0.0062        |
+| iShares Core MSCI Emerging Markets ETF    | IEMG   | 52.31         | 0.0667           | 9449047           | Equity         | -0.0082        |
+| SPDR S&P 500 ETF Trust                   | SPY    | 588.22        | 0.2534           | 46003064          | Equity         | -0.0114        |
+| Vanguard Growth ETF                        | VUG    | 414.19        | 0.339            | 1145739           | Equity         | -0.0126        |
+| Vanguard Information Technology ETF      | VGT    | 627.57        | 0.305            | 453405            | Equity         | -0.0125        |
+| iShares Core S&P 500 ETF                   | IVV    | 590.98        | 0.2542           | 5875330           | Equity         | -0.011         |
+| iShares Russell 1000 Growth ETF          | IWF    | 405.2         | 0.3432           | 1349642           | Equity         | -0.0119        |
+| iShares Core S&P Mid-Cap ETF             | IJH    | 62.17         | 0.1366           | 7659450           | Equity         | -0.007         |
+| Invesco QQQ Trust Series I               | QQQ    | 515.61        | 0.2665           | 29009270          | Equity         | -0.0133        |
+| iShares Core MSCI EAFE ETF               | IEFA   | 70.32         | 0.0332           | 8199248           | Equity         | -0.0066        |
+| Vanguard S&P 500 ETF                       | VOO    | 540.99        | 0.2548           | 5594505           | Equity         | -0.0111        |
+| Vanguard Total Stock Market ETF            | VTI    | 290.82        | 0.2424           | 3046583           | Equity         | -0.0111        |
+
+YOUR ACCOUNT INFORMATION
+
+BOND AMORTIZATION ELECTIONS
+
+Holdings for period April 1, 2018 - May 31, 2019
+
+Use constant-yield calculations to reduce
+bond premiums:
+☑ YES ☐ NO
+
+Accumulate bond discount for non-premium instruments:
+Constant
+Include
+
+Annually report market discount amounts as part of income:
+
+CASH SWEEP PROGRAM
+
+Designated account for holding
+☐ Money Market Fund ☑ Bank Sweep ☐ Treasury Fund
+idle funds:
+Interval for transferring uninvested cash to the sweep account:
+Monthly
+
+BENEFICIARY DESIGNATIONS
+
+Primary individual or entity assigned to
+receive assets:
+Alternate recipient for inheritance distribution:
+☐ Individual ☐ Trust ☐ Estate ☑ Charity
+Estate
+
+GETTING IN TOUCH
+
+Your Financial Consultant: Krystal Schumm
+ID: rZx84YRud
+86560 Miracle Squares Fannieton Arizona, 30484-9966
+
+<page_number>72 of 87<page_number>
+Contact Information
+Business: 125-829-4772
+
+Northern Trust

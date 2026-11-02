@@ -1,0 +1,10 @@
+{
+ "items": 347,
+ "with_candidates": 26,
+ "one_char_token": 24,
+ "not_substring": {
+  "company": 8,
+  "date": 4,
+  "total": 0
+ }
+}

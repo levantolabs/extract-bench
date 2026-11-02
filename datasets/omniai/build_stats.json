@@ -1,0 +1,781 @@
+{
+ "booleans_excluded": 457,
+ "date_ambiguous_scalar": 36,
+ "eligible_per_format": {
+  "ACCOUNT_STATEMENT": 51,
+  "BANK_CHECK": 27,
+  "COMMERCIAL_LEASE_AGREEMENT": 52,
+  "CREDIT_CARD_STATEMENT": 50,
+  "DELIVERY_NOTE": 51,
+  "DRIVER_LICENSE": 4,
+  "FORM": 7,
+  "FORM_1040": 51,
+  "PATIENT_INTAKE": 53,
+  "PETITION_FORM": 51,
+  "PHOTO_RECEIPT": 10,
+  "SCANNED_FORM": 6,
+  "SHIPPING_INVOICE": 52
+ },
+ "fields": {
+  "date|date": 278,
+  "list_null": 26,
+  "list_total": 1187,
+  "list|list": 1187,
+  "number|decimal": 30,
+  "number|duration_component": 30,
+  "number|integer": 140,
+  "number|money": 376,
+  "sage_date": 278,
+  "sage_decimal": 30,
+  "sage_integer": 170,
+  "sage_money": 376,
+  "sage_text": 2168,
+  "sage_time": 10,
+  "scalar_null": 80,
+  "scalar_total": 3032,
+  "text|enum": 90,
+  "text|text": 2078,
+  "time|time": 10
+ },
+ "images_reencoded": 1,
+ "ineligible": {
+  "ACCOUNT_STATEMENT:no_azure_di_text": 1,
+  "BANK_CHECK:no_non_bool_scalar": 25
+ },
+ "n_items": 240,
+ "number_gold_coerced": 0,
+ "number_gold_non_numeric": 0,
+ "per_format": {
+  "ACCOUNT_STATEMENT": 16,
+  "BANK_CHECK": 16,
+  "COMMERCIAL_LEASE_AGREEMENT": 15,
+  "CREDIT_CARD_STATEMENT": 16,
+  "DELIVERY_NOTE": 51,
+  "DRIVER_LICENSE": 4,
+  "FORM": 7,
+  "FORM_1040": 16,
+  "PATIENT_INTAKE": 16,
+  "PETITION_FORM": 15,
+  "PHOTO_RECEIPT": 10,
+  "SCANNED_FORM": 6,
+  "SHIPPING_INVOICE": 52
+ },
+ "photo_items": 36,
+ "published_json_accuracy_mean_on_sample": {
+  "aws-textract": {
+   "mean": 0.8476,
+   "n": 239
+  },
+  "azure-document-intelligence": {
+   "mean": 0.8929,
+   "n": 240
+  },
+  "azure-gpt-4o": {
+   "mean": 0.7279,
+   "n": 240
+  },
+  "claude-3-5-sonnet-20241022": {
+   "mean": 0.6595,
+   "n": 238
+  },
+  "gemini-2.0-flash-001": {
+   "mean": 0.8881,
+   "n": 239
+  },
+  "google-document-ai": {
+   "mean": 0.7545,
+   "n": 240
+  },
+  "ground-truth": {
+   "mean": 0.9949,
+   "n": 240
+  },
+  "omniai": {
+   "mean": 0.9257,
+   "n": 240
+  },
+  "unstructured": {
+   "mean": 0.5569,
+   "n": 240
+  }
+ },
+ "quotas_even": {
+  "ACCOUNT_STATEMENT": 16,
+  "BANK_CHECK": 16,
+  "COMMERCIAL_LEASE_AGREEMENT": 15,
+  "CREDIT_CARD_STATEMENT": 16,
+  "FORM_1040": 16,
+  "PATIENT_INTAKE": 16,
+  "PETITION_FORM": 15
+ },
+ "rotated_items": 21,
+ "sample_rule_counts": {
+  "even_share_forced_photo_or_rotated": 21,
+  "even_share_random_seed20": 89,
+  "full_format_all": 130
+ },
+ "skipped_paths": 0,
+ "text_span_presence": {
+  "in_gold_markdown": 2044,
+  "in_primary_ocr": 1994,
+  "text_fields": 2091
+ },
+ "tokens_o200k_field_defs": {
+  "max": 1592,
+  "p50": 691,
+  "p95": 1262
+ },
+ "tokens_o200k_gold_markdown": {
+  "max": 3908,
+  "p50": 764,
+  "p95": 2413
+ },
+ "tokens_o200k_text": {
+  "max": 6232,
+  "mean": 1497,
+  "p50": 1093,
+  "p95": 3702
+ },
+ "type_decisions": {
+  "ACCOUNT_STATEMENT:portfolioSummary.changes[].currentPeriod": [
+   "number",
+   "has_float"
+  ],
+  "ACCOUNT_STATEMENT:portfolioSummary.changes[].yearToDate": [
+   "number",
+   "has_float"
+  ],
+  "ACCOUNT_STATEMENT:portfolioSummary.currentPeriodBeginningBalance": [
+   "number",
+   "all_int"
+  ],
+  "ACCOUNT_STATEMENT:portfolioSummary.currentPeriodEndingBalance": [
+   "number",
+   "has_float"
+  ],
+  "ACCOUNT_STATEMENT:portfolioSummary.ytdBeginningBalance": [
+   "number",
+   "all_int"
+  ],
+  "ACCOUNT_STATEMENT:portfolioSummary.ytdEndingBalance": [
+   "number",
+   "has_float"
+  ],
+  "ACCOUNT_STATEMENT:tableData[].avgDailyVolume": [
+   "number",
+   "all_int"
+  ],
+  "ACCOUNT_STATEMENT:tableData[].closingPrice": [
+   "number",
+   "has_float"
+  ],
+  "ACCOUNT_STATEMENT:tableData[].oneDayChange": [
+   "number",
+   "has_float"
+  ],
+  "ACCOUNT_STATEMENT:tableData[].ytdPriceChange": [
+   "number",
+   "has_float"
+  ],
+  "BANK_CHECK:checks[0].checkInfo.amount": [
+   "number",
+   "has_float"
+  ],
+  "BANK_CHECK:checks[0].checkInfo.date": [
+   "date",
+   "name/description says date"
+  ],
+  "BANK_CHECK:checks[0].checkInfo.micr.accountNumber": [
+   "number",
+   "all_int"
+  ],
+  "BANK_CHECK:checks[0].checkInfo.micr.checkNumber": [
+   "number",
+   "all_int"
+  ],
+  "BANK_CHECK:checks[0].checkInfo.micr.routingNumber": [
+   "number",
+   "all_int"
+  ],
+  "BANK_CHECK:checks[].checkInfo.amount": [
+   "number",
+   "has_float"
+  ],
+  "BANK_CHECK:checks[].checkInfo.date": [
+   "date",
+   "name/description says date"
+  ],
+  "BANK_CHECK:checks[].checkInfo.micr.accountNumber": [
+   "number",
+   "all_int"
+  ],
+  "BANK_CHECK:checks[].checkInfo.micr.checkNumber": [
+   "number",
+   "all_int"
+  ],
+  "BANK_CHECK:checks[].checkInfo.micr.routingNumber": [
+   "number",
+   "all_int"
+  ],
+  "COMMERCIAL_LEASE_AGREEMENT:date": [
+   "date",
+   "schema format=date"
+  ],
+  "COMMERCIAL_LEASE_AGREEMENT:lease.endDate": [
+   "date",
+   "schema format=date"
+  ],
+  "COMMERCIAL_LEASE_AGREEMENT:lease.months": [
+   "number",
+   "all_int"
+  ],
+  "COMMERCIAL_LEASE_AGREEMENT:lease.startDate": [
+   "date",
+   "schema format=date"
+  ],
+  "COMMERCIAL_LEASE_AGREEMENT:lease.years": [
+   "number",
+   "all_int"
+  ],
+  "COMMERCIAL_LEASE_AGREEMENT:rent.monthlyAmount": [
+   "number",
+   "all_int"
+  ],
+  "COMMERCIAL_LEASE_AGREEMENT:rent.securityDeposit": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:amount": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:period.end": [
+   "date",
+   "name/description says date"
+  ],
+  "CREDIT_CARD_STATEMENT:period.start": [
+   "date",
+   "name/description says date"
+  ],
+  "CREDIT_CARD_STATEMENT:total": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:totalCredits": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:totalDebits": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:totalDeposits": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:totalWithdrawals": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:transactions[].amount": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:transactions[].credit": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:transactions[].date": [
+   "text",
+   "date-ish but not every gold value is a full calendar date"
+  ],
+  "CREDIT_CARD_STATEMENT:transactions[].debit": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:transactions[].deposit": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:transactions[].total": [
+   "number",
+   "all_int"
+  ],
+  "CREDIT_CARD_STATEMENT:transactions[].withdrawal": [
+   "number",
+   "all_int"
+  ],
+  "DELIVERY_NOTE:header.date": [
+   "date",
+   "name/description says date"
+  ],
+  "DELIVERY_NOTE:items[].productSpecsJson.physical.weight": [
+   "number",
+   "has_float"
+  ],
+  "DELIVERY_NOTE:items[].productSpecsJson.power.efficiency": [
+   "number",
+   "all_int"
+  ],
+  "DELIVERY_NOTE:items[].productSpecsJson.power.powerFactor": [
+   "number",
+   "has_float"
+  ],
+  "DELIVERY_NOTE:items[].productSpecsJson.power.watts": [
+   "number",
+   "all_int"
+  ],
+  "DELIVERY_NOTE:items[].quantity": [
+   "number",
+   "all_int"
+  ],
+  "DELIVERY_NOTE:items[].sn": [
+   "number",
+   "all_int"
+  ],
+  "DRIVER_LICENSE:date_of_birth": [
+   "date",
+   "name/description says date"
+  ],
+  "DRIVER_LICENSE:expiration_date": [
+   "date",
+   "name/description says date"
+  ],
+  "DRIVER_LICENSE:issue_date": [
+   "date",
+   "name/description says date"
+  ],
+  "FORM:date": [
+   "date",
+   "name/description says date"
+  ],
+  "FORM:distribution.direct_accounts_outside_region[].no_of_stores": [
+   "number",
+   "all_int"
+  ],
+  "FORM:distribution.direct_accounts_within_region[].no_of_stores": [
+   "number",
+   "all_int"
+  ],
+  "FORM:event.date": [
+   "date",
+   "name/description says date"
+  ],
+  "FORM:expenditures[].amount": [
+   "number",
+   "all_int"
+  ],
+  "FORM:expenditures[].date_paid": [
+   "date",
+   "name/description says date"
+  ],
+  "FORM:fax_information.date": [
+   "date",
+   "name/description says date"
+  ],
+  "FORM:fax_information.number_of_pages": [
+   "number",
+   "all_int"
+  ],
+  "FORM:fax_transmission.date": [
+   "date",
+   "name/description says date"
+  ],
+  "FORM:fax_transmission.pages_including_cover_sheet": [
+   "number",
+   "all_int"
+  ],
+  "FORM:number_of_pages": [
+   "number",
+   "all_int"
+  ],
+  "FORM:recipients[].fax_number": [
+   "number",
+   "all_int"
+  ],
+  "FORM:recipients[].phone_number": [
+   "number",
+   "all_int"
+  ],
+  "FORM:report_details.election_date": [
+   "date",
+   "name/description says date"
+  ],
+  "FORM:report_details.question_number": [
+   "number",
+   "all_int"
+  ],
+  "FORM:submission_date": [
+   "text",
+   "date-ish but not every gold value is a full calendar date"
+  ],
+  "FORM:totals.current_report": [
+   "number",
+   "all_int"
+  ],
+  "FORM:totals.previous_reports": [
+   "number",
+   "all_int"
+  ],
+  "FORM:totals.total_to_date": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line1.a": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line1.b": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line1.c": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line1.d": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line1.e": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line1.f": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line1.g": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line1.h": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line1.i": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line1.z": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line10": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line11": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line12": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line13": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line14": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line15": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line2.a": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line2.b": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line3.a": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line3.b": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line4.a": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line4.b": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line5.a": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line5.b": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line6.a": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line6.b": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line7": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line8": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:income.line9": [
+   "number",
+   "all_int"
+  ],
+  "FORM_1040:taxPeriod.taxDateEnd": [
+   "text",
+   "date-ish but not every gold value is a full calendar date"
+  ],
+  "FORM_1040:taxPeriod.taxDateStart": [
+   "text",
+   "date-ish but not every gold value is a full calendar date"
+  ],
+  "PATIENT_INTAKE:dob": [
+   "date",
+   "name/description says date"
+  ],
+  "PATIENT_INTAKE:familyHealthHistory[].ageAtDeath": [
+   "number",
+   "has_float"
+  ],
+  "PATIENT_INTAKE:familyHealthHistory[].ageIfLiving": [
+   "number",
+   "all_int"
+  ],
+  "PATIENT_INTAKE:financialResponsibility.patientSignature.date": [
+   "date",
+   "name/description says date"
+  ],
+  "PATIENT_INTAKE:previousHealthHistory.lastSeenDate": [
+   "date",
+   "name/description says date"
+  ],
+  "PATIENT_INTAKE:socialHistory.drinksPerWeek": [
+   "number",
+   "all_int"
+  ],
+  "PATIENT_INTAKE:socialHistory.exercisePerWeek": [
+   "number",
+   "all_int"
+  ],
+  "PATIENT_INTAKE:socialHistory.packsPerWeek": [
+   "number",
+   "all_int"
+  ],
+  "PETITION_FORM:header.electionDate": [
+   "date",
+   "name/description says date"
+  ],
+  "PETITION_FORM:signatures[].date": [
+   "date",
+   "name/description says date"
+  ],
+  "PETITION_FORM:witness.date": [
+   "date",
+   "name/description says date"
+  ],
+  "PHOTO_RECEIPT:cashier_info.date": [
+   "date",
+   "name/description says date"
+  ],
+  "PHOTO_RECEIPT:cashier_info.time": [
+   "time",
+   "name says time; every gold value is a clock time"
+  ],
+  "PHOTO_RECEIPT:items[].discount": [
+   "number",
+   "has_float"
+  ],
+  "PHOTO_RECEIPT:items[].quantity": [
+   "number",
+   "has_float"
+  ],
+  "PHOTO_RECEIPT:items[].total_price": [
+   "number",
+   "has_float"
+  ],
+  "PHOTO_RECEIPT:items[].total_price_with_discount": [
+   "number",
+   "all_int"
+  ],
+  "PHOTO_RECEIPT:items[].unit_price": [
+   "number",
+   "has_float"
+  ],
+  "PHOTO_RECEIPT:totals.subtotal": [
+   "number",
+   "has_float"
+  ],
+  "PHOTO_RECEIPT:totals.total": [
+   "number",
+   "has_float"
+  ],
+  "PHOTO_RECEIPT:totals.total_items": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:batch_size": [
+   "number",
+   "has_float"
+  ],
+  "SCANNED_FORM:chain_information.store_numbers.total_chain_stores": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:chain_information.store_numbers.total_participating_stores": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:chain_information.store_volumes.avg_industry_weekly": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:chain_information.store_volumes.avg_rjr_weekly": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:chain_information.store_volumes.rjr_som": [
+   "number",
+   "has_float"
+  ],
+  "SCANNED_FORM:chain_information.store_volumes.total_chain_industry_weekly": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:cigarettes.air_dilution": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:cigarettes.circumference": [
+   "number",
+   "has_float"
+  ],
+  "SCANNED_FORM:cigarettes.filter_length": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:cigarettes.length": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:cigarettes.tip_paper_por": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:company_info.phone_number": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:contract_amount": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:date": [
+   "date",
+   "name/description says date"
+  ],
+  "SCANNED_FORM:item.num_of_holes": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:item.one_time_tooling_price": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:item.quantity": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:item.steep_tips": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:item.unit_price": [
+   "number",
+   "has_float"
+  ],
+  "SCANNED_FORM:licensor.phone_number": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:original_request.date": [
+   "date",
+   "name/description says date"
+  ],
+  "SCANNED_FORM:packing_slip_description.num_of_animals": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:packing_slip_description.num_of_animals_reveiced": [
+   "number",
+   "all_int"
+  ],
+  "SCANNED_FORM:packing_slip_identifier.ship_date": [
+   "date",
+   "name/description says date"
+  ],
+  "SCANNED_FORM:proposal.date": [
+   "date",
+   "name/description says date"
+  ],
+  "SCANNED_FORM:reviewers[].date": [
+   "date",
+   "name/description says date"
+  ],
+  "SCANNED_FORM:route_date": [
+   "date",
+   "name/description says date"
+  ],
+  "SCANNED_FORM:venue.phone_number": [
+   "number",
+   "all_int"
+  ],
+  "SHIPPING_INVOICE:issueDate": [
+   "date",
+   "name/description says date"
+  ],
+  "SHIPPING_INVOICE:mostRecentShipment.additionalCharges[].amount": [
+   "number",
+   "has_float"
+  ],
+  "SHIPPING_INVOICE:mostRecentShipment.additionalCharges[].grossValue": [
+   "number",
+   "has_float"
+  ],
+  "SHIPPING_INVOICE:mostRecentShipment.additionalCharges[].totalVAT": [
+   "number",
+   "has_float"
+  ],
+  "SHIPPING_INVOICE:mostRecentShipment.baseCharge": [
+   "number",
+   "has_float"
+  ],
+  "SHIPPING_INVOICE:mostRecentShipment.date": [
+   "date",
+   "name/description says date"
+  ],
+  "SHIPPING_INVOICE:mostRecentShipment.numberOfShipments": [
+   "number",
+   "all_int"
+  ],
+  "SHIPPING_INVOICE:mostRecentShipment.weightInKg": [
+   "number",
+   "has_float"
+  ]
+ }
+}

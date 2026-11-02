@@ -1,0 +1,181 @@
+{
+ "gold_as_pred": {
+  "oracle": {
+   "scale_mode": "oracle",
+   "n": 150,
+   "em": 100.0,
+   "f1": 100.0,
+   "scale_acc": 100.0,
+   "by_answer_type": {
+    "arithmetic": {
+     "n": 63,
+     "em": 100.0,
+     "f1": 100.0
+    },
+    "count": {
+     "n": 4,
+     "em": 100.0,
+     "f1": 100.0
+    },
+    "multi-span": {
+     "n": 19,
+     "em": 100.0,
+     "f1": 100.0
+    },
+    "span": {
+     "n": 64,
+     "em": 100.0,
+     "f1": 100.0
+    }
+   }
+  },
+  "none": {
+   "scale_mode": "none",
+   "n": 150,
+   "em": 46.67,
+   "f1": 46.67,
+   "scale_acc": 46.67,
+   "by_answer_type": {
+    "arithmetic": {
+     "n": 63,
+     "em": 11.11,
+     "f1": 11.11
+    },
+    "count": {
+     "n": 4,
+     "em": 100.0,
+     "f1": 100.0
+    },
+    "multi-span": {
+     "n": 19,
+     "em": 73.68,
+     "f1": 73.68
+    },
+    "span": {
+     "n": 64,
+     "em": 70.31,
+     "f1": 70.31
+    }
+   }
+  }
+ },
+ "expanded_or_fraction_as_pred": {
+  "oracle": {
+   "scale_mode": "oracle",
+   "n": 150,
+   "em": 62.67,
+   "f1": 62.67,
+   "scale_acc": 100.0,
+   "by_answer_type": {
+    "arithmetic": {
+     "n": 63,
+     "em": 11.11,
+     "f1": 11.11
+    },
+    "count": {
+     "n": 4,
+     "em": 100.0,
+     "f1": 100.0
+    },
+    "multi-span": {
+     "n": 19,
+     "em": 100.0,
+     "f1": 100.0
+    },
+    "span": {
+     "n": 64,
+     "em": 100.0,
+     "f1": 100.0
+    }
+   }
+  },
+  "none": {
+   "scale_mode": "none",
+   "n": 150,
+   "em": 84.0,
+   "f1": 84.0,
+   "scale_acc": 46.67,
+   "by_answer_type": {
+    "arithmetic": {
+     "n": 63,
+     "em": 100.0,
+     "f1": 100.0
+    },
+    "count": {
+     "n": 4,
+     "em": 100.0,
+     "f1": 100.0
+    },
+    "multi-span": {
+     "n": 19,
+     "em": 73.68,
+     "f1": 73.68
+    },
+    "span": {
+     "n": 64,
+     "em": 70.31,
+     "f1": 70.31
+    }
+   }
+  }
+ },
+ "wrong_text_as_pred": {
+  "scale_mode": "oracle",
+  "n": 150,
+  "em": 0.0,
+  "f1": 0.0,
+  "scale_acc": 100.0,
+  "by_answer_type": {
+   "arithmetic": {
+    "n": 63,
+    "em": 0.0,
+    "f1": 0.0
+   },
+   "count": {
+    "n": 4,
+    "em": 0.0,
+    "f1": 0.0
+   },
+   "multi-span": {
+    "n": 19,
+    "em": 0.0,
+    "f1": 0.0
+   },
+   "span": {
+    "n": 64,
+    "em": 0.0,
+    "f1": 0.0
+   }
+  }
+ },
+ "gold_raw_numbers_as_pred_oracle (official zero quirk)": {
+  "scale_mode": "oracle",
+  "n": 150,
+  "em": 100.0,
+  "f1": 100.0,
+  "scale_acc": 100.0,
+  "by_answer_type": {
+   "arithmetic": {
+    "n": 63,
+    "em": 100.0,
+    "f1": 100.0
+   },
+   "count": {
+    "n": 4,
+    "em": 100.0,
+    "f1": 100.0
+   },
+   "multi-span": {
+    "n": 19,
+    "em": 100.0,
+    "f1": 100.0
+   },
+   "span": {
+    "n": 64,
+    "em": 100.0,
+    "f1": 100.0
+   }
+  }
+ },
+ "pass": true
+}

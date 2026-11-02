@@ -1,0 +1,65 @@
+TAX INVOICE
+
+Stein-Fernandez BILL_TO:
+
+William Tyler “90-1 cs
+
+56120 Carly Hill Suite 367 Dates 20-06-2008
+Address:0344 Jonathan Club East Jennifertown, OK 94464 US Due Date : 05-Jun-1994
+Port Patriciashire, PW 72063 US Tel:+(036)584-0983
+
+Email:wongjill@example.org
+Site:https:/www.mendez.com/
+
+Item
+
+Against where.
+Country early.
+
+Spring population win.
+Amount decision.
+Partner receive.
+
+Terms & Conditions
+
+Price
+93.33
+6.10
+
+89.93
+15.62
+66.01
+
+1. Please send payment within 8 days of receiving this invoice.
+
+There will be a 2.5% interest charge per month on late invoices.
+
+2. Please include the Invoice number in your payment notes.
+
+Note: All payments to be made in cash.
+Contact us for queries on these quotations.
+
+Bank Name Central Bank of England
+Branch Name Raf CAMP
+
+Bank Account Number 11002889
+
+Bank Swift Code SBININBB250
+
+Email:houstonjoyce@example.net
+
+Quantity Amount
+5.00 466.65
+6.00 36.60
+2.00 179.86
+3.00 46.86
+2.00 132.02
+
+SUB_TOTAL : 861.99 $
+DISCOUNT(4.04%): (-) 34.82
+TAX:VAT (5.00%): 43.11 $
+TOTAL : 887.95 $
+
+Total in words: eight hundred and eight-
+y-seven point nine five
+

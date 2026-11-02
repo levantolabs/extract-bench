@@ -1,0 +1,34 @@
+Address:4894 Melanie Pass Apt. 742
+‘Tammyland, SD 42587 US
+
+Invoice Date: 27-Nov-1997
+Invoice number INV/14-61/195
+Mclean-Cochran
+
+Due Date : 05-May-2015
+
+Bill to:Jose Holden
+284 Stevens Ferry Suite 622
+Linton, CO 46787 US
+Tel:+(476)166-1041
+Email:donnabradley@example.net
+Site:http:/www.ramirez.info!
+
+rems QUANTITY PRICE TAK AMOUNT
+Soleo. 6.00 sat $000 $1266
+“Task wife intresting, 400 st097 $0.00 $43.68
+“reat agree remain 500 $9725 $0.00 $406.25
+‘Young oficer white. 500 $8328 © $000 $416.40
+
+DISCOUNT(4.48%): (-) 42.97
+
+TOTAL : 978.99 EUR
+
+‘Terms & Conditions
+4. Please sond payment within 8 days of receiving this invoice.
+‘There will be a 2.5% intrest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes,
+
+‘Thank you for your business!
+
+Email:cjames@example.com

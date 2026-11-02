@@ -1,0 +1,70 @@
+Date: 11-Mar-2001
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Email:marymoore@example.org
+
+ITEMS
+
+Strategy yes agreement.
+Important particular big.
+Test or.
+
+While my just.
+
+Note:Total payment due in 14 days.
+
+QUANTITY
+
+4.00
+
+1.00
+
+5.00
+
+3.00
+
+Invoice number 7Y9M9d-923
+
+Buyer :Kathryn Newton
+973 Michelle Parkways
+Stephensonfurt, FL 10271 US
+
+Tel:+(238)336-8485
+Email:michael17@example.org
+Site:http://smith.biz/
+
+PRICE
+
+$74.05
+
+$44.68
+
+$43.02
+
+$10.71
+
+TAX
+
+$0.00
+
+$0.00
+
+$0.00
+
+$0.00
+
+AMOUNT
+
+$296.20
+
+$44.68
+
+$215.10
+
+$32.13
+
+SUB_TOTAL : 588.11 EUR
+
+TOTAL : 589.27 EUR

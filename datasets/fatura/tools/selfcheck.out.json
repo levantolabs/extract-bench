@@ -1,0 +1,140 @@
+{
+ "errors": [],
+ "n_items": 150,
+ "per_template": {
+  "50": 15,
+  "7": 15,
+  "32": 15,
+  "39": 15,
+  "2": 15,
+  "12": 15,
+  "4": 15,
+  "49": 15,
+  "10": 15,
+  "25": 15
+ },
+ "field_gold_counts": {
+  "invoice_number": {
+   "null": 30,
+   "value": 120
+  },
+  "invoice_date": {
+   "value": 150
+  },
+  "due_date": {
+   "value": 105,
+   "null": 45
+  },
+  "po_number": {
+   "null": 150
+  },
+  "seller_name": {
+   "value": 135,
+   "excluded": 15
+  },
+  "buyer_name": {
+   "value": 135,
+   "multi": 15
+  },
+  "subtotal": {
+   "value": 135,
+   "null": 15
+  },
+  "tax": {
+   "value": 75,
+   "excluded": 45,
+   "null": 30
+  },
+  "discount": {
+   "multi": 75,
+   "null": 75
+  },
+  "total": {
+   "value": 135,
+   "null": 15
+  },
+  "amount_due": {
+   "excluded": 120,
+   "null": 15,
+   "value": 15
+  }
+ },
+ "n_fields_total": 1470,
+ "n_null_gold_fields": 375,
+ "n_null_gold_fields_excl_po": 225,
+ "null_by_template_field": {
+  "T50:invoice_number": 15,
+  "T50:po_number": 15,
+  "T7:po_number": 15,
+  "T7:discount": 15,
+  "T32:due_date": 15,
+  "T32:po_number": 15,
+  "T32:discount": 15,
+  "T39:po_number": 15,
+  "T39:total": 15,
+  "T39:amount_due": 15,
+  "T2:due_date": 15,
+  "T2:po_number": 15,
+  "T2:discount": 15,
+  "T12:po_number": 15,
+  "T4:invoice_number": 15,
+  "T4:po_number": 15,
+  "T4:tax": 15,
+  "T49:due_date": 15,
+  "T49:po_number": 15,
+  "T49:tax": 15,
+  "T49:discount": 15,
+  "T10:po_number": 15,
+  "T10:subtotal": 15,
+  "T25:po_number": 15,
+  "T25:discount": 15
+ },
+ "adapter_docs_checked": 2000,
+ "adapter_failures": [],
+ "adapter_failure_count": 0,
+ "tesseract": {
+  "version": "tesseract 5.5.0",
+  "psm": 3,
+  "lang": "eng",
+  "note": "sanity check only; not the harness OCR engine; text not written to items.jsonl",
+  "gold_reachable_by_field_native": {
+   "invoice_date": "136/150",
+   "due_date": "101/105",
+   "seller_name": "124/135",
+   "buyer_name": "124/150",
+   "subtotal": "127/135",
+   "tax": "71/75",
+   "discount": "70/75",
+   "total": "128/135",
+   "invoice_number": "86/120",
+   "amount_due": "15/15"
+  },
+  "gold_reachable_by_field_x2_lanczos": {
+   "invoice_date": "144/150",
+   "due_date": "104/105",
+   "seller_name": "128/135",
+   "buyer_name": "150/150",
+   "subtotal": "126/135",
+   "tax": "68/75",
+   "discount": "71/75",
+   "total": "135/135",
+   "invoice_number": "112/120",
+   "amount_due": "15/15"
+  },
+  "gold_reachable_all_native": "982/1095",
+  "gold_reachable_all_x2": "1053/1095",
+  "o200k_tokens_native": {
+   "p50": 218.5,
+   "p95": 331,
+   "min": 124,
+   "max": 367
+  },
+  "o200k_tokens_x2": {
+   "p50": 232.5,
+   "p95": 317,
+   "min": 128,
+   "max": 346
+  }
+ },
+ "ok": true
+}

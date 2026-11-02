@@ -1,0 +1,19 @@
+{
+ "date": "2026-10-23",
+ "auditor": "Claude Opus 5.5 (independent verifier pass), not blind to gold, single pass, checked against full-resolution receipt images [MY JUDGEMENT]",
+ "method": "Targeted, not random: (1) every null scalar slot whose field keyword (e.g. sub total, kembali, disc/diskon, total) appears in meta.oracle_text (18 of 1,012 null slots hit; a lower bound, since the oracle holds only labelled words); (2) every receipt where present golds fail cash - total = change (5 receipts, all explained by coupons/vouchers except test-095). Hits were viewed on the image. Do not read these counts as an error rate.",
+ "slots": [
+  {"id": "cord-test-095", "field": "changeprice", "verdict": "wrong_null", "value_on_image": 201,
+   "note": "'KEMBALI 201' printed under 'TUNAI 62,000'; CORD files 201 as a second total.cashprice value, so changeprice has no gold"},
+  {"id": "cord-test-095", "field": "cashprice", "verdict": "wrong_value", "value_on_image": 62000,
+   "note": "raw gold alternatives [62000, 201] include the change amount 201 (CORD mislabel); only 62,000 is cash tendered"},
+  {"id": "cord-test-071", "field": "subtotal_price", "verdict": "wrong_null", "value_on_image": 198000,
+   "note": "'Sub Total 198000' printed; CORD files it as total.total_price (inconsistent with test-009/dev-029, where the same 'Sub Total' layout is filed as subtotal_price)"},
+  {"id": "cord-test-009", "field": "total_price", "verdict": "ambiguous", "value_on_image": 36000,
+   "note": "only 'Sub Total 36000' is printed, then Tunai/Kembalian; the amount to pay is 36000, but no line says Total. The original audit marked this slot 'absent'"},
+  {"id": "cord-dev-029", "field": "total_price", "verdict": "ambiguous", "value_on_image": 30000,
+   "note": "same layout as test-009: only 'Sub Total 30000' printed. The original audit marked this slot 'absent'"},
+  {"id": "cord-dev-021", "field": "discount_price", "verdict": "ambiguous", "value_on_image": 34363,
+   "note": "'1 Discount BCA 15% -Rp34,363' is a whole-bill bank discount (15% of the three items' 229,089) that CORD files as a menu line, so it is also in menu_nm/menu_price list gold"}
+ ]
+}

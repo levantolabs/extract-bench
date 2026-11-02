@@ -1,0 +1,17 @@
+Lolita Deckow
+97864 N Broadway Street
+Collierville, Montana 64043-8959
+
+<logo>WELLS FARGO</logo>
+
+PAY TO THE ORDER OF
+Ryan Group
+
+2025-02-03
+
+$2,763.23
+TWO THOUSAND SEVEN HUNDRED SIXTY THREE and 23/100
+DOLLARS
+MEMO contract payment
+
+⑆766800721⑆ 2564397564 ⑈1869⑈

@@ -1,0 +1,42 @@
+Date: 09-Jan-2022
+
+Miller Inc
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Email:marymoore@example.org
+
+ITEMS
+Artist interest.
+
+Affect suddenly rate.
+
+Thank you for choosing us!
+
+SS
+
+QUANTITY
+
+6.00
+
+4.00
+
+Invoice number INV78583325
+
+Buyer :Jason Wilson
+
+1255 Robert Via
+
+Lake Mandy, AS 67177 US
+Tel:+(643)555-3996
+Email:johnramsey@example.com
+Site:http://www.fisher.com/
+
+PRICE TAX AMOUNT
+$28.46 $0.00 $170.76
+$13.74 $0.00 $54.96
+
+SUB_TOTAL : 225.72 $
+
+TOTAL : 230.56 $

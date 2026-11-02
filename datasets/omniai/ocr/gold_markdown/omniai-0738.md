@@ -1,0 +1,91 @@
+## CITIC Securities
+
+### Brokerage Account Statement
+
+ACCOUNT SUMMARY
+
+|                             | Current      | YTD          |
+| --------------------------- | ------------ | ------------ |
+| Beginning of Period Value   | $562,503.00  | $718,502.00  |
+| Portfolio Rebalancing       | $0.00        | $40,848.85   |
+| Unrealized Capital Gains    | $20,202.64   | $35,097.00   |
+| Total Portfolio Performance | -$171,560.23 | -$289,241.60 |
+| Dividend / Interest Income  | $33,735.12   | $43,510.55   |
+| Ancillary Transactions      | -$8,464.41   | -$15,944.15  |
+| Performance Fees            | -$4,328.86   | -$7,696.55   |
+| Distributions               | -$29,945.70  | -$41,546.25  |
+| Additional Contributions    | $28,455.32   | $35,961.40   |
+| Total                       | $430,596.88  | $519,491.25  |
+
+¹ Net Change in Portfolio is the difference between the ending account value and beginning account value after activity.
+
+INVESTMENT ELECTIONS
+
+#### TAX LOT DEFAULT DISPOSITION METHOD
+
+Preferred tax-lot approach for open-ended and mutual funds: LIFO
+
+Standard tax-lot method for stocks in DRIPs: Specific
+
+Default cost basis approach for miscellaneous holdings: Specific
+
+#### CASH SWEEP PROGRAM
+
+Default repository for unused capital: Treasury Fund
+
+Interval for transferring uninvested cash to the sweep account:
+
+ □ Daily  ☑ Weekly  □ Monthly 
+
+| Ticker | Exchange Fund (ETF)                    | Price (Last Close) | YTD Price Change | Daily Volume (avg) | Category | One Day Change |
+| ------ | -------------------------------------- | ------------------ | ---------------- | ------------------ | -------- | -------------- |
+| IJR    | iShares Core S&P Small-Cap ETF         | 114.97             | 0.0839           | 3509577            | Equity   | -0.0072        |
+| IEMG   | iShares Core MSCI Emerging Markets ETF | 52.31              | 0.0667           | 9449047            | Equity   | -0.0082        |
+| VXUS   | Vanguard Total International Stock ETF | 59                 | 0.052            | 3544059            | Equity   | -0.0067        |
+| VUG    | Vanguard Growth ETF                    | 414.19             | 0.339            | 1145739            | Equity   | -0.0126        |
+| VEA    | Vanguard FTSE Developed Markets ETF    | 47.81              | 0.0312           | 10714970           | Equity   | -0.0062        |
+| XLK    | Technology Select Sector SPDR Fund     | 234.47             | 0.2265           | 4015302            | Equity   | -0.0127        |
+| SPY    | SPDR S&P 500 ETF Trust                 | 588.22             | 0.2534           | 46003064           | Equity   | -0.0114        |
+| IWF    | iShares Russell 1000 Growth ETF        | 405.2              | 0.3432           | 1349642            | Equity   | -0.0119        |
+| VTV    | Vanguard Value ETF                     | 168.94             | 0.1571           | 1827734            | Equity   | -0.0101        |
+| VGT    | Vanguard Information Technology ETF    | 627.57             | 0.305            | 453405             | Equity   | -0.0125        |
+| IVV    | iShares Core S&P 500 ETF               | 590.98             | 0.2542           | 5875330            | Equity   | -0.011         |
+| IJH    | iShares Core S&P Mid-Cap ETF           | 62.17              | 0.1366           | 7659450            | Equity   | -0.007         |
+| IEFA   | iShares Core MSCI EAFE ETF             | 70.32              | 0.0332           | 8199248            | Equity   | -0.0066        |
+
+## Account statement as of 12-01-2022 - 07-31-2023
+
+DAILY BALANCES
+
+| Date       | Amount      | Date       | Amount      | Date       | Amount      |
+| ---------- | ----------- | ---------- | ----------- | ---------- | ----------- |
+| 2023-12-30 | $428,372.00 | 2023-12-20 | $429,163.00 | 2023-12-08 | $433,053.00 |
+| 2023-12-29 | $428,419.00 | 2023-12-19 | $429,550.00 | 2023-12-07 | $433,259.00 |
+| 2023-12-28 | $428,783.00 | 2023-12-16 | $429,173.00 | 2023-12-06 | $433,648.00 |
+| 2023-12-27 | $428,594.00 | 2023-12-15 | $428,994.00 | 2023-12-05 | $433,691.00 |
+| 2023-12-26 | $429,005.00 | 2023-12-14 | $428,825.00 | 2023-12-02 | $434,079.00 |
+| 2023-12-23 | $429,032.00 | 2023-12-13 | $428,542.00 | 2023-12-01 | $434,244.00 |
+| 2023-12-22 | $429,043.00 | 2023-12-12 | $428,537.00 |            |             |
+| 2023-12-21 | $429,134.00 | 2023-12-09 | $433,018.00 |            |             |
+
+NOTES ON THIS STATEMENT
+
+\-This document is confidential and intended solely for the use of the recipient. Redistribution without prior written consent is strictly prohibited.
+
+\-Certain investments in this portfolio may be subject to restrictions or holding periods as specified in the account terms and conditions.
+
+CLIENT SERVICES
+
+Your Financial Consultant: Marianne Weissnat
+
+ID: yfo1oEQR3
+
+58321 Rippin Fords North Richland Hills Massachusetts, 28775
+
+Contact Information
+
+Business: 6872393679
+
+CITIC Securities
+
+31

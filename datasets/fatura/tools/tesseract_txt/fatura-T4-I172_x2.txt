@@ -1,0 +1,28 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US
+
+COMMERCIAL INVOICE TOTAL : 446.31 EUR
+BILL_TO:
+Zachary Oneal
+754 Mcdowell Path Due Date : 05-Jul-1994
+
+New Gabrielchester, NY 26427 US
+Tel:+(157)668-0122
+
+Email:ibenton@example.net Date: 10-May-2021
+
+Site:http://www.walters.com/
+
+Description | QUANTITY | PRICE
+| Catch price leave evidence, | 2.00 | $36.80
+| Sign play Mr. | 6.00 | $6.71
+| No course. | 4.00 | $25.37
+| Large. | 4.00 | $22.15
+| Chair join husband, | 2.00 | $98.50
+
+SUB_TOTAL : 434.49 EUR
+DISCOUNT(2.92%): (-) 12.69
+
+Thank you for your business!

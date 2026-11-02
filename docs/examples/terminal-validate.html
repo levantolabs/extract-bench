@@ -1,0 +1,37 @@
+<!doctype html><meta charset="utf-8"><title>validate</title><style>
+:root { --surface:#fcfcfb; --text:#0b0b0b; --text2:#52514e; --muted:#8a8984; --rule:#e6e5e1; --good:#0ca30c; --bad:#d03b3b;
+        --chip:#f3f2ee; }
+* { box-sizing:border-box; } body { margin:0; background:var(--surface); color:var(--text);
+  font:14px/1.45 "Helvetica Neue", Helvetica, Arial, sans-serif; }
+.wrap { padding:28px 32px; display:flex; gap:28px; align-items:flex-start; width:max-content; }
+.doc img { width:360px; border:1px solid var(--rule); border-radius:6px; display:block; }
+.doc p { color:var(--muted); font-size:12px; margin:8px 0 0; max-width:360px; }
+h1 { font-size:17px; margin:0 0 4px; } .sub { color:var(--text2); margin:0 0 16px; font-size:13px; }
+table { border-collapse:collapse; font-size:13px; } th, td { padding:7px 10px; border-bottom:1px solid var(--rule);
+  text-align:left; vertical-align:top; white-space:nowrap; }
+th { color:var(--text2); font-weight:600; font-size:12px; } td.f { font-family:Menlo, Consolas, monospace; font-size:12px; }
+td.gold { background:var(--chip); font-weight:600; }
+.v { font-family:Menlo, Consolas, monospace; font-size:12px; } .null { color:var(--muted); font-style:italic; }
+.ok::before { content:"✓ "; color:var(--good); font-weight:700; } .no::before { content:"✗ "; color:var(--bad); font-weight:700; }
+.part::before { content:"◐ "; color:var(--text2); }
+tfoot td { color:var(--text2); font-weight:600; border-bottom:none; }
+.term { margin:28px 32px; background:#141413; color:#e8e6df; border-radius:10px; padding:18px 22px 20px;
+  font:12.5px/1.5 Menlo, Consolas, monospace; white-space:pre; width:max-content; box-shadow:0 1px 0 #0003; }
+.term .bar { color:#8f8e86; margin-bottom:10px; } .term .cmd { color:#7fb6f5; }
+</style><div class="term"><div class="bar">● ● ●</div><span class="cmd">$ extract-bench validate results/v0.1/nuextract3</span>
+dataset            lines  eval  errored eval acc*
+fatura               118    62        0      88.9
+omniai               179    95        0      83.9
+docvqa               278   145        0      70.8
+vrdu                 284   131        0      68.7
+realdoc              160    71        0      54.6
+kleister_nda          66    31        0      81.7
+kleister_charity      79    44        0      76.4
+emails                80    45        0      88.9
+tatqa                 66    24        0      88.5
+squad2                96    57        0      59.0
+sroie                278   143        0      61.4  (receipts)
+cord                 160    79        0      53.9  (receipts)
+* Eval half, scored on this submission&#x27;s own fields. The leaderboard keeps only the fields that
+  every system answered, so `extract-bench report` can differ slightly.
+OK</div>

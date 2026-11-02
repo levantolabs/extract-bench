@@ -1,0 +1,35 @@
+Address:4894 Melanie Pass Apt. 742
+‘Tammyland, SD 42587 US
+
+Date: 02-Oct-1993,
+INVOICE # 7814-183
+
+Mclean-Cochran
+Due Date : 24-Feb-2008
+
+Buyer :Holly Wells
+8429 Lane Groves Apt. 068
+Barrfurt, NY 06817 US
+Tel:+(723)186-6599
+Email:kmontgomery@example.com
+Site:https://www.pennington.com/
+
+rems QUANTITY PRICE TAX AMOUNT
+Reason agains thes 600 $9603 $0.00 $876.18
+Sea pick 200 $0458 $000 $199.12
+Computer ese. 400 s1544 $0.00 $61.76
+oor pay blood 500 $545 $0.00 $2730
+Decide follow so 600 $5845 $0.00 $326.70
+
+DISCOUNT(2.63%): (-) 31.06
+
+TOTAL : 1213.68 USD
+
+‘Terms & Conditions
+4. Please sond payment within 8 days of receiving this invoice.
+‘There will be a 2.5% intrest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes,
+
+Note:Total payment due in 14 days.
+
+Email:cjames@example.com

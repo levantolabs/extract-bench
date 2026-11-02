@@ -1,0 +1,18 @@
+Princess Anderson
+689 Herzog Rapids
+Sheboygan, Kentucky 09098
+
+<logo>WELLS FARGO<logo>
+
+PAY TO THE ORDER OF
+Jacobson, Leffler and Hayes
+
+2025-02-12
+
+$39,852.42
+
+THIRTY NINE THOUSAND EIGHT HUNDRED FIFTY TWO and 42/100 DOLLARS
+
+MEMO
+
+⑆770136045⑆ 3895127296 ⑈2777⑈

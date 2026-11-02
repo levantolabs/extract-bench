@@ -1,0 +1,103 @@
+BERKSHIRE HATHAWAY INC.
+and Subsidiaries
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+(dollars in millions)
+
+Cash flows from operating activities:
+Net earnings (loss)
+Adjustments to reconcile net earnings (loss) to operating cash flows:
+Investment (gains) losses
+Depreciation and amortization
+Other
+Changes in operating assets and liabilities:
+Unpaid losses and loss adjustment expenses
+Deferred charges - retroactive reinsurance
+Unearned premiums
+Receivables and originated loans
+Inventories
+Other assets
+Other liabilities
+Income taxes
+Net cash flows from operating activities
+Cash flows from investing activities:
+Purchases of equity securities
+Sales of equity securities
+Purchases of U.S. Treasury Bills and fixed maturity securities
+Sales of U.S. Treasury Bills and fixed maturity securities
+Redemptions and maturities of U.S. Treasury Bills and fixed maturity securities
+Acquisitions of businesses, net of cash acquired
+Purchases of property, plant and equipment and equipment held for lease
+Other
+Net cash flows from investing activities
+Cash flows from financing activities:
+Proceeds from borrowings of insurance and other businesses
+Repayments of borrowings of insurance and other businesses
+Proceeds from borrowings of railroad, utilities and energy businesses
+Repayments of borrowings of railroad, utilities and energy businesses
+Changes in short term borrowings, net
+Acquisition of treasury stock
+Other, principally transactions with noncontrolling interests
+Net cash flows from financing activities
+Effects of foreign currency exchange rate changes
+Increase (decrease) in cash and cash equivalents and restricted cash
+Cash and cash equivalents and restricted cash at beginning of year
+Cash and cash equivalents and restricted cash at end of year*
+* Cash and cash equivalents and restricted cash at end of year are comprised of:
+Insurance and Other
+Railroad, Utilities and Energy
+Restricted cash included in other assets
+
+Year Ended December 31,
+2022 2021 2020
+
+$ (22,058) $ 90,807 $ 43,253
+
+67,623 (77,576) (40,905)
+10,899 10,718 10,596
+(4,324) (3,397) 11,263
+
+4,057 4,194 4,476
+769 1,802 1,307
+1,861 2,306 1,587
+(5,592) (5,834) (1,609)
+(4,779) (1,862) 681
+(373) 176 (1,790)
+2,033 2,790 3,719
+(12,892) 15,297 7,195
+37,224 39,421 39,773
+(67,930) (8,448) (30,161)
+33,664 15,849 38,756
+
+(183,922) (152,637) (208,429)
+90,088 27,188 31,873
+66,318 160,402 149,709
+
+(10,594) (456) (2,532)
+(15,464) (13,276) (13,012)
+239 770 (3,961)
+(87,601) 29,392 (37,757)
+7,822 2,961 5,925
+(1,502) (3,032) (2,700)
+4,873 3,959 8,445
+(2,426) (4,016) (3,761)
+(596) (624) (1,118)
+(7,854) (27,061) (24,706)
+(1,979) (695) (429)
+(1,662) (28,508) (18,344)
+(268) 5 92
+(52,307) 40,310 (16,236)
+88,706 48,396 64,632
+
+$36,399 $ 88,706 $ 48,396
+
+$ 32,260 $ 85,319 $ 44,714
+3,551 2,865 3,276
+
+588 322 406
+$36,399 $ 88706 $ 48,396
+
+See accompanying Notes to Consolidated Financial Statements
+
+K-74

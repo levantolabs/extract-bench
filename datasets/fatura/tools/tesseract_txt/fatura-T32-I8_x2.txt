@@ -1,0 +1,32 @@
+Date: 10-Mar-1993
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Email:marymoore@example.org
+
+ITEMS QUANTITY
+Use business record. 6.00
+Current evidence. 5.00
+
+Note: All payments to be made in cash.
+Contact us for queries on these quotations.
+
+INVOICE # 2Y3M4d-791
+
+Buyer :Stephanie Romero
+
+942 Kaitlin Valley
+
+Kennethmouth, NJ 28165 US
+Tel:+(299)216-4225
+Email:sharonmoreno@example.net
+Site:https://www.noble-vasquez.org/
+
+PRICE TAX AMOUNT
+$35.52 $0.00 $213.12
+$82.03 $0.00 $410.15
+
+SUB_TOTAL : 623.27 USD
+
+TOTAL : 649.94 USD

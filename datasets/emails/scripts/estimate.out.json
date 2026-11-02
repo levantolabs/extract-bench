@@ -1,0 +1,153 @@
+{
+ "rows": [
+  {
+   "arm": "clairic_text",
+   "dataset": "emails",
+   "items": 100,
+   "calls": 100,
+   "in_tok": 106626,
+   "out_tok": 0,
+   "usd": 0.010662640000000003,
+   "wall_s": 7.500000000000012,
+   "assumed_text_items": 0,
+   "fields": 100
+  },
+  {
+   "arm": "clairic_text_w15k",
+   "dataset": "emails",
+   "items": 100,
+   "calls": 100,
+   "in_tok": 106626,
+   "out_tok": 0,
+   "usd": 0.010662640000000003,
+   "wall_s": 7.500000000000012,
+   "assumed_text_items": 0,
+   "fields": 100
+  },
+  {
+   "arm": "clairic_vision",
+   "dataset": "emails",
+   "items": 0,
+   "calls": 0,
+   "in_tok": 0,
+   "out_tok": 0,
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "assumed_text_items": 0,
+   "fields": 0
+  },
+  {
+   "arm": "clairic_vision_ocr",
+   "dataset": "emails",
+   "items": 0,
+   "calls": 0,
+   "in_tok": 0,
+   "out_tok": 0,
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "assumed_text_items": 0,
+   "fields": 0
+  },
+  {
+   "arm": "sage_precise",
+   "dataset": "emails",
+   "items": 100,
+   "calls": 100,
+   "in_tok": 106795,
+   "out_tok": 16400,
+   "usd": 0.16933975000000007,
+   "wall_s": 27.499999999999954,
+   "assumed_text_items": 0,
+   "fields": 100
+  },
+  {
+   "arm": "sage_fast",
+   "dataset": "emails",
+   "items": 100,
+   "calls": 100,
+   "in_tok": 106795,
+   "out_tok": 16400,
+   "usd": 0.16933975000000007,
+   "wall_s": 27.499999999999954,
+   "assumed_text_items": 0,
+   "fields": 100
+  },
+  {
+   "arm": "haiku_json",
+   "dataset": "emails",
+   "items": 100,
+   "calls": 100,
+   "in_tok": 114595,
+   "out_tok": 4500,
+   "usd": 0.0137095,
+   "wall_s": 339.9999999999997,
+   "assumed_text_items": 0,
+   "fields": 100
+  },
+  {
+   "arm": "gemini_vision_json",
+   "dataset": "emails",
+   "items": 0,
+   "calls": 0,
+   "in_tok": 0,
+   "out_tok": 0,
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "assumed_text_items": 0,
+   "fields": 0
+  }
+ ],
+ "per_arm": {
+  "clairic_text": {
+   "usd": 0.010662640000000003,
+   "wall_s": 7.500000000000012,
+   "calls": 100
+  },
+  "clairic_text_w15k": {
+   "usd": 0.010662640000000003,
+   "wall_s": 7.500000000000012,
+   "calls": 100
+  },
+  "clairic_vision": {
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "calls": 0
+  },
+  "clairic_vision_ocr": {
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "calls": 0
+  },
+  "sage_precise": {
+   "usd": 0.16933975000000007,
+   "wall_s": 27.499999999999954,
+   "calls": 100
+  },
+  "sage_fast": {
+   "usd": 0.16933975000000007,
+   "wall_s": 27.499999999999954,
+   "calls": 100
+  },
+  "haiku_json": {
+   "usd": 0.0137095,
+   "wall_s": 339.9999999999997,
+   "calls": 100
+  },
+  "gemini_vision_json": {
+   "usd": 0.0,
+   "wall_s": 0.0,
+   "calls": 0
+  }
+ },
+ "assumptions": {
+  "datasets": "emails",
+  "arms": "clairic_text,clairic_text_w15k,clairic_vision,clairic_vision_ocr,sage_precise,sage_fast,haiku_json,gemini_vision_json",
+  "root": null,
+  "clairic_ratio": 1.12,
+  "clairic_img_tok": 1500,
+  "or_img_tok": 1120,
+  "ocr_tok": 700,
+  "psm": 3,
+  "json": "extract-bench/datasets/emails/scripts/estimate.out.json"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "emails-r0160": {
+  "committee": {
+   "flag": "ambiguous",
+   "note": "scorer: disclaimer 'PAID FOR BY TURNING POINT ACTION (TPACTION.COM)AND NOT...'; sage arms include '(TPACTION.COM)' suffix vs gold.",
+   "source": "hand_audit"
+  }
+ },
+ "emails-r0239": {
+  "committee": {
+   "flag": "ambiguous",
+   "note": "scorer: 'Paid for by The Pennsylvania Democratic Party.'; all arms include leading 'The'.",
+   "source": "hand_audit"
+  }
+ },
+ "emails-r0266": {
+  "committee": {
+   "flag": "ambiguous",
+   "note": "scorer: text 'Paid for by Fightfor Progress PAC' (missing space in source text); arms copied verbatim vs gold 'Fight for'.",
+   "source": "hand_audit"
+  }
+ },
+ "emails-r0280": {
+  "committee": {
+   "flag": "ambiguous",
+   "note": "scorer: text 'Paid for by DavidPan for Congress 2024' (missing space); arms copied verbatim vs gold 'David Pan'.",
+   "source": "hand_audit"
+  }
+ },
+ "emails-r0416": {
+  "committee": {
+   "flag": "ambiguous",
+   "note": "scorer: 'PAID FOR BY THE INDIANAREPUBLICAN STATE COMMITTEE'; arms add 'THE' (and source missing space).",
+   "source": "hand_audit"
+  }
+ },
+ "emails-r0614": {
+  "committee": {
+   "flag": "ambiguous",
+   "note": "scorer: 'Paid for by theDemocratic Party of Georgia'; arms include leading 'the' (sage glued 'theDemocratic').",
+   "source": "hand_audit"
+  }
+ },
+ "emails-r0660": {
+  "committee": {
+   "flag": "ambiguous",
+   "note": "scorer: 'Paid for by theDemocratic Party of Georgia'; arms include leading 'the'.",
+   "source": "hand_audit"
+  }
+ },
+ "emails-r0690": {
+  "committee": {
+   "flag": "ambiguous",
+   "note": "scorer: 'PAID FOR BY TURNING POINT ACTION (TPACTION.COM)'; arms include '(TPACTION.COM)' suffix.",
+   "source": "hand_audit"
+  }
+ },
+ "emails-r0702": {
+  "committee": {
+   "flag": "ambiguous",
+   "note": "scorer: 'PAID FOR BY TURNING POINT ACTION (TPACTION.COM)'; arms include '(TPACTION.COM)' suffix.",
+   "source": "hand_audit"
+  }
+ }
+}

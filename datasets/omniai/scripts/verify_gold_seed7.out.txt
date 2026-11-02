@@ -1,0 +1,4 @@
+sample ids ['omniai-0568', 'omniai-0633', 'omniai-0945', 'omniai-0208', 'omniai-0254', 'omniai-0455', 'omniai-0065', 'omniai-0275', 'omniai-0509', 'omniai-0719', 'omniai-0189', 'omniai-0332', 'omniai-0406', 'omniai-0661', 'omniai-0093']
+fields checked 253
+mismatches 0
+azure text rows matched 15 identical 15

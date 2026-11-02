@@ -1,0 +1,42 @@
+TAX INVOICE
+
+Invoice number 7691-064
+Date: 19-Nov-1995
+Due Date : 03-Mar-2009
+
+Richardson-Davis
+‘Address:6479 Smith Causeway
+East Camerontown, AS 38212 US
+
+Bill to:Derek Brown
+448 Jennings Brooks Suite 147
+Markburgh, MA 49144 US
+Tel:+(837)390-6174
+Email:jennifermedina@example.org
+Site:http:/iwwnw.nelson.com/
+
+ay [0 ‘Description Unit price [Amount
+200 | 183602 | Concem anive 53.2 10626
+200 | seesr6 | 095 490
+
+“400 | 470073 | Wal coir 7905 316.20
+7.00 [491697 | New scene 2128 2129
+Bank Name Central Bank of Texas ‘SUB_TOTAL : 445.63 EUR
+
+Branch Name Raf CAMP.
+Bank Account Number 12861136
+Bank Swift Code SBININBB250
+
+‘Thank you for choosing us!
+
+rms and Conditions
+
+will be charged if payment is not made within the due date.
+
+DISCOUNT(2.15%): (-) 9.58
+TAXVAT (5.32%): 23.69 EUR
+
+TOTAL : 456.75 EUR
+
+Total in words: four hundred and fift-
+y-six point seven fi

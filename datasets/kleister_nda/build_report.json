@@ -1,0 +1,159 @@
+{
+ "dataset": "kleister_nda",
+ "source": "https://github.com/applicaai/kleister-nda",
+ "commit": "c2c7bf069b919bfb618b268fda2a2c079c0db316",
+ "provenance": {
+  "README.md": {
+   "git_blob_sha1": "f815825e947bb2b48896d5b610472469ca57de20",
+   "sha256": "35c783085461ccb7d04a945374139d5d00444c5cf87f7ac3e83ce7d8eb94ac70",
+   "bytes": 7317
+  },
+  "config.txt": {
+   "git_blob_sha1": "7b6a536326220f98a23216aff6ca63cf6d4b397c",
+   "sha256": "377b2143be4c984fcf3b5d49de87dbf1c48912ec72f0600215dc4ed628f2e15b",
+   "bytes": 461
+  },
+  "in-header.tsv": {
+   "git_blob_sha1": "c25f5d28a34bb1fa9eb42196451681fc7c60ef91",
+   "sha256": "441aaa02bedfd3f9db56596dcc364f55b7f77c9464296de8ff1e7c6efcd5b46f",
+   "bytes": 63
+  },
+  "dev-0/in.tsv.xz": {
+   "git_blob_sha1": "8afab5c6301e2deba3f30060d3c906d3ddb03c65",
+   "sha256": "728e6b4ce5f2347a596b9ed28f04fcee07b712cc12362155e489b2fe3e26eb48",
+   "bytes": 314624
+  },
+  "dev-0/expected.tsv": {
+   "git_blob_sha1": "a71547a44318df131815eb97616bf11e18dfb12c",
+   "sha256": "2ac328d80ad15688a613d78d96384dca0f13aa99fad1952012a55a31052dca34",
+   "bytes": 8098
+  }
+ },
+ "tokenizer": "tiktoken o200k_base",
+ "n_items": 83,
+ "n_fields_total": 415,
+ "n_null_gold_fields": 75,
+ "null_gold_by_field": {
+  "effective_date": 21,
+  "jurisdiction": 5,
+  "term": 49,
+  "party": 0,
+  "party_any": 0
+ },
+ "gold_key_presence": {
+  "effective_date": 62,
+  "jurisdiction": 78,
+  "party": 83,
+  "term": 34
+ },
+ "term_values": [
+  "10_years",
+  "12_months",
+  "1_year",
+  "24_months",
+  "2_years",
+  "3_years",
+  "5_years",
+  "9_months"
+ ],
+ "n_party_values": 160,
+ "party_values_with_surface_form": 157,
+ "party_any_reachable_verbatim": 82,
+ "jurisdiction_reachable_verbatim": 78,
+ "max_party_list_combos": 4,
+ "keys_column_vs_gold_keys": [
+  {
+   "keys_column": "effective_date jurisdiction party term",
+   "gold_keys": "effective_date jurisdiction party",
+   "n": 30
+  },
+  {
+   "keys_column": "effective_date jurisdiction party term",
+   "gold_keys": "effective_date jurisdiction party term",
+   "n": 26
+  },
+  {
+   "keys_column": "effective_date jurisdiction party term",
+   "gold_keys": "jurisdiction party term",
+   "n": 7
+  },
+  {
+   "keys_column": "effective_date jurisdiction party term",
+   "gold_keys": "jurisdiction party",
+   "n": 6
+  },
+  {
+   "keys_column": "effective_date jurisdiction party term",
+   "gold_keys": "effective_date party",
+   "n": 3
+  },
+  {
+   "keys_column": "effective_date jurisdiction party",
+   "gold_keys": "effective_date jurisdiction party",
+   "n": 3
+  },
+  {
+   "keys_column": "jurisdiction",
+   "gold_keys": "jurisdiction party",
+   "n": 3
+  },
+  {
+   "keys_column": "effective_date jurisdiction party term",
+   "gold_keys": "party",
+   "n": 2
+  },
+  {
+   "keys_column": "jurisdiction party",
+   "gold_keys": "jurisdiction party",
+   "n": 2
+  },
+  {
+   "keys_column": "jurisdiction party term",
+   "gold_keys": "jurisdiction party term",
+   "n": 1
+  }
+ ],
+ "checks": {
+  "best_eq_djvu": 83,
+  "pdf_blob_ok": 83,
+  "pdf_md5_name_ok": 83
+ },
+ "holdout_n": 17,
+ "tokens_o200k": {
+  "p50": 3096,
+  "p95": 6128.4,
+  "max": 8783,
+  "min": 393,
+  "mean": 3385.8,
+  "total": 281020
+ },
+ "n_over_sage_16k": 0,
+ "pages": {
+  "p50": 5,
+  "p95": 11.9,
+  "max": 17,
+  "min": 1,
+  "n_known": 83
+ },
+ "gold_flags": [
+  {
+   "id": "kleister_nda-2572bba862c654e665039f634c132fea",
+   "field": "party",
+   "gold": "Ii-Vi Inc.",
+   "note": "no surface form in text_best with the same alphanumerics; gold kept as is"
+  },
+  {
+   "id": "kleister_nda-54589bbc863f2a358ded8aff65a82bd5",
+   "field": "party",
+   "gold": "Oceanfinancial Corp.",
+   "note": "no surface form in text_best with the same alphanumerics; gold kept as is"
+  },
+  {
+   "id": "kleister_nda-7e7d64c4020fe273508f203e609b8ad8",
+   "field": "party",
+   "gold": "Seawell Ltd.",
+   "note": "no surface form in text_best with the same alphanumerics; gold kept as is"
+  }
+ ],
+ "n_null_outside_official_keys": 14
+}

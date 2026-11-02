@@ -1,0 +1,25 @@
+TAX INVOICE Invoice number INV/24-57/556
+
+Buyer :Sean Valentine
+82529 Robert Green Apt. 154
+Port John, KY 29104 US
+Address:19021 Christopher Estate Tel:+(700)304-0783
+South Williammouth, NH 22397 US Email:gmitchell@example.net
+Site:http://www.donaldson.com/
+
+Invoice Date: 08-Mar-1997 Due Date : 01-Jun-2021
+
+D AMO Ln
+Red type. 1.00 $81.39 $81.39
+Edge subject Republican police. 4.00 $60.86 $243.44
+Heavy technoloay seek. 5.00 $25.70 $128.50
+
+SUB_TOTAL : 453.33 USD
+TAX:VAT (3.22%): 14.59 USD
+DISCOUNT(2.06%): (-) 9.34
+
+Note:
+This order is shipped through blue dart courier
+
+Terms and Conditions
+will be charged if payment is not made within the due date.

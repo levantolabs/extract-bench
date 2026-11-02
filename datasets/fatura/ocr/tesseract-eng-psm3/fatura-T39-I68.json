@@ -1,0 +1,1 @@
+{"id": "fatura-T39-I68", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1}, "ms": 410.7, "per_image": [{"file": "Template39_Instance68.jpg", "page": "Template39_Instance68.jpg", "ms": 394.6}], "ts": "2026-10-23T07:16:06+0800"}

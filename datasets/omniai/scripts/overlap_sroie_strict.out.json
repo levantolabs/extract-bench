@@ -1,0 +1,98 @@
+[
+ {
+  "omniai_id": 9,
+  "name": "SEMBOYAN TEGAS SDN BHD",
+  "date": "06-03-2018",
+  "total": 27,
+  "sroie_matches": [
+   {
+    "sroie_key": "X51006329183",
+    "name": true,
+    "total": true,
+    "date_prefix": true,
+    "sroie": {
+     "company": "SEMBOYAN TEGAS SDN BHD",
+     "date": "06-03-2018",
+     "address": "NO.5 & 7 , JALAN TSJ 2. TAMAN SUBANG JASA KG. BARU SUBANG. 40150 SHAH ALAM SELANGOR DARUL EHSAN",
+     "total": "27.00"
+    }
+   }
+  ]
+ },
+ {
+  "omniai_id": 19,
+  "name": "SUPER SEVEN CASH & CARRY SDN BHD",
+  "date": "01-03-2018",
+  "total": 408.45,
+  "sroie_matches": [
+   {
+    "sroie_key": "X51005746203",
+    "name": true,
+    "total": false,
+    "date_prefix": true,
+    "sroie": {
+     "company": "SUPER SEVEN CASH & CARRY SDN BHD",
+     "date": "01-03-2018",
+     "address": "NO. 1 JALAN EURO 1 OFF JALAN BATU TIGA SUNGAI BULOH SEKSYEN U3 SHAH ALAM, 40150",
+     "total": "RM408.45"
+    }
+   }
+  ]
+ },
+ {
+  "omniai_id": 21,
+  "name": "McDonald's South Africa, Restaurant #197019, Isando",
+  "date": "04/04/2024",
+  "total": 89.8,
+  "sroie_matches": []
+ },
+ {
+  "omniai_id": 39,
+  "name": "FOOD LOVER'S MARKET",
+  "date": "3/04/2024",
+  "total": 213.44,
+  "sroie_matches": []
+ },
+ {
+  "omniai_id": 56,
+  "name": null,
+  "date": "04.04.24",
+  "total": 381.06,
+  "sroie_matches": []
+ },
+ {
+  "omniai_id": 59,
+  "name": "ECONSAVE CASH & CARRY (FC) S/3 (930311-W)",
+  "date": "22/03/18",
+  "total": 5.15,
+  "sroie_matches": []
+ },
+ {
+  "omniai_id": 62,
+  "name": "AEON PERMAS JAYA",
+  "date": "03/06/2018",
+  "total": 147.45,
+  "sroie_matches": []
+ },
+ {
+  "omniai_id": 134,
+  "name": "Bronberg SaveMor",
+  "date": "04.04.24",
+  "total": 44.13,
+  "sroie_matches": []
+ },
+ {
+  "omniai_id": 664,
+  "name": "BECON STATIONER",
+  "date": "13-11-2017",
+  "total": 270.1,
+  "sroie_matches": []
+ },
+ {
+  "omniai_id": 858,
+  "name": "NASI KANDAR PELITA",
+  "date": "03/06/2018",
+  "total": 61.7,
+  "sroie_matches": []
+ }
+]

@@ -1,0 +1,56 @@
+DEPARTMENT OF HOMELAND SECURITY beeps (spies peate'+ Kore
+
+; EXPIRATION DATE 02/28/2026
+U.S. Customs and Border Protection
+ENTRY SUMMARY
+1. Filer Code/Entry Number 2. Entry Type 3. Summary Date | 4. SuretyNumber | 5. Bond Type | 6. Port Code 7. Entry Date
+ABX-23456789-O0 — |01- Consumption | 05/15/2026 | O21 8 (Continuous)} 2704 05/12/2026
+8. Importing Carrier 9. Mode of Transport 10. Country of Origin 11. Import Date
+M/V Ever Globe V.078E I (Vessel container ) CN 05/12/2026
+12. B/L or AWB Number 13. Manufacturer ID 14. Exporting Country 15. Export Date
+EGLV148623721800 CNSHELUMSI8SHE CN 04/28/2026
+16. 1.T. Number 17. I.T. Date 18. Missing Docs 19. Foreign Port of Lading 20. U.S. Port of Unlading
+57035 (Yantian, CN) 2704
+21. Country of Melt and Pour 22. Primary Country of Smelt
+23. Secondary Country of Smelt 24. Country of Cast
+25. Location of Goods/G.O. Number 26. Consignee Number 27. Importer Number 28. Reference Number
+¥257 / GO-2026- 04412 47 - 3920184-00 47-3920184-00 PO- 2026 - LMK - 0087]
+29. Ultimate Consignee Name (Last, First, M.1.) and Address 30. Importer of Record Name (Last, First, M.|.) and Address
+Pacific Med Imaging Distributors, Inc. Pacific Med Imaging Distributors, Inc.
+Street Street
+2450 Harbor Gateway North 2450 Harbor Gateway North
+City State Zip City State Zip
+Long Beach CA 90810 Long Beach CA 90810
+31. 32. an j 36. 37. 38.
+Description of Merchandise A. HTSUS Rate Duy and I Tax
+A. Entered Value B. AD/CVD Rate
+Line | * A. HTSUS No. /" Gross Weight ha Quantity in B. CHGS C. IRC Rate Doll Cents
+No. B. AD/CVD No. B. Manifest Qty. HTSUS Units C. Relationship D. Visa Number itil *
+001 | 9022.21.0000 850 KG 240 EA $ 72,418 0.9% 651.76 | 76
+Other Fee Summary (for Block 43) 39. Total Entered Value CBP USE ONLY TOTALS
+MPF $182. 49 § 72, 418.00 A. LIQ Code B. Ascertained Duty 41. biG
+HMF $9.05 Total Other Fees REASON CODE | C. Ascerlained Tax 2, Tax ;
+
+Total Other Fees $ 191.54 : a
+40. Declaration of Importer of Record (Owner or Purchaser) or B. Asceiained Ghar = $ 191. 54
+Authorized Agent 3
+
+| declare that | am the Importer of record and that the actual owner, E. Ascertained Total 44. Total
+purchaser, or consignee for CBP purposes is as shown above, OR fe owner $ 8 43, 30
+
+or purchaser or agent thereof. | further declare that the merchandise was obtained pursuant to a purchase or agreement to purchase and that the
+
+prices set forth in the invoices are true, OR oO was not obtained pursuant to a purchase or agreement to purchase and the the statements in the invoices as
+to value or price are true to the best of my knowledge and belief. | also declare that the statements in the documents herein filed fully disclose to the best
+of my knowledge and belief the true prices, values, quantities, rebates, drawbacks, fees, commissions, and royalties and are true and correct, and that all
+goods or services provided to the seller of the merchandise either free or at reduced cost are fully disclosed.
+
+| will immediately furnish to the appropriate CBP officer any information showing a different statement of facts.
+
+45. Declarant Name (Last, First, M.I.) Title Signature Date
+Tanaka, Eric M. President Cruc WM. “Tanaka 05/15/2026
+46. Broker/Filer Information Name (Last, First, M.1.) and Phone Number 47. Broker/Importer File Number
+
+Harbor Customs Brokers, LLC; (562) 555-0173 ABX- LMK- 084/2
+
+CBP Form 7501 (02/26) Page 1 of 27

@@ -1,0 +1,36 @@
+Address:4894 Melanie Pass Apt. 742
+Tammyland, SD 42587 US
+
+Invoice Date: 07-Jul-1993
+Invoice number 8087-412
+
+Mclean-Cochran
+Due Date : 13-Aug-1997
+
+Buyer :Melinda Fowler
+
+436 Catherine Corner
+Davisview, FM 54452 US
+Tel:+(008)693-8168
+Email:uking@example.net
+Site:https://www.smith.info/
+
+ITEMS QUANTITY PRICE TAX AMOUNT
+Culture not bar, 1.00 $68.48 $0.00 $68.48
+Might military government. 1.00 $97.32 $0.00 $97.32
+Base material star. 2.00 $13.64 $0.00 $27.28
+
+DISCOUNT(4.81%): (-) 9.29
+
+TOTAL : 192.86 $
+
+Terms & Conditions
+
+1. Please send payment within 8 days of receiving this invoice.
+There will be a 2.5% interest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes.
+
+Note:
+This order is shipped through blue dart courier
+
+Email:cjames@example.com

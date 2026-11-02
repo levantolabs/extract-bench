@@ -1,0 +1,79 @@
+### Account Summary
+
+|                                | Current      | YTD          |
+| ------------------------------ | ------------ | ------------ |
+| Beginning Balance              | $375,542.00  | $387,879.00  |
+| Deposits (Cash & Securities)   | $146,619.15  | $195,504.80  |
+| Account Transfers Out          | $0.00        | -$207,206.70 |
+| Comprehensive Portfolio Change | -$142,120.77 | -$237,972.00 |
+| -                              | $380,040.38  | $138,205.10  |
+
+¹ Net Change in Portfolio is the difference between the ending account value and beginning account value after activity.
+
+### Client Services
+
+Your Financial Consultant: Kristopher Lynch
+
+ID: hhXWKL3bn
+
+399 Madie Rapid Fort Myers Texas, 98842
+
+Contact Information
+
+Business: 2573062415
+
+### Daily Balances
+
+| Date       | Amount      | Date       | Amount      | Date       | Amount      |
+| ---------- | ----------- | ---------- | ----------- | ---------- | ----------- |
+| 2023-12-30 | $379,923.00 | 2023-12-20 | $378,040.00 | 2023-12-08 | $374,310.00 |
+| 2023-12-29 | $379,812.00 | 2023-12-19 | $374,669.00 | 2023-12-07 | $374,258.00 |
+| 2023-12-28 | $380,146.00 | 2023-12-16 | $374,390.00 | 2023-12-06 | $374,469.00 |
+| 2023-12-27 | $377,827.00 | 2023-12-15 | $374,304.00 | 2023-12-05 | $374,822.00 |
+| 2023-12-26 | $378,102.00 | 2023-12-14 | $374,081.00 | 2023-12-02 | $374,506.00 |
+| 2023-12-23 | $378,444.00 | 2023-12-13 | $374,127.00 | 2023-12-01 | $374,206.00 |
+| 2023-12-22 | $378,108.00 | 2023-12-12 | $374,139.00 |            |             |
+| 2023-12-21 | $378,194.00 | 2023-12-09 | $374,513.00 |            |             |
+
+### Investment Elections
+
+#### MARGIN ACCOUNT SETTINGS
+
+Permitted margin ratio against overall account value: 40%
+
+Way the broker notifies you of margin calls: Text
+
+Approval for borrowing shares to sell short: Not Allowed
+
+#### DIVIDEND REINVESTMENT PREFERENCES
+
+Automatically apply dividends toward new share acquisitions: YES
+
+Allow partial share ownership for investments: YES
+
+| Traded As | ETF                                    | Price (Last Close) | Price Change in Period (YTD) | Average daily volume | Category | One Day Change |
+| --------- | -------------------------------------- | ------------------ | ---------------------------- | -------------------- | -------- | -------------- |
+| VGT       | Vanguard Information Technology ETF    | 627.57             | 0.305                        | 453405               | Equity   | -0.0125        |
+| IVV       | iShares Core S&P 500 ETF               | 590.98             | 0.2542                       | 5875330              | Equity   | -0.011         |
+| VWO       | Vanguard FTSE Emerging Markets ETF     | 44.11              | 0.1076                       | 8214263              | Equity   | -0.0088        |
+| SPY       | SPDR S&P 500 ETF Trust                 | 588.22             | 0.2534                       | 46003064             | Equity   | -0.0114        |
+| VXUS      | Vanguard Total International Stock ETF | 59                 | 0.052                        | 3544059              | Equity   | -0.0067        |
+| VOO       | Vanguard S&P 500 ETF                   | 540.99             | 0.2548                       | 5594505              | Equity   | -0.0111        |
+| XLK       | Technology Select Sector SPDR Fund     | 234.47             | 0.2265                       | 4015302              | Equity   | -0.0127        |
+| VEA       | Vanguard FTSE Developed Markets ETF    | 47.81              | 0.0312                       | 10714970             | Equity   | -0.0062        |
+| IJR       | iShares Core S&P Small-Cap ETF         | 114.97             | 0.0839                       | 3509577              | Equity   | -0.0072        |
+| IEFA      | iShares Core MSCI EAFE ETF             | 70.32              | 0.0332                       | 8199248              | Equity   | -0.0066        |
+| VIG       | Vanguard Dividend Appreciation ETF     | 195.8              | 0.1697                       | 965248               | Equity   | -0.0125        |
+| VUG       | Vanguard Growth ETF                    | 414.19             | 0.339                        | 1145739              | Equity   | -0.0126        |
+| VTV       | Vanguard Value ETF                     | 168.94             | 0.1571                       | 1827734              | Equity   | -0.0101        |
+| IEMG      | iShares Core MSCI Emerging Markets ETF | 52.31              | 0.0667                       | 9449047              | Equity   | -0.0082        |
+| IJH       | iShares Core S&P Mid-Cap ETF           | 62.17              | 0.1366                       | 7659450              | Equity   | -0.007         |
+| QQQ       | Invesco QQQ Trust Series I             | 515.61             | 0.2665                       | 29009270             | Equity   | -0.0133        |
+| VTI       | Vanguard Total Stock Market ETF        | 290.82             | 0.2424                       | 3046583              | Equity   | -0.0111        |
+| IWF       | iShares Russell 1000 Growth ETF        | 405.2              | 0.3432                       | 1349642              | Equity   | -0.0119        |
+
+## Account as of 1/1/2020 - 5/31/2020
+
+Robinhood
+
+69

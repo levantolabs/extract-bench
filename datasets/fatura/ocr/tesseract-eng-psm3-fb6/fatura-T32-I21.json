@@ -1,0 +1,1 @@
+{"id": "fatura-T32-I21", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 343.2, "per_image": [{"file": "Template32_Instance21.jpg", "page": "Template32_Instance21.jpg", "psm_used": 3, "chars": 414, "ms": 314.3}], "ts": "2026-10-23T07:22:54+0800"}

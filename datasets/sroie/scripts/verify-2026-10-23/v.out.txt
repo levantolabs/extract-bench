@@ -1,0 +1,19 @@
+tsv sha 93b5440238227b46f0eb0a4992a7ba10ece9afd1f09974d18715e91d2122755a 126571413
+mirror keys sample dict_keys(['row_idx', 'image', 'key', 'image_size', 'entities', 'words', 'bboxes'])
+165 sroie-X51006387737 {"company": "BEMED (SP) SDN. BHD.", "date": "01/APR/2017", "address": "NO.49, JALAN DINAR G U3/G, SUBANG PERDANA, 40150 SHAH ALAM, SELANGOR D.E.", "total": "165 | typed date 2017-04-01 total 165.00 | OK
+77 sroie-X51005705727 {"company": "KEDAI BUKU NEW ACHEIVERS", "date": "28/12/2017", "address": "NO. 12 & 14, JALAN JINJANG 27/54 TAMAN ALAM MEGAH, SEKSYEN 27 40400 SHAH ALAM, SELANGO | typed date 2017-12-28 total 38.15 | OK
+202 sroie-X51006556658 {"company": "GARDENIA BAKERIES (KL) SDN BHD", "date": "15/08/2017", "address": "LOT 3, JALAN PELABUR 23/1, 40300 SHAH ALAM, SELANGOR.", "total": "32.13"} | typed date 2017-08-15 total 32.13 | OK
+333 sroie-X51008042779 {"company": "RESTORAN WAN SHENG", "date": "05-05-2018", "address": "NO.2, JALAN TEMENGGUNG 19/9, SEKSYEN 9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR", "tot | typed date 2018-05-05 total 7.60 | OK
+24 sroie-X51005442322 {"company": "GRAND COMPANIONS SDN BHD", "date": "03 MAR 19", "address": "LOT G112, AEON MALL TEBRAU CITY NO 1 JALAN DESA TEBRAU 81100 JOHOR BAHRU", "total": "26 | typed date 2019-03-03 total 269.40 | OK
+37 sroie-X51005447844 {"company": "RESTAURANT JIAWEI JIAWEI HOUSE", "date": "23/2/2018", "address": "13, JLN TASIK UTAMA 8 MEDAN NIAGA DAMAI SG BESI", "total": "110.00"} | typed date 2018-02-23 total 110.00 | OK
+274 sroie-X51007103610 {"company": "MR. D.I.Y. (M) SDN BHD", "date": "14-04-18", "address": "LOT 1851-A & 1851-B, JALAN KPB 6, KAWASAN PERINDUSTRIAN BALAKONG, 43300 SERI KEMBANGAN, SE | typed date 2018-04-14 total 5.00 | OK
+48 sroie-X51005568895 {"company": "VIVOPAC MARKETING SDN BHD", "date": "13/09/2017", "address": "14 JALAN MANIS 4 TAMAN SEGAR 56100 KL", "total": "52.45"} | typed date 2017-09-13 total 52.45 | OK
+187 sroie-X51006414715 {"company": "SECRET RECIPE RESTAURANT", "date": "4/22/2018", "address": "LOT G16, PERMAS JAYA JUSCO", "total": "RM41.81"} | typed date ['2018-04-22'] total 41.81 | OK
+298 sroie-X51007339160 {"company": "SANYU STATIONERY SHOP", "date": "21/12/2017", "address": "NO. 31G&33G, JALAN SETIA INDAH X ,U13/X 40170 SETIA ALAM", "total": "3.90"} | typed date 2017-12-21 total 3.90 | OK
+29 sroie-X51005442382 {"company": "UNIHAKKA INTERNATIONAL SDN BHD", "date": "20 MAR 2018", "address": "12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR", "to | typed date 2018-03-20 total 6.60 | OK
+259 sroie-X51006828200 {"company": "YHM MID VALLEY", "date": "15/12/2017", "address": "LOT T-015B, LEVEL 3, MID VALLEY CITY, LINGKARAN SYED PUTRA, 59200 KUALA LUMPUR MALAYSIA.", "tota | typed date 2017-12-15 total 21.60 | OK
+109 sroie-X51005745244 {"company": "URBAN IDEA SDN BHD", "date": "14/02/2018", "address": "A-G-06, DATARAN GLOMAC, JALAN SS6/5A, PUSAT BANDAR KELANA JAYA, 47301 PETALING JAYA, SELANGO | typed date 2018-02-14 total 11.90 | OK
+19 sroie-X51005365187 {"company": "F&P PHARMACY", "date": "02/03/2018", "address": "NO.20. GROUND FLOOR, JALAN BS 10/6 TAMAN BUKIT SERDANG, SEKSYEN 10, 43300 SERI KEMBANGAN. SELANGOR | typed date 2018-03-02 total 31.90 | OK
+44 sroie-X51005568889 {"company": "HON HWA HARDWARE TRADING", "date": "11/02/2017", "address": "NO 37, JALAN MANIS 7, TAMAN SEGAR, 56100 CHERAS, KUALA LUMPUR.", "total": "19.60"} | typed date 2017-02-11 total 19.60 | OK
+items with mismatch 0
+full-set typed diffs vs my converter: [('sroie-X51006414715', '4/22/2018', ['2018-04-22'], 'INVALID')]

@@ -1,0 +1,328 @@
+{
+ "realdoc-finance_q100": {
+  "deposit_liabilities_2021_percentage": {
+   "flag": "gold_unreachable",
+   "note": "Chart value 7 for Deposit liabilities 2021 not in OCR; vision arms read 7",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-finance_q226": {
+  "collector_name": {
+   "flag": "gold_unreachable",
+   "note": "Stamp name 'BURNS POE' absent from OCR (only 'TREASURY DEPARTHENT'); vision reads it",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-finance_q235": {
+  "box_q_label": {
+   "flag": "gold_unreachable",
+   "note": "OCR splits/garbles label: 'Primary production losses ‘Dia\\nforward from earlier income years'; 'carried' missing",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-finance_q259": {
+  "presumptive_income_note": {
+   "flag": "ambiguous",
+   "note": "Q asks 'full parenthetical text'; haiku returned exactly the parenthetical. Gold also appends trailing ' or the amount claimed ... earned,' (span boundary)",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-finance_q303": {
+  "from_name_and_title": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku 'Russell P. Martin, Assistant Inspector General for Audit (...)' = gold plus a comma",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-finance_q69": {},
+ "realdoc-finance_q85": {
+  "gt_deficiency_rate": {
+   "flag": "gold_unreachable",
+   "note": "Image: GT bar = 54%. OCR mixes bar labels into axis ticks ('50% 54%') and drops 21%/18%; firm mapping lost",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-finance_q86": {
+  "figure_title": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku 'Figure 3 - Engagements...' identical except hyphen vs en dash (OCR gives '-')",
+   "source": "hand_audit"
+  },
+  "legend_categories": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku lists all 6 legend items exactly, comma-separated vs gold semicolons",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-medical_healthcare_q119": {
+  "learning_disabilities": {
+   "flag": "gold_unreachable",
+   "note": "Handwritten score next to 'Learning Disabilities' not in OCR ('| Learning Disabilities'); vision arms read 1",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-medical_healthcare_q159": {
+  "condition_code_18": {
+   "flag": "gold_unreachable",
+   "note": "Condition code 18 '07' not in OCR (row '| 05 | 1 | 7 | 23] 2'); gemini reads 07",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-medical_healthcare_q181": {
+  "first_temp": {
+   "flag": "gold_unreachable",
+   "note": "Image shows 33.0F for first beverage fridge; OCR reads '35 oF'. Arms copied OCR",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q103": {
+  "paid_by_at_settlement": {
+   "flag": "ambiguous",
+   "note": "scorer: arms '[/]Buyer [/]Seller' (OCR checkbox glyphs) = gold 'Buyer Seller'",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q128": {
+  "appraisal_version_text": {
+   "flag": "ambiguous",
+   "note": "Instr asks text under 'Appraisal Version #1' AND specifically the date; gold mixes label+date. OCR interleaves 'AMCReferenceID' between; 'September 2024' alone is reasonable",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q133": {
+  "left_photo_caption": {
+   "flag": "ambiguous",
+   "note": "scorer: OCR/arms 'Level 1 - Bath - Full- Bath 1' vs gold 'Full - Bath 1'; only a missing space differs",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q196": {
+  "comp_2_energy_efficient_adjustment": {
+   "flag": "gold_unreachable",
+   "note": "Energy Efficient row adjustment garbled in OCR ('a Ec) ee'); vision arms read 0",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q199": {
+  "level_1_bath_1_title": {
+   "flag": "ambiguous",
+   "note": "scorer: all text arms 'Level 1 - Bath - Full- Bath 1' (OCR) vs gold 'Full - Bath 1'; space only",
+   "source": "hand_audit"
+  },
+  "level_2_exhibits_list": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku gives exactly the 4 gold entries, separated by ' | ' instead of '; '",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q229": {
+  "Mortgagee_Reference_Number": {
+   "flag": "ambiguous",
+   "note": "scorer: OCR/arms 'GLS - 031326' vs gold 'GLS-031326'; spacing only",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q243": {
+  "PurchaseDate": {
+   "flag": "gold_unreachable",
+   "note": "Image 08/2003; OCR 'Og / 2003'. Arms copied garbled OCR",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q279": {
+  "Ceiling_and_attic_fans": {
+   "flag": "gold_unreachable",
+   "note": "House-systems YES/NO checkboxes absent from OCR (labels only)",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q305": {
+  "KITCHEN_BASEMENT": {
+   "flag": "gold_unreachable",
+   "note": "Room grid garbled in OCR ('(suite)' etc.); basement kitchen count 1 not recoverable; vision arms read 1",
+   "source": "hand_audit"
+  },
+  "KITCHEN_MAIN": {
+   "flag": "gold_unreachable",
+   "note": "Room grid garbled in OCR ('KITCHEN | (6) | (suite) |'); vision arms read 1",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q311": {
+  "Lender_s_Case_No": {
+   "flag": "ambiguous",
+   "note": "scorer: OCR/arms 'LCM 2024 447' vs gold 'LCM-2024-447'; hyphens lost in OCR",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q345": {
+  "Borrower_Self_Employed": {
+   "flag": "gold_unreachable",
+   "note": "Self Employed checkbox mark not in OCR; vision arms read yes",
+   "source": "hand_audit"
+  },
+  "Co_Borrower_Self_Employed": {
+   "flag": "gold_unreachable",
+   "note": "Co-Borrower Self Employed checkbox mark not in OCR; vision arms read yes",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q358": {
+  "DEBRIS_REMOVAL": {
+   "flag": "gold_unreachable",
+   "note": "Image DEBRIS REMOVAL premium 665.00; OCR '6 465.00' (haiku copied 465)",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q392": {
+  "Borrower_DOB": {
+   "flag": "gold_unreachable",
+   "note": "Partially redacted DOB; OCR row garbled ('471 639 SE oss 713 [290'), 1967 not present",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q421": {
+  "Unit1_b": {
+   "flag": "gold_wrong",
+   "note": "Doc prints '05-29-2025' (OCR + image); gold '2025-05-29' is reformatted, violates verbatim instr. sage_fast/haiku gave verbatim value",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-mortgage_q52": {
+  "death_of_borrower_required_documentation": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku 'Death certificate OR Obituary or newspaper article reporting the death' = gold minus bullet glyphs",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q126": {
+  "carrier": {
+   "flag": "gold_unreachable",
+   "note": "Image Carrier box says MSC; OCR has 'Carrier: [4]' (box empty in text). MSC only appears in ship name 'MSC BOSPHORUS'",
+   "source": "hand_audit"
+  },
+  "reference": {
+   "flag": "ambiguous",
+   "note": "scorer: OCR 'EBKG10791461-~ RI' (pen tick on image); arms gave correct ID plus OCR debris",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q128": {
+  "Ford_Fusion_HYBRID_SE_UN": {
+   "flag": "gold_unreachable",
+   "note": "UN 3166 not in OCR (vehicle rows garbled); vision reads 3166",
+   "source": "hand_audit"
+  },
+  "Tesla_Model_S_UN": {
+   "flag": "gold_unreachable",
+   "note": "Image UN number 3171 (gemini read it); OCR row garbled 'IN31 TTERY-POWERED', no 3171 in text",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q155": {
+  "Tank_Specification": {
+   "flag": "gold_unreachable",
+   "note": "Image 'DOT 117R 100W1' handwritten+printed; OCR '117f Zes00ws'",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q166": {
+  "Close_of_Business_Delivery": {
+   "flag": "gold_unreachable",
+   "note": "Checkbox state (unchecked) not represented in OCR ('ciose ot Business Deryery')",
+   "source": "hand_audit"
+  },
+  "FedEx_Freight_Priority": {
+   "flag": "gold_unreachable",
+   "note": "Checkbox state not in OCR ('FedEx Fraight®Priority'); vision arms read checked",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q182": {
+  "New_Filing_Fee_Class_B_Certificate": {
+   "flag": "gold_unreachable",
+   "note": "Checkbox state for CLASS B certificate not in OCR; vision arms read checked",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q190": {
+  "Weight_sub_To_Corr_Pallets_Gaylords": {
+   "flag": "ambiguous",
+   "note": "scorer: OCR and arms '22523.44Ib' (I for l) vs gold '22523.44lb'",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q196": {
+  "Gallons_Loaded": {
+   "flag": "gold_unreachable",
+   "note": "Handwritten gallons 28708 (image); OCR '5 lob'",
+   "source": "hand_audit"
+  },
+  "Pre_Inspections_BOV_Gasket_Replaced": {
+   "flag": "gold_unreachable",
+   "note": "Circled answer: OCR prints both 'YES / NO', circle not captured; image shows NO circled",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q207": {
+  "What_Failed_Code": {
+   "flag": "gold_unreachable",
+   "note": "Image 'What Failed: 150'; OCR reads '450_'. Arms copied 450",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q208": {
+  "Deep_Water_1st_Overshoot": {
+   "flag": "gold_unreachable",
+   "note": "OCR '49 Deg' dropped decimal; image/vision 4.9. Arms copied 49",
+   "source": "hand_audit"
+  },
+  "Shallow_Water_HT_1_2_2nd_Overshoot": {
+   "flag": "gold_unreachable",
+   "note": "OCR '18 Deg' dropped decimal; image/vision 1.8",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q214": {
+  "Declared_Block_42_Tax": {
+   "flag": "gold_unreachable",
+   "note": "Image block 42 Tax '$ 0.00' handwritten; OCR '42. Tax ;' empty",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q256": {
+  "Car_Number": {
+   "flag": "gold_unreachable",
+   "note": "Handwritten car number DPRX 259013; OCR 'PYRK ZS doi'",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q269": {
+  "f_24": {
+   "flag": "gold_unreachable",
+   "note": "Circled letter M not marked in OCR text (only option list)",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q282": {
+  "Row_1_ID_Type": {
+   "flag": "gold_unreachable",
+   "note": "Checked ID type in header parties table not in OCR (labels 'IRS SSN CBP Assigned' only)",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q70": {
+  "first_recipient_delivery_method": {
+   "flag": "gold_unreachable",
+   "note": "Delivery-method checkbox: OCR has only 'Email:\\nBy:' labels, no checkbox state; vision arms read Email",
+   "source": "hand_audit"
+  }
+ },
+ "realdoc-supply_chain_q75": {
+  "column_header": {
+   "flag": "gold_unreachable",
+   "note": "UNSURE: header split across interleaved OCR lines ('Class or | ... Rate Ref. | (For Info. | Type Only)'); verbatim not recoverable from text",
+   "source": "hand_audit"
+  }
+ }
+}

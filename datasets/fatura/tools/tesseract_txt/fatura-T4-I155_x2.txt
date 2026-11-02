@@ -1,0 +1,25 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US
+
+COMMERCIAL INVOICE TOTAL : 695.47 EUR
+BILL_TO:
+Mark Cook
+3118 Elizabeth Flat Suite 356 Due Date : 04-Feb-2012
+Heatherside, NJ 61519 US
+Tel:+(171)767-0447 ’
+Email:hbaker@example.net Date: 28-Dec-2000
+Site:http://massey.com/
+
+| Description | QUANTITY | PRICE
+
+Population, i 6.00 | $64.92
+
+Never at but. | 3.00 | $90.66
+
+SUB_TOTAL : 661.50 EUR
+DISCOUNT(1.32%): (-) 8.73
+
+Note: All payments to be made in cash.
+Contact us for queries on these quotations.

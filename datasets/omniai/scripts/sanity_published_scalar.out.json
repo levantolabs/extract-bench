@@ -1,0 +1,75 @@
+{
+ "note": "sanity check only; simple normaliser; vendor-run predictions; scalar fields only",
+ "scalar_accuracy": {
+  "aws-textract": {
+   "n": 3022,
+   "acc": 0.907
+  },
+  "azure-document-intelligence": {
+   "n": 3032,
+   "acc": 0.9337
+  },
+  "azure-gpt-4o": {
+   "n": 3032,
+   "acc": 0.7391
+  },
+  "claude-3-5-sonnet-20241022": {
+   "n": 2989,
+   "acc": 0.7019
+  },
+  "gemini-2.0-flash-001": {
+   "n": 3029,
+   "acc": 0.9251
+  },
+  "google-document-ai": {
+   "n": 3032,
+   "acc": 0.871
+  },
+  "ground-truth": {
+   "n": 3032,
+   "acc": 0.997
+  },
+  "omniai": {
+   "n": 3032,
+   "acc": 0.9502
+  },
+  "unstructured": {
+   "n": 3032,
+   "acc": 0.6474
+  }
+ },
+ "by_type": {
+  "azure-document-intelligence|date": {
+   "n": 278,
+   "acc": 0.9748
+  },
+  "azure-document-intelligence|number": {
+   "n": 576,
+   "acc": 0.9097
+  },
+  "azure-document-intelligence|text": {
+   "n": 2168,
+   "acc": 0.9345
+  },
+  "azure-document-intelligence|time": {
+   "n": 10,
+   "acc": 1.0
+  },
+  "ground-truth|date": {
+   "n": 278,
+   "acc": 0.9964
+  },
+  "ground-truth|number": {
+   "n": 576,
+   "acc": 0.9965
+  },
+  "ground-truth|text": {
+   "n": 2168,
+   "acc": 0.9972
+  },
+  "ground-truth|time": {
+   "n": 10,
+   "acc": 1.0
+  }
+ }
+}

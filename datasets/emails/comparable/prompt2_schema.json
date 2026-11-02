@@ -1,0 +1,23 @@
+{
+    "type": "object",
+    "properties": {
+        "committee": {
+            "type": [
+                "string",
+                "null"
+            ],
+            "description": "The name of the committee from the disclaimer (without 'Paid for by' prefix)"
+        },
+        "sender": {
+            "type": [
+                "string",
+                "null"
+            ],
+            "description": "The name of the person mentioned as the author of the email"
+        }
+    },
+    "required": [
+        "committee",
+        "sender"
+    ]
+}

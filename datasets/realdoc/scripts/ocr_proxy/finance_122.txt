@@ -1,0 +1,51 @@
+D20 —_|Exempt income only for reporting purposes (If agricultural income is more than Rs.5,000/-, use |D20 Agricultural income
+ITR 3/5) from family land:
+(Drop down to be provided in e-filing utility mentioning nature of exempt income, relevant clause and section) Rs. 4,200 (exempt
+ws 10(1))
+& SL. IFS Code of the Bank ‘Name of the Bank Account Number ‘Select Account for Refund.
+g (Credit
+28) |_| spinooo1234 State Bank of India
+S2| [ii |oFcoo02567 HDFC Bank
+1. Minimum one account should be selected for refund credit.
+'2. In case of Refund, multiple accounts are selected for refund credit, then refund will be credited to one of the accounts decided by CPC after)
+rocessing the return
+
+Ss. Name of Business Business code Description
+No.
+i)
+El | Gross Turnover or Gross Receipts
+a | Through a/c payee cheque or a/c payee bank draft or bank electronic clearing system received or| Ela
+prescribed electronic modes received before specified date
+b | Any other mode Elb
+E2 | Presumptive Income under section 444D
+a | 6% of Ela or the amount claimed to have been earned, whichever is higher E2a
+b | 8% of Elb or the amount claimed to have been earned, whichever is higher E2b
+c | Total (a+b) E2c
+NOTE—If Income is less than the above percentage of Gross Receipts, it is mandatory to have a tax audit under
+44AB & other ITR as applicable has to be filed
+
+higher
+
+applicable has to be filed
+
+Ss. Name of Business Business code Description
+No.
+@)
+E3 | Gross Receipts E3
+E4 | Presumptive Income under section 44ADA (50% of E3) or the amount claimed to have been earned, whichever is E4
+
+NOTE—If Income is less than 50% of Gross Receipts, it is mandatory to have a tax audit under 44AB & other ITR as
+
+Ss. Name of Business Business code Description
+
+No.
+
+@)
+Registration Whether owned/ | Tonnage capacity of | Number of months for which | Presumptive income u/s 44AE for
+No. of goods | leased/ hired goods carriage goods carriage was owned/ | the goods carriage
+ara (in MT) ssediliredlby/smezsee (Computed @ Rs.1000 per ton per
+
+month in case tonnage exceeds
+12MT, or else @ Rs.7500 per
+month) or the amount claimed to
+have been actually earned,

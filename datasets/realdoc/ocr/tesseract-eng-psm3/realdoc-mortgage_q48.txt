@@ -1,0 +1,82 @@
+UNIFORM BORROWER ASSISTANCE FORM
+Section 1: Borrower and Property Inform: nm
+
+Borrower First Name Middle Initial Last Name Suffix SSN Date of Birth
+Thomas R Whitmore Jr 123-45-6793 01/18/1975
+Marital Status OD single Married DO separated DO Divorced 00 Widowed
+Home Phone Work Phone Cell Phone Email
+(716) 555-0621 (716) 555-0622 (716) 555-0623 t.whitmore.demo@email.com
+Current Street Address Unit # City State Zip
+2945 Lakeshore Boulevard Buffalo NY 14219
+How long at current address? Years 11 Months 5
+Section 2: Trust Information (if applicable)
+Trust Name Date Established Trustee Name Trust EIN
+Whitmore Family Revocable Trust 06/15/2013 Thomas R. Whitmore Jr 12-3456790
+Section 3: Property Information
+Is the property owned by a trust? Yes o No Property Street Address (if different from above)
+2945 Lakeshore Boulevard
+Unit # City State Zip
+Buffalo NY. 14219
+Is this your primary residence? Is this property a rental? Is this a second home?
+© Yes 0 No O ves © No OD Yes No
+Section 4: Loan Information
+Loan Number Loan Servicer Name Loan Servicer Phone Loan Servicer Account Number
+3300789456 Empire State Mortgage Corporation (877) 555-0888 ESM-667294
+Original Loan Amount Current Unpaid Principal Balance Current Interest Rate Current Monthly Payment
+315000 268940 4.5% 2340
+Does your monthly payment include taxes? Does your monthly payment include insurance? Does your monthly payment include HOA fees?
+Yes Ono Yes 0 No O yes @ No
+Monthly Property Tax Amount Monthly Hazard Insurance Amount Monthly HOA Fee Amount
+545 285 is)
+First Payment Date Loan Maturity Date Number of Months Delinquent Total Amount Past Due
+08/01/2013 07/01/2043 4 9360
+Monthly Household Income Monthly Household Expenses and Debt Household Assets (associated with the
+Payments property and/or borrower(s)excluding
+retirement funds
+Gross wages $ 5,500 First Mortgage Payment $2,340 Checking Account(s) $2,450
+Overtime $250 Second Mortgage Payment $ 0 Checking Accounts) $1,200
+Child Support / Alimony* $ 500 Homeowner's Insurance $ 285 Savings / Money Market $ 6,800
+Non-taxable social security/SSDI $_ 1,200 Property Taxes $ 545 CDs $3,000
+Taxable SS benefits or other monthly $ 350 Credit Cards / Installment Loan(s) (total $ 320 Stocks / Bonds $ 8,500
+income from annuities or retirement Iminimum payment per month)
+plans
+Tips, commissions, bonus and self- $ 300 Alimony, child support payments $ 500 Other Cash on Hand Ss 750
+lemployed income
+Rents Received $ 200 Car Lease Payments $ 350 Other Real Estate (estimated value) is 0
+Unemployment Income $0 HOA/Condo Fees/Property Maintenance _|$ 150 Other sO
+Food Stamps/Welfare $0 Mortgage Payments on other properties _|$ 0 is_ 0
+Other $_ 150 Other 15290 $ 200 s_ 0
+Total (Gross income) I$ 8,450 Total Household Expenses and Debt i$ 4,690 Total Assets i$ 22,700
+Payments
+Any other liens (mortgage liens, mechanics liens, tax liens, etc.)
+Lien Holder's Name Balance and Interest Rate Loan Number Lien Holder's Phone Number
+4.5 3300789456
+3300789456
+False False
+Required Income Documentation
+( Do you earn a salary or hourly wage? 1 Are you self-employed?
+For each borrower who is a salaried employee or For each borrower who receives self-employed income, include a complete, signed
+paid by the hour, include paystub(s) reflecting the individual federal income tax return and, as applicable, the business tax return; AND.
+most recent 30 days’ or four weeks’ earnings and either the most recent signed and dated quarterly or year-to-date profit/loss statement
+documentation reflecting year-to-date earnings, if that reflects activity for the most recent three months; OR copies of bank statements for
+not reported on the paystubs (e.g. signed letter or the business account for the last two months evidencing continuation of business
+printout from employer). activity.
+(1 Do you have any additional sources of income? Provide for each borrower as applicable:
+“Other Earned Income” such as bonuses, commissions, housing allowance, tips, or overtime:
+© Reliable third-party documentation describing the amount and nature of the income (e.g., paystub, employment contract or printouts
+documenting tip income).
+Social Security, disability or death benefits, pension, public assistance, or adoption assistance:
+© Documentation showing the amount and frequency of the benefits, such as letters, exhibits, disability policy or benefits statement from the
+provider, and
+1 Documentation showing the receipt of payment, such as copies of the two most recent bank statements showing deposit amounts.
+Rental income:
+1 Copy of the most recent filed federal tax return with all schedules, including Schedule E— Supplement Income and Loss. Rental income for
+qualifying purposes will be 75% of the gross rent you reported reduced by the monthly debt service on the property, if applicable; or
+1 If rental income is not reported on Schedule E — Supplemental Income and Loss, provide a copy of the current lease agreement with either
+bank statements or cancelled rent checks demonstrating receipt of rent.
+Investment income:
+0 Copies of the two most recent investment statements or bank statements supporting receipt of this income.
+*Notice: Alimony, child support, or separate mai income need not be revealed if you do not choose to have it aone it considered for repaying
+this loan.
+
+Fannie Mae/Freddie Mac Form 710. Page 2 of 4 June 2014

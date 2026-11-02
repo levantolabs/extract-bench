@@ -1,0 +1,44 @@
+Ww
+
+“
+
+Barnes, Garcia and Martin,
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US.
+
+GSTIN: 3312345678910221
+
+Buyer :Diane Myers
+582 Christopher Mews
+Reyesfort, SD 35089 US
+Tel:+(780)914-0369
+Email:udavis@example.com
+Site:http://grant-barnes.com/
+
+Description
+Represent rule agree front.
+Teal eat.
+
+Draw ty.
+
+‘QUANTITY
+2.00
+2.00
+5.00
+
+INVOICE
+
+INVOICE ID 3Y7M2d-885
+Date: 09-Feb-2015
+
+PRICE
+$76.68
+$68.82
+$54.88
+
+‘SUB_TOTAL : 595.40 $
+
+GST(7%) : 41.68
+
+TOTAL : 603.95 §

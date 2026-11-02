@@ -1,0 +1,195 @@
+( MSQ- MEDICAL SYMPTOM/TOXICITY QUESTIONNAIRE
+
+The Toxicity and Symptom Screening Questionnaire identifies symptoms that help to identify the underlying causes of illness, and
+helps you track your progress over time. Rate each of the following symptoms based upon your health profile. If you are taking this
+questionnaire for the first time, record your symptoms for the last 48 hours ONLY. If this is a follow-up questionnaire, record your
+
+symptoms for the past 30 days.
+
+POINT SCALE
+
+O= Never or almost never have the symptom
+2= Occasionally have it, effect is severe
+
+4= Frequently have it, effect is severe
+
+DIGESTIVE TRACT
+_3 Nausea or Vomiting
+
+At Diarrhea
+
+alla Constipation
+3 Bloated Feeling
+
+_& Belching or Passing Gas
+oe Heartburn
+
+3 Intestinal/Stomach Pain
+Total 19
+
+EARS
+
+aly Itchy Ears
+
+_| Earaches, Ear Infections
+
+_|_ Drainage from Ear
+
+2 Ringing in Ears, Hearing Loss
+Total_5
+
+EMOTIONS
+
+_l_ Mood Swings
+
+iy Anxiety, Fear or Nervousness
+
+& Anger, Irritability, or Aggressiveness
+| Depression
+
+Total 17)
+
+ENERGY/ ACTIVITY
+
+3 Fatigue, Sluggishness
+2 Apathy, Lethargy
+
+_& Hyperactivity
+
+_|_ Restlessness
+
+Total ba Si
+
+EYES
+
+& Watery or Itchy Eyes
+
+shg Swollen, Reddened or Sticky Eyelids
+| Bags or Dark Circles under Eyes
+
+_|_ Blurred or Tunnel Vision (Does not
+include near- or far-sightedness
+
+Total_5
+
+HEAD
+2 Headaches
+_L_Faintness
+
+|_Dizziness
+2 Insomnia
+
+Total 1)
+
+HEART
+_|_ Irregular or Skipped Heartbeat
+
+_|_ Rapid or Pounding Heartbeat
+2 Chest Pain
+
+Total 4.
+
+JOINTS/MUSCLES
+
+3 Pain or Aches in Joints
+
+2 Arthritis
+
+_& Stiffness or Limitation of Movement
+2 Pain or Aches in Muscles
+
+3 Feeling of Weakness or Tiredness
+
+Total_|2
+
+LUNGS
+
+_& Chest Congestion
+_& Asthma, Bronchitis
+_& Shortness of Breath
+aly Difficult Breathing
+Total_7_
+
+MIND
+
+cee Poor Memory
+
+& Confusion, Poor Comprehension
+& Poor Concentration
+
+| Poor Physical Coordination
+
+_& Difficulty in Making Decisions
+
+& Stuttering or Stammering
+
+ac: Slurred Speech
+
+| Learning Disabilities
+
+Total js.
+
+1= Occasionally have it, effect is not severe
+3= Frequently have it, effect is not severe
+
+MOUTH/THROAT
+
+2 _Chronic Coughing
+
+3 Gagging, Frequent Need to Clear Throat
+
+2_Sore Throat, Hoarseness, Loss of Voice
+| Swollen/ Discolored Tongue, Gum, Lips
+
+Total_8
+
+NOSE
+
+_| stuffy Nose
+
+2 Sinus Problems
+
+pia Hay Fever
+
+2 Sneezing Attacks
+
+‘2 Excessive Mucus Formation
+Total a
+
+SKIN
+
+_l Hives, Rashes or Dry Skin
+oe Hair Loss
+
+_l Flushing or Hot Flashes
+2 Excessive Sweating
+
+Total _7
+
+WEIGHT
+
+2 Binge Eating/ Drinking
+3 Craving Certain Foods
+3 Excessive Weight
+
+_& Compulsive Eating
+_2 Water Retention
+
+_l_ Underweight
+Total_|13
+
+OTHER
+
+2 Frequent Illness
+
+_& Frequent or Urgent Urination
+_|_ Genital Itch or Discharge
+Total_5_
+
+GRAND TOTAL [5 &
+
+KEY TO QUESTIONNAIRE
+Add individual scores and total each group. Add each group scores and give a grand total.
+eOptimal is less than 10 eMild Toxicity: 10-50 Moderate Toxicity: 50-100 eSevere Toxicity: over 100
+
+12

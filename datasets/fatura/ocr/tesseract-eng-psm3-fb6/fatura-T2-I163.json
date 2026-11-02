@@ -1,0 +1,1 @@
+{"id": "fatura-T2-I163", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 405.8, "per_image": [{"file": "Template2_Instance163.jpg", "page": "Template2_Instance163.jpg", "psm_used": 3, "chars": 512, "ms": 381.3}], "ts": "2026-10-23T07:22:57+0800"}

@@ -1,0 +1,39 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+
+Port Lindsey, MP 98258 US
+
+TAX INVOICE
+
+BILL_TO:
+
+Patricia Craig
+
+13003 Russell Trail
+
+Escobarfort, GA 08317 US
+Tel:+(719)039-3467
+Email:pruittedward@example.net
+
+Site:http:/iwww.mccoy.com/
+Description ] QUANTITY
+Since common. 5.00
+Green cup. 3.00
+
+Note:
+
+TOTAL : 441.91 EUR
+
+Due Date : 21-Apr-2002
+
+Invoice Date: 08-Apr-1999
+
+| PRICE
+$43.95
+$70.70
+
+SUB_TOTAL : 431.85 EUR
+DISCOUNT(2.68%): (-) 11.57
+
+This order is shipped through blue dart courier

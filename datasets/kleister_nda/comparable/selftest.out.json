@@ -1,0 +1,65 @@
+{
+ "expected_vs_itself": 100.0,
+ "empty_output": 0.0,
+ "gold_kleister_form_via_adapter": 100.0,
+ "gold_surface_form_via_adapter": 98.5,
+ "gold_but_single_party_any (Sage-like ceiling)": {
+  "n_docs": 83,
+  "ALL_UC": {
+   "F1": 86.97,
+   "P": 100.0,
+   "R": 76.95,
+   "tp": 257,
+   "n_expected": 334,
+   "n_output": 257
+  },
+  "ALL_truecase": {
+   "F1": 86.97,
+   "P": 100.0,
+   "R": 76.95,
+   "tp": 257,
+   "n_expected": 334,
+   "n_output": 257
+  },
+  "effective_date": {
+   "F1": 100.0,
+   "P": 100.0,
+   "R": 100.0,
+   "tp": 62,
+   "n_expected": 62,
+   "n_output": 62
+  },
+  "jurisdiction": {
+   "F1": 100.0,
+   "P": 100.0,
+   "R": 100.0,
+   "tp": 78,
+   "n_expected": 78,
+   "n_output": 78
+  },
+  "party": {
+   "F1": 68.31,
+   "P": 100.0,
+   "R": 51.88,
+   "tp": 83,
+   "n_expected": 160,
+   "n_output": 83
+  },
+  "term": {
+   "F1": 100.0,
+   "P": 100.0,
+   "R": 100.0,
+   "tp": 34,
+   "n_expected": 34,
+   "n_output": 34
+  }
+ },
+ "gold_with_term_in_months (Clairic unit=months ceiling)": {
+  "F1": 14.71,
+  "P": 14.71,
+  "R": 14.71,
+  "tp": 5,
+  "n_expected": 34,
+  "n_output": 34
+ }
+}

@@ -1,0 +1,13 @@
+import duckdb, json, sys, urllib.request
+out=sys.argv[1]
+api="https://huggingface.co/api/datasets/tasksource/tasksource-jev-typed-decisions/parquet/extraction"
+d=json.load(urllib.request.urlopen(api,timeout=60))
+print({k:len(v) for k,v in d.items()}, flush=True)
+con=duckdb.connect(); con.execute("INSTALL httpfs; LOAD httpfs;")
+res={}
+for split,urls in d.items():
+    lst=",".join(f"'{u}'" for u in urls)
+    rows=con.execute(f"select source, id, metadata, substr(state,1,300) from read_parquet([{lst}]) where source in ('tatqa/text-span','squad-v2')").fetchall()
+    res[split]=[{"source":r[0],"id":r[1],"metadata":r[2],"state_head":r[3]} for r in rows]
+    print(split,len(rows),flush=True)
+json.dump(res,open(out,'w'))

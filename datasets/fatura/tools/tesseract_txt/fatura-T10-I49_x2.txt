@@ -1,0 +1,36 @@
+Address:4894 Melanie Pass Apt. 742
+Tammyland, SD 42587 US
+
+Invoice Date: 06-Oct-2000
+
+INVOICE # INV/09-99/237
+Mclean-Cochran
+
+Due Date : 27-May-2019
+
+Buyer :Chelsea Mata
+
+8355 James Hill Apt. 290
+Ryanberg, MI 47804 US
+Tel:+(010)034-8092
+Email:steelejacob@example.org
+Site:https://www.scott.org/
+
+ITEMS QUANTITY PRICE TAX AMOUNT
+Our eye. 5.00 $68.85 $0.00 $344.25
+Program individual remember professional. 6.00 $8.58 $0.00 $51.48
+
+DISCOUNT(2.61%): (-) 10.33
+
+TOTAL : 398.77 $
+
+Terms & Conditions
+
+1. Please send payment within 8 days of receiving this invoice.
+There will be a 2.5% interest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes.
+
+Note: All payments to be made in cash.
+Contact us for queries on these quotations.
+
+Email:cjames@example.com

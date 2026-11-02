@@ -1,0 +1,31 @@
+Invoice Date: 13-Nov-2002
+
+Address:5190 Perry Passage
+Kellyburgh, RI 60615 US
+
+Email:marymoore@example.org
+
+ITEMS QUANTITY
+Worry bank close page. 2.00
+Whom later. 5.00
+
+Thank you for your business!
+
+Invoice number 2683-891
+
+Buyer :Natalie Crawford
+
+53052 Castillo Points
+
+Jamesfurt, UT 38616 US
+Tel:+(826)828-5520
+Email:erica09@example.com
+Site:https://www.martin-warner.biz/
+
+PRICE TAX AMOUNT
+$8.23 $0.00 $16.46
+$58.53 $0.00 $292.65
+
+SUB_TOTAL : 309.11 EUR
+
+TOTAL : 318.89 EUR

@@ -1,0 +1,53 @@
+ICS 208 - Site Safety Plan
+
+Version Name: Version 1 - See Incident Documents
+
+Incident Name: MP180 Gallup Sub Derailment
+
+Period: Initial Response [04/26/2024 13:44 - 04/28/2024 07:00]
+
+Applies to Site: Lupton AZ MP180 Gallup Sub
+
+Site Characterization
+Water N/A Land Weather
+Wave Height Land Use Air Temp
+Speed Wind Speed
+Direction Direction
+Site Hazards
+Yes No Hazards Yes No Hazards Yes No Hazards
+—) | fx] [Boat Safety x) |. Fire, Explosion, in-situ x) |) |Pump Hose
+Burning
+‘x! | () |Chemical Hazards {) | x) Heat Stress ix! | L) |Stips, Trips, and Falls
+ix} | CJ |Cold Stress ( | [x] Helicopter Operations () | [x] |Steam and Hot Water
+_] | [x] |Confined Spaces x) | |.) (Lifting ix} | C) | Trenching/Excavation
+{x} |Drum Handling |x! Motor Vehicles L) {x} |UV Radiation
+x | (| |Equipment Operations ix] | [) |Noise C) | {x} | Visibility
+[x] |Electrical Operations [] | x) [Overhead/Buried Utilities | [x) [| |Weather
+x! | || Fatigue [| |) |PlantsMWildlife C) {x} |Work Near Water
+Air Monitoring Limits
+Oxygen Level Hydrogen Sulfide Total VOCs
+LEL Benzene
+Engineering Controls
+__| |Source of release secured |_ LL) Valve(s) closed | L) Energy sources locked/tagged out
+_} |Site secured () Facility shut down
+Personal Protective Equipment Required
+|| |Impervious suit |x| Flame resistant clothing _{x|_ Eye protection
+_| |Inner gloves | ix] [Hard hats () |Personal flotation
+_) |Outer gloves Ix) Respirators x) ‘Boots
+Additional Control Measures Established
+"| |Decontamination [x] Illumination () Aid stations established
+x) |Sanitation ] |Medical surveillance X) Facilities provided
+Work Plan
+| |Booming Ix) Excavation [) Hot work
+C) |Skimming ia ‘Heavy equipment 0 ‘Appropriate permits used
+Vac trucks [) Sorbent pads
+Pumping [-] Patching
+Training
+_| |Verified site workers trained per local/federal | Training
+regulatory requirements Requirements
+Organization
+Position Name Telephone/Radio | Position Name Telephone/Radio
+Incident Commander —_ Reid, Clay — Operations Section Famer, James R —
+(s)/Unified Command Chief
+ICS 208 - Site Safety Plan Updated 04/28/2024 10:44 MOT UTC-6
+INCIDENT ACTION PLAN SOFTWARE ™ | Printed 04/29/2024 08-4 MDT UTC-6 moths | ©TRG

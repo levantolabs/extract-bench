@@ -1,0 +1,290 @@
+{
+ "omniai-0019": {
+  "items__description": {
+   "flag": "ambiguous",
+   "note": "Text lines 'D3.1 TENDERLOIN','D31 TENDERLOIN'; gold strips D31 prefix. haiku/gemini keep it. Prefix may be code.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0039": {
+  "cashier_info__cashier_number": {
+   "flag": "ambiguous",
+   "note": "Text 'Cashier: Felicia\\n\\nC1011 #5174 11:51...'; C1011 vs #5174 both plausible cashier no.; clairic gave both.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0053": {
+  "report_details__corporation_address": {
+   "flag": "ambiguous",
+   "note": "scorer: text 'One Park Avenue\\n\\nNew York, NY 10016-5895'; haiku 'One Park Avenue New York, NY 10016-5895' fails on missing comma.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0056": {
+  "items__description": {
+   "flag": "gold_wrong",
+   "note": "Gold has 'CHIEF'S CHOICE INDINIA W PKG' x2; text and gemini vision say INDUNA. Gold also glues unit col (PKG/KG).",
+   "source": "hand_audit"
+  },
+  "items__discount": {
+   "flag": "ambiguous",
+   "note": "Text 'BUY 2 FOR R29.00 ... -6.98'; gold [6.98] single, arms -6.98 or per-item list w/ 0s. Sign/list-shape convention.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0103": {
+  "mostRecentShipment__additionalCharges__description": {
+   "flag": "gold_unreachable",
+   "note": "Text says 'OUT-OF-HOURS DELIVERY FFE' (OCR typo); gold FEE. haiku 0.75 otherwise right; sage order shuffled.",
+   "source": "hand_audit"
+  },
+  "mostRecentShipment__additionalCharges__totalVAT": {
+   "flag": "gold_unreachable",
+   "note": "4th VAT 2.58 not in text (haiku 2.3 from OCR); first 3 match. Gold matches gemini vision.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0107": {
+  "mostRecentShipment__referenceNumber": {
+   "flag": "gold_unreachable",
+   "note": "Text '9FBBUZJJH9' (7->Z); gold 9FBBU7JJH9 read only by vision.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0134": {
+  "items__description": {
+   "flag": "ambiguous",
+   "note": "Size in separate cell ('1KG','15GR','T's'); gold joins it. Arms gave name cell. 3rd size OCR'd T's vs gold 1'S.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0149": {
+  "signatures__printName": {
+   "flag": "gold_unreachable",
+   "note": "Text 'ERVIN CRE MIN-BORER','RAYMOND MOTO'; gold Ervin Cremin-Borer, Raymond Metz. Arms copied OCR (0.75).",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0150": {
+  "income__line6__a": {
+   "flag": "ambiguous",
+   "note": "1040 line 6a blank (2626 is on 6b); gold 0, arms null. Blank-line convention 0 vs null.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0170": {
+  "items__reference": {
+   "flag": "gold_unreachable",
+   "note": "Text has '8E518SOHF8' (I->1); gold 8E5I8SOHF8 only read by gemini vision. Other ref correct.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0176": {
+  "items__reference": {
+   "flag": "gold_unreachable",
+   "note": "Text 'VoAJ59DSKL','FQVAOVMHSX' (0->o/O); 2 of 4 golds not in text.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0182": {
+  "signatures__printName": {
+   "flag": "gold_unreachable",
+   "note": "Handwritten names OCR'd 'Kevan','Ametta Cruickshank. Bogisich','kyleigh krajci','Steht'; haiku copies OCR.",
+   "source": "hand_audit"
+  },
+  "signatures__town": {
+   "flag": "gold_unreachable",
+   "note": "Handwritten towns OCR'd 'LAKE BREANN','SCHUPP ESIDE','Raporcester'; haiku 0.79 copies OCR.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0233": {
+  "transactions__description": {
+   "flag": "gold_unreachable",
+   "note": "haiku 0.98: only miss 'VENMO*IDOE' vs gold 'VENMO*JDOE' (OCR J->I). Sage returned [].",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0268": {
+  "transactions__description": {
+   "flag": "ambiguous",
+   "note": "haiku 0.99: same items as gold, gemini vision order = haiku order; gold count 52 vs 53, order differs. scorer/order.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0332": {},
+ "omniai-0345": {
+  "transactions__withdrawal": {
+   "flag": "ambiguous",
+   "note": "Gold lists only 27 nonzero withdrawals; haiku gives one value per transaction (0 for deposits) per instructions. Gold drops null entries.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0407": {},
+ "omniai-0410": {},
+ "omniai-0426": {
+  "reviewers__date": {
+   "flag": "gold_unreachable",
+   "note": "Last reviewer date: image (viewed) 5/6/05, text 'Sangles 5/4/05.V'. Gold right; 7th date not in text.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0457": {
+  "income__line13": {
+   "flag": "ambiguous",
+   "note": "Form 1040 line 13 blank in text/doc; gold 0, arms null. Blank-line convention 0 vs null.",
+   "source": "hand_audit"
+  },
+  "income__line1__g": {
+   "flag": "ambiguous",
+   "note": "Form 1040 line 1g blank; gold 0, all arms null. Blank-line convention 0 vs null.",
+   "source": "hand_audit"
+  },
+  "income__line8": {
+   "flag": "ambiguous",
+   "note": "Form 1040 line 8 blank; gold 0, arms null (clairic 29200 wrong). Blank-line convention 0 vs null.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0465": {
+  "event__location": {
+   "flag": "ambiguous",
+   "note": "scorer: text 'SHERATON-CARLTON / HOTEL / WASHINGTON, D .C.'; haiku gave full location, fails on case/spacing only.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0488": {
+  "signatures__printName": {
+   "flag": "gold_unreachable",
+   "note": "Text 'Adrianna Ledrez','Fausto Hands' (handwriting OCR); gold Ledner, Huels. Arms 0.8 copy OCR.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0495": {
+  "mostRecentShipment__recipient__zipCode": {
+   "flag": "ambiguous",
+   "note": "scorer: text '03314- 2755' (OCR space); all text arms gave it, gold 03314-2755. Trivial surface variant.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0510": {
+  "header__from__reference": {
+   "flag": "gold_unreachable",
+   "note": "Text 'DN-DOYLOZYE' (0->O); gold DN-D0YLOZYE only by vision.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0529": {},
+ "omniai-0609": {
+  "header__to__reference": {
+   "flag": "gold_unreachable",
+   "note": "Text 'PO-VYOHKL70' (O->0); gold PO-VYOHKL7O read only by vision.",
+   "source": "hand_audit"
+  },
+  "items__reference": {
+   "flag": "gold_unreachable",
+   "note": "Text 'RJXMIVHOHP','BYT7O15KYG' (0->O, I->1); gold only by vision.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0642": {
+  "items__reference": {
+   "flag": "gold_unreachable",
+   "note": "Text 'JDGDLOU1ST' (0->O); gemini vision also O.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0670": {
+  "signatures__town": {
+   "flag": "gold_unreachable",
+   "note": "Text 'Christianabono','MAR QUE SHAVEN' (OCR of handwriting); gold Christianaboro, Marqueshaven.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0698": {
+  "header__to__reference": {
+   "flag": "gold_unreachable",
+   "note": "Text 'PO-FOSDGWNN' (0->O); gold PO-F0SDGWNN read only by vision.",
+   "source": "hand_audit"
+  },
+  "items__reference": {
+   "flag": "gold_unreachable",
+   "note": "Text 'H9HDBZZHOI' (0->O); other 2 refs present and given by haiku.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0771": {
+  "signatures__date": {
+   "flag": "gold_unreachable",
+   "note": "First date OCR'd '20 15-02 - 18'/'2015-02-10'; gold 2025-02-18 (vision). Other 13 dates right in haiku/clairic.",
+   "source": "hand_audit"
+  },
+  "signatures__printName": {
+   "flag": "gold_unreachable",
+   "note": "Handwritten names OCR'd 'Noomi Heathcote- Rachel','Kariare','Aben'; haiku 0.79 copies OCR. Gold matches vision.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0772": {},
+ "omniai-0807": {
+  "mostRecentShipment__additionalCharges__totalVAT": {
+   "flag": "gold_unreachable",
+   "note": "Text VAT '155' for 1.55 (decimal lost); haiku 0.8 copies it. Others in text; sage took wrong column.",
+   "source": "hand_audit"
+  },
+  "mostRecentShipment__shipmentNumber": {
+   "flag": "gold_unreachable",
+   "note": "Last shipment no. in text '4511971189'; image (viewed) shows 4511971389. OCR 3->1; gemini also misread.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0852": {
+  "items__reference": {
+   "flag": "gold_unreachable",
+   "note": "Text '1WUJ3HYKRO' (0->O), 'QEI UI Y 9MF'; gold 1WUJ3HYKR0. haiku 0.75.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0875": {
+  "witness__residence": {
+   "flag": "gold_wrong",
+   "note": "UNSURE: image (viewed) handwritten '15491 W Front Street, 0R97/0297' (4 chars); gold '01297' has extra digit. Text 'OR97'.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0900": {
+  "mostRecentShipment__recipient__zipCode": {
+   "flag": "ambiguous",
+   "note": "scorer: text '74036- 8797' (OCR space); arms copied it, gold 74036-8797.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0916": {
+  "lessor__name": {
+   "flag": "gold_unreachable",
+   "note": "Text 'Nick Duckert'; gold 'Nick Wuckert I' (gemini vision agrees).",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0929": {
+  "transactions__description": {
+   "flag": "ambiguous",
+   "note": "scorer: haiku 0.98; only diff curly vs straight apostrophe in 'Domino’s'.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0967": {
+  "portfolioSummary__changes__currentPeriod": {
+   "flag": "gold_unreachable",
+   "note": "Image (viewed) Advisory Fees '-$38,857.76'; text '$38.857.76' (minus lost). haiku 0.83 otherwise right.",
+   "source": "hand_audit"
+  }
+ },
+ "omniai-0974": {
+  "personalInfo__middleInitial": {
+   "flag": "gold_unreachable",
+   "note": "Text has 'Č' for middle initial; gold C (vision reads C).",
+   "source": "hand_audit"
+  }
+ }
+}

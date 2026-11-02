@@ -1,0 +1,5 @@
+Jumlah Item
+Sub Total
+
+Pajak Resto
+Grand Total

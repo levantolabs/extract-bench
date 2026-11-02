@@ -1,0 +1,35 @@
+TAX INVOICE
+
+INVOICE ID INV/44-29/041
+Date: 18-May-2001
+
+VW
+
+4
+
+Barnes, Garcia and Martin
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 3312345678910221
+
+Bill to:Yesenia Brown
+
+18748 Doyle Glens
+
+Kimfurt, TN 90373 US
+Tel:+(569)316-9288
+Email:taramitchell@example.com
+Site:https://www.elliott-wilson.com/
+
+Description QUANTITY | PRICE
+| List up. 5.00 | $88.21
+| Necessary onto indeed. 6.00 | $4.53
+| Central. 2.00 | $87.67
+
+SUB_TOTAL : 583.57 $
+
+GST(7%) : 40.85
+
+TOTAL : 591.52 $

@@ -1,0 +1,26 @@
+name: tests
+on:
+  push:
+    branches: [main]
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install
+        run: pip install -e ".[dev]"
+      - name: Secret scan
+        run: python scripts/check_secrets.py
+      - name: Tests (offline)
+        run: pytest -q
+      - name: Re-score every submission and check the committed board
+        run: |
+          for d in results/v0.1/*/; do extract-bench validate "$d"; done
+          extract-bench report
+          git diff --exit-code -- results/ || (echo "results/v0.1/board.* is stale: run 'extract-bench report' and commit"; exit 1)

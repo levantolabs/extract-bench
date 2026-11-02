@@ -1,0 +1,26 @@
+Huff-Bryan
+
+Address:2180 Michael Ridges Apt. 385
+Port Lindsey, MP 98258 US
+
+INVOICE TOTAL : 532.10 $
+BILL_TO:
+Tricia Boyd
+82020 Rebecca Islands Due Date : 04-Jan-2010
+
+South Clintonburgh, AL 87786 US
+
+Tel:+(048)511-7091 ; ‘
+Email:cindy47@example.com Invoice Date: 14-Jul-2002
+Site:http://rodriguez.com/
+
+| Description | QUANTITY | PRICE
+| Process number material. | 2.00 | $31.15
+[Rock bestlate. | 4.00 | $39.78
+| Fly fear personal. | 4.00 | $70.54
+| Produce modern produce. | 4.00 | $31.46
+
+SUB_TOTAL : 510.08 $
+DISCOUNT(1.22%): (-) 6.22
+
+Note:Total payment due in 14 days.

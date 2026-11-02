@@ -1,0 +1,35 @@
+{
+ "n_items": 240,
+ "per_format": {
+  "SHIPPING_INVOICE": 52,
+  "DELIVERY_NOTE": 51,
+  "PHOTO_RECEIPT": 10,
+  "DRIVER_LICENSE": 4,
+  "FORM": 7,
+  "SCANNED_FORM": 6,
+  "BANK_CHECK": 16,
+  "ACCOUNT_STATEMENT": 16,
+  "CREDIT_CARD_STATEMENT": 16,
+  "FORM_1040": 16,
+  "PATIENT_INTAKE": 16,
+  "COMMERCIAL_LEASE_AGREEMENT": 15,
+  "PETITION_FORM": 15
+ },
+ "sample_rule_counts": {
+  "full_format_all": 130,
+  "even_share_forced_photo_or_rotated": 21,
+  "even_share_random_seed20": 89
+ },
+ "images_reencoded": 1,
+ "tokens_o200k_text": {
+  "p50": 1093,
+  "p95": 3702,
+  "max": 6232,
+  "mean": 1497
+ },
+ "text_span_presence": {
+  "text_fields": 2091,
+  "in_primary_ocr": 1994,
+  "in_gold_markdown": 2044
+ }
+}

@@ -1,0 +1,15 @@
+{
+ "system": "clairic",
+ "benchmark_version": "v0.1",
+ "display_name": "Clairic",
+ "org": "Cloudflare",
+ "model": "@cf/cloudflare/clairic (Workers AI)",
+ "arm": "clairic_text",
+ "input": "text",
+ "run_date": "2026-10-23",
+ "open_weights": false,
+ "maintainer_product": false,
+ "notes": "Default null_threshold; one 45k-token window.",
+ "tier": "maintainer-run",
+ "n_items": 1844
+}

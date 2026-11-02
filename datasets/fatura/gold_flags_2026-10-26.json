@@ -1,0 +1,316 @@
+{
+ "fatura-T10-I6": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'INVI55-24/340' (/->I); gemini vision = INV/55-24/340.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T12-I103": {
+  "invoice_date": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'Date: 16-Dec-2014'; image shows 15-Dec-2014 (viewed).",
+   "source": "hand_audit"
+  },
+  "subtotal": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'SUB_TOTAL : 922.17' (5->9); image shows 522.17 (viewed T12-I103).",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T12-I110": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR '8Y2Msd-329' (5->s); gemini vision = 8Y2M5d-329.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T12-I142": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "Buyer name Melvin Vargas absent from OCR (only seller Richardson-Davis); vision arms read it.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T12-I30": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'INV85202717' (9->0); gemini vision = INV85292717.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T12-I88": {
+  "tax": {
+   "flag": "gold_unreachable",
+   "note": "Tax line OCR-garbled 'TARNAT OOM A048 8:'; 49.46 not in text. Vision arms read 49.46.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T2-I165": {
+  "tax": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'GST(7%) : 37.41'; gold 37.11 = 7% of 530.14; vision arms read 37.11.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T2-I76": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'SY6M30-136'; gemini vision = 5Y6M3d-136.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T25-I107": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'Invoice number 753-373' dropped leading 5; vision arms = 5753-373.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T25-I179": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "Buyer 'Melissa Rogers' absent from OCR text (block dropped); all vision arms read it.",
+   "source": "hand_audit"
+  },
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR reads 'INVO7858731' (9->O); vision arms read INV97858731 matching gold.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T25-I3": {},
+ "fatura-T25-I32": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "Buyer John Thomas absent from OCR; vision arms read it.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T25-I40": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR '3Y8M50-616' (d->0); vision = 3Y8M5d-616.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T25-I6": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'sYeMad-213'; vision = 9Y8M8d-213.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T25-I70": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'INVI25-15/770' (/->I); vision = INV/25-15/770.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T25-I99": {},
+ "fatura-T32-I103": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR '6923-595' (8->6); vision arms = 8923-595.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T32-I132": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'NS ayer kathryn Moiiton' garbled; vision arms = Kathryn Newton.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T32-I20": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "Buyer Ryan Fox absent from OCR ('NS ayer nen Fa' garbage); vision arms read it.",
+   "source": "hand_audit"
+  },
+  "seller_name": {
+   "flag": "gold_unreachable",
+   "note": "Seller 'Miller Inc' absent from OCR; clairic guessed courier. Vision arms read Miller Inc.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T32-I21": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR '2683-691' (8->6); vision arms = 2683-891.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T32-I24": {
+  "seller_name": {
+   "flag": "gold_unreachable",
+   "note": "Seller name 'Miller Inc' absent from OCR (logo/header not read); vision arms read it.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T32-I48": {
+  "seller_name": {
+   "flag": "gold_unreachable",
+   "note": "Seller 'Miller Inc' absent from OCR; vision arms read it.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T32-I51": {
+  "seller_name": {
+   "flag": "gold_unreachable",
+   "note": "Seller 'Miller Inc' absent from OCR; vision arms read it.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T32-I52": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'INV/S6-76/337' (5->S); gemini vision = INV/56-76/337.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T39-I56": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR '9YSM7d-429' (5->S); gemini vision = 9Y5M7d-429.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T4-I111": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "OCR has 'Patti' / 'Craig' fragments, not Patricia Craig; vision arms read Patricia Craig.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T4-I13": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "OCR has only 'Lopez' for bill-to; 'William' dropped. Vision arms read William Lopez.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T4-I20": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "Buyer Wayne Montgomery absent from OCR; vision arms read it.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T49-I13": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "Invoice no. OCR-garbled 'alveS 88/105'; INV/95-88/105 not in text. Gemini vision reads it.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T49-I142": {
+  "invoice_date": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'Invoice Date: 18-Sep-1999'; vision arms both read 1993-09-18 (gold).",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T49-I146": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'INVOO798533' (0->O); gemini vision = INV00798533.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T49-I185": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'Erie Harrison DDS' (gold Eric); arms picked right party, garbled spelling. Alt gold 'Adam Sandoval' is in text (2nd BILL_TO).",
+   "source": "hand_audit"
+  },
+  "invoice_date": {
+   "flag": "gold_unreachable",
+   "note": "Invoice date absent from OCR text; vision arms read 2006-11-09.",
+   "source": "hand_audit"
+  },
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'nvr67s082' garbled; vision = INV16740462.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T49-I195": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "Invoice no. absent from OCR (only '62 06'); gemini vision = 6Y6M7d-639.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T49-I85": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "Invoice no. 8230-314 absent from OCR (header garbled); vision arms read it.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T50-I146": {
+  "discount": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'DISCOUNT SO%: 9 1744' garbled; 17.41 not in text. Vision arms read 17.41.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T50-I172": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "OCR reads 'Jil Valenzuela'; image/vision = Jill Valenzuela.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T50-I6": {
+  "buyer_name": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'Joffrey Strickland'; vision arms = Jeffrey Strickland.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T50-I83": {
+  "subtotal": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'SUBTOTAL T20037 EUR' garbled; 1230.97 not in text. Vision arms read 1230.97.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T7-I109": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR '7Y7M34-614' (d->4); gemini vision = 7Y7M3d-614.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T7-I115": {
+  "due_date": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'Due Date : 14-Apr-2005'; vision arms read 2009-04-14.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T7-I174": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR reads '2¥8M6d-815' (Y->¥); gold 2Y8M6d-815 confirmed by gemini vision.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T7-I26": {
+  "total": {
+   "flag": "gold_unreachable",
+   "note": "OCR 'TOTAL : $73.69 USD' (5->$), no total-in-words line in OCR; vision = 573.69.",
+   "source": "hand_audit"
+  }
+ },
+ "fatura-T7-I85": {
+  "invoice_number": {
+   "flag": "gold_unreachable",
+   "note": "OCR '4¥4M5d-247' (Y->¥); gemini vision = 4Y4M5d-247.",
+   "source": "hand_audit"
+  }
+ }
+}

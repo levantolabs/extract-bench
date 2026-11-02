@@ -1,0 +1,1 @@
+{"id": "realdoc-medical_healthcare_q44", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 1307.1, "per_image": [{"file": "medical_healthcare_21.pdf", "page": "p-1.png", "psm_used": 3, "chars": 219, "ms": 554.5}], "ts": "2026-10-23T07:24:52+0800"}

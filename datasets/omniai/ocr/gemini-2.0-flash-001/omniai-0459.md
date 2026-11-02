@@ -1,0 +1,77 @@
+```markdown
+# Medical Records Form
+
+Daniel
+First Name
+Smith
+Last Name
+
+Single ☐ Married ☐ Divorced ☐ Separated ☐ Widowed ☑
+Marital Status
+
+2608 Spring Dr
+Address
+
+Waimanalo
+City
+HI
+State
+96795
+Zip
+
++1-346-974-3594
+Phone
+January 12, 1950
+DOB
+
+Spouse Name
+Spouse Phone
+
+Is the requested medication NEW ☑ or a CONTINUATION ☐ of THERAPY? If so, start date:
+
+Have you been hospitalized in the past year? Yes ☑ No ☐
+
+Social History
+
+Do you smoke? Yes ☑ No ☐
+If yes, how many times per week: 1 2 3 4 5 6 7 8 9 10+
+
+Do you drink? Yes ☑ No ☐
+If yes, how many times per week: 1 2 3 4 5 6 7 8 9 10+
+
+Do you exercise? Yes ☑ No ☐
+If yes, how many times per week: 1 2 3 4 5 6 7 8 9 10+
+
+Do you have a social support system? Yes ☐ No ☑
+
+Review of Symptoms
+
+Allergies ☐
+Blurred Vision ☐
+Chest Pain ☑
+Coughing ☐
+Dental Problems ☐
+Double Vision ☐
+Excessive Bruising ☐
+Excessive Thirst ☑
+Fatigue ☐
+Headaches ☐
+Irregular Heart Rate ☐
+Muscle Pain ☑
+Shortness Of Breath ☐
+Tuberculosis Exposure ☐
+Black Outs ☑
+Calf Pain ☑
+Chills ☑
+Coughing Up Blood ☑
+Difficulty Emptying Bowel Or Bladder ☐
+Enlarged Glands ☐
+Excessive Stress ☐
+Eye Pain ☑
+Fever ☐
+Hearing Loss ☑
+Joint Swelling ☐
+Seizures ☑
+Stomach Trouble Or Ulcers ☑
+Weight Gain Or Loss Greater Than10 Lbs ☐
+```

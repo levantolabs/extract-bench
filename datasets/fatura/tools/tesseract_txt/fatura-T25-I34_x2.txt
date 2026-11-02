@@ -1,0 +1,32 @@
+Buyer :Jamie Peters
+
+64943 Shane Burgs Suite 517
+Kelly-Moss Pollardhaven, CA 57024 US
+Address:6030 Willie Shores Suite 354 Tel:+(071)256-7598
+Guerraton, TX 60058 US Email:brandonerickson@example.com
+
+Email:meghan88@example.net Site:http://barber-graves.com/
+
+Invoice number INV94667092 Due Date : 17-Aug-2000
+Invoice Date: 11-Feb-2020
+
+en Price C) An D
+Rule glass. $69.29 2.00 $138.58
+White remain daughter. $8.69 2.00 $17.38
+According table appear. $66.60 4.00 $266.40
+Course commercial. $33.14 6.00 $198.84
+Detail poor. $56.52 2.00 $113.04
+
+SUB_TOTAL : 734.24 USD
+
+GST(5%) : 36.71
+
+GST(12%) : 88.14
+
+GST(18%) : 132.16
+
+GST(20%) : 146.85
+
+GST(1%) : 7.34
+
+TOTAL : 735.27 USD

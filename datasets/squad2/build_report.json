@@ -1,0 +1,209 @@
+{
+ "dataset": "squad2",
+ "seed": 20,
+ "dev_json": {
+  "sha256": "80a5225e94905956a6446d296ca1093975c4d3b3260f1d6c8f68bc2ab77182d8",
+  "git_blob_sha1": "c6fa1a89a12c90b7fbfa8f6fb437cfff27af41ca"
+ },
+ "dev": {
+  "version": "v2.0",
+  "articles": 35,
+  "contexts": 1204,
+  "questions": 11873,
+  "answerable": 5928,
+  "unanswerable": 5945
+ },
+ "hf_crosscheck": {
+  "checked": true,
+  "hf_rows": 11873,
+  "official_questions": 11873,
+  "ids_equal": true,
+  "row_mismatches": 0
+ },
+ "tasksource": {
+  "commit": "8b1afcc6ad12554b347134a91b5f0dc6ae2361db",
+  "squad_v2_rows_by_split": {
+   "validation": 500,
+   "test": 500,
+   "train(survey heads)": 10000
+  },
+  "squad_v2_qids_in_metadata": 54907,
+  "qids_that_are_dev": 4789,
+  "survey_vs_parquet_eval_qids": {
+   "survey_eval_qids": 4789,
+   "parquet_eval_qids": 4789,
+   "identical": true
+  },
+  "xsource_probe_applied": true,
+  "xsource_summary": {
+   "tasksource_commit": "8b1afcc6ad12554b347134a91b5f0dc6ae2361db",
+   "rows_scanned": {
+    "validation": 44205,
+    "test": 45112
+   },
+   "dev_contexts": 1204,
+   "n_probes": 3611,
+   "n_hit_contexts": 871,
+   "contexts_by_split_source": {
+    "test:adversarial-qa": 162,
+    "test:concurrentqa": 1,
+    "test:qasrl/orig": 1,
+    "test:squad-v2": 487,
+    "validation:adversarial-qa": 160,
+    "validation:musique": 77,
+    "validation:squad-v2": 497
+   },
+   "n_hit_contexts_not_in_squad_v2_rows": 79
+  },
+  "advqa_original_overlap": {
+   "train": {
+    "rows": 30000,
+    "contexts": 2648,
+    "exact_dev_contexts": 0,
+    "head_dev_contexts": 0,
+    "shared_titles": []
+   },
+   "validation": {
+    "rows": 3000,
+    "contexts": 416,
+    "exact_dev_contexts": 160,
+    "head_dev_contexts": 164,
+    "shared_titles": [
+     "Amazon_rainforest",
+     "Economic_inequality",
+     "Force",
+     "Fresno,_California",
+     "Immune_system",
+     "Intergovernmental_Panel_on_Climate_Change",
+     "Jacksonville,_Florida",
+     "Oxygen",
+     "Sky_(United_Kingdom)",
+     "Steam_engine",
+     "University_of_Chicago",
+     "Warsaw"
+    ]
+   },
+   "test": {
+    "rows": 3000,
+    "contexts": 409,
+    "exact_dev_contexts": 285,
+    "head_dev_contexts": 287,
+    "shared_titles": [
+     "1973_oil_crisis",
+     "Black_Death",
+     "Civil_disobedience",
+     "Computational_complexity_theory",
+     "Construction",
+     "Ctenophora",
+     "European_Union_law",
+     "French_and_Indian_War",
+     "Geology",
+     "Harvard_University",
+     "Huguenot",
+     "Imperialism",
+     "Islamism",
+     "Normans",
+     "Packet_switching",
+     "Pharmacy",
+     "Prime_number",
+     "Private_school",
+     "Rhine",
+     "Scottish_Parliament",
+     "Southern_California",
+     "Victoria_(Australia)",
+     "Yuan_dynasty"
+    ]
+   }
+  }
+ },
+ "exclusion": {
+  "contexts_excluded": 871,
+  "by_reason": {
+   "qid_in_tasksource_squad_v2": 791,
+   "context_text_in_tasksource_squad_v2": 791,
+   "probe_in_tasksource_eval_other_source": 233,
+   "probe_in_tasksource_eval_squad_v2": 792
+  },
+  "questions_in_excluded_contexts": 8676,
+  "eligible_contexts": 333,
+  "eligible_articles": 35,
+  "eligible_answerable_q": 1586,
+  "eligible_unanswerable_q": 1611
+ },
+ "sample": {
+  "n": 120,
+  "answerable": 60,
+  "unanswerable": 60,
+  "articles": 35,
+  "per_article": {
+   "1973_oil_crisis": 3,
+   "Amazon_rainforest": 1,
+   "Black_Death": 2,
+   "Civil_disobedience": 3,
+   "Computational_complexity_theory": 3,
+   "Construction": 3,
+   "Ctenophora": 3,
+   "Economic_inequality": 4,
+   "European_Union_law": 4,
+   "Force": 3,
+   "French_and_Indian_War": 3,
+   "Fresno,_California": 4,
+   "Geology": 4,
+   "Harvard_University": 3,
+   "Huguenot": 4,
+   "Immune_system": 3,
+   "Imperialism": 3,
+   "Intergovernmental_Panel_on_Climate_Change": 4,
+   "Islamism": 3,
+   "Jacksonville,_Florida": 4,
+   "Normans": 3,
+   "Oxygen": 4,
+   "Packet_switching": 4,
+   "Pharmacy": 4,
+   "Prime_number": 4,
+   "Private_school": 4,
+   "Rhine": 3,
+   "Scottish_Parliament": 4,
+   "Sky_(United_Kingdom)": 3,
+   "Southern_California": 4,
+   "Steam_engine": 3,
+   "University_of_Chicago": 4,
+   "Victoria_(Australia)": 4,
+   "Warsaw": 4,
+   "Yuan_dynasty": 4
+  },
+  "contexts_distinct": 120,
+  "holdout_n": 24,
+  "holdout_ids": [
+   "squad2-5706155352bb891400689894",
+   "squad2-570d418dfed7b91900d45dbf",
+   "squad2-5725f6e138643c19005acf19",
+   "squad2-5726472bdd62a815002e8043",
+   "squad2-57281edd3acd2414000df4ef",
+   "squad2-5728fd206aef05140015494e",
+   "squad2-572951f16aef051400154cce",
+   "squad2-5729f0db6aef05140015512a",
+   "squad2-5729fd111d046914007796a5",
+   "squad2-572a0a391d046914007796e3",
+   "squad2-573399b54776f41900660e65",
+   "squad2-57377083c3c5551400e51ee1",
+   "squad2-5a1c8aedb4fb5d00187146a3",
+   "squad2-5a2c07d5bfd06b001a5ae981",
+   "squad2-5a38b468a4b263001a8c18b3",
+   "squad2-5a55106f134fea001a0e18b2",
+   "squad2-5a59002d3e1742001a15cf38",
+   "squad2-5a6cee244eec6b001a80a6ec",
+   "squad2-5a8942233b2508001a72a569",
+   "squad2-5acf99b577cf76001a6853f0",
+   "squad2-5acfed9477cf76001a686540",
+   "squad2-5ad15d77645df0001a2d18c0",
+   "squad2-5ad404d4604f3c001a3ffdea",
+   "squad2-5ad4cc135b96ef001a10a0f6"
+  ],
+  "checks": {
+   "offset_ok": 255
+  },
+  "tokens_counted": true,
+  "items_sha256": "2496506cae73345332ebb1db6b0e53f11dc65da242526d614e8c12a46b3628dc"
+ }
+}

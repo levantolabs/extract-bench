@@ -1,0 +1,243 @@
+UNITED STATES
+Document Number: XBUIKOOATN
+Fiscal Invoice
+Client Number: 616180842
+Issue Date: 12-03-1986
+POSTAL SERVICE
+Page: 71 of 83
+Sender / Reference
+Dispatch Station / Receiving Station / Type of Service /
+Number of
+Shipment Number
+Date
+Number
+Sender
+Recipient
+Charge
+Weight in Kg
+Shipments
+Base Charge
+Description of Additional Charges
+Additional Charges
+VAT/ Code
+Gross Value
+6366662158
+07-02-1950
+DOMESTIC
+34.5
+6
+190.56
+DANGEROUS GOODS HANDLING FEE 9.38
+4.15
+35.57
+PRIORITY
+WILDERMAN
+FRIESEN GROUP
+HOPPE
+58031 Bath Street
+62768 Dach
+Extension
+SOUTH
+PORT SUSIE,
+AMELYWORTH,
+75213-6114
+21318-6386
+9194796630
+06-08-1969
+ECONOMY
+50
+8
+162.44
+MISSED DELIVERY FEE
+6.62
+2.93
+46.03
+SELECT
+STANTON AND
+MONAHAN INC
+SONS
+1047 Railroad Avenue 2695 Buck Harbors
+DUBUQUETON,
+NEW COLT, 84147-
+54432
+0811
+0427759810
+12-07-1974
+ECONOMY
+25.4
+1
+175.23
+URBAN CONGESTION CHARGE
+7.09
+4.23
+45.88
+SELECT
+ORTIZ-HEANEY KOELPIN AND
+HANDLING CHARGE
+6.86
+3.16
+26.08
+SONS
+3436 Towne Centers 212 Doyle Causeway
+FRAGILE ITEM FEE
+5.4
+4.73
+48.1
+HALVILLE, 15128 CRISTFURT. 66159
+71/83
+UNITED
+STATES
+Document
+Number:
+XBUIKOOATN
+Fiscal
+Invoice
+Client
+Number:
+616180842
+Issue
+Date:
+12-03-1986
+POSTAL
+SERVICE
+Page:
+71
+of
+83
+Sender
+/
+Reference
+Dispatch
+Station
+/
+Receiving
+Station
+/
+Type
+of
+Service
+/
+Number
+of
+Shipment
+Number
+Date
+Number
+Sender
+Recipient
+Charge
+Weight
+in
+Kg
+Shipments
+Base
+Charge
+Description
+of
+Additional
+Charges
+Additional
+Charges
+VAT/
+Code
+Gross
+Value
+6366662158
+07-02-1950
+DOMESTIC
+34.5
+6
+190.56
+DANGEROUS
+GOODS
+HANDLING
+FEE
+9.38
+4.15
+35.57
+PRIORITY
+WILDERMAN
+FRIESEN
+GROUP
+HOPPE
+58031
+Bath
+Street
+62768
+Dach
+Extension
+SOUTH
+PORT
+SUSIE,
+AMELYWORTH,
+75213-6114
+21318-6386
+9194796630
+06-08-1969
+ECONOMY
+50
+8
+162.44
+MISSED
+DELIVERY
+FEE
+6.62
+2.93
+46.03
+SELECT
+STANTON
+AND
+MONAHAN
+INC
+SONS
+1047
+Railroad
+Avenue
+2695
+Buck
+Harbors
+DUBUQUETON,
+NEW
+COLT,
+84147-
+54432
+0811
+0427759810
+12-07-1974
+ECONOMY
+25.4
+1
+175.23
+URBAN
+CONGESTION
+CHARGE
+7.09
+4.23
+45.88
+SELECT
+ORTIZ-HEANEY
+KOELPIN
+AND
+HANDLING
+CHARGE
+6.86
+3.16
+26.08
+SONS
+3436
+Towne
+Centers
+212
+Doyle
+Causeway
+FRAGILE
+ITEM
+FEE
+5.4
+4.73
+48.1
+HALVILLE,
+15128
+CRISTFURT.
+66159
+71/83

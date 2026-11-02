@@ -1,0 +1,1 @@
+{"id": "realdoc-mortgage_q204", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 1361.1, "per_image": [{"file": "mortgage_93.pdf", "page": "p-1.png", "psm_used": 3, "chars": 667, "ms": 906.5}], "ts": "2026-10-23T07:25:30+0800"}

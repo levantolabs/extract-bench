@@ -1,0 +1,44 @@
+INVOICE
+
+Buyer :Mario Walker
+
+7384 Natasha Valleys Apt. 329
+Vincentburgh, IL 15161 US
+
+Address:19021 Christopher Estate Tel:+(629)851-8794
+
+South Williammouth, NH 22397 US
+
+Date: 17-Jun-1999 Due Date : 18-Apr-2004
+De ptio @) Dit D
+Lot head. 4.00 $71.22
+Defense and lawyer. 1.00 $75.29
+Guess account government. 4.00 $61.30
+Give positive where. 1.00 $75.89
+They commercial race. 4.00 $84.50
+
+SUB_TOTAL : 1019.26 $
+TAX:VAT (4.52%): 46.10 $
+
+Email:bjones@example.net
+Site:https://oconnell.com/
+
+INVOICE # INV/26-54/622
+
+Amo
+
+$284.88
+$75.29
+$245.20
+$75.89
+$338.00
+
+DISCOUNT(1.8%): (-) 18.35
+
+Note:Total payment due in 14 days.
+
+Terms & Conditions
+
+1. Please send payment within 8 days of receiving this invoice.
+There will be a 2.5% interest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes.

@@ -1,0 +1,1 @@
+{"id": "fatura-T12-I40", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 701.5, "per_image": [{"file": "Template12_Instance40.jpg", "page": "Template12_Instance40.jpg", "psm_used": 3, "chars": 1035, "ms": 678.2}], "ts": "2026-10-23T07:22:57+0800"}

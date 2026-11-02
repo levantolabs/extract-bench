@@ -1,0 +1,39 @@
+INVOICE
+
+INVOICE # 3Y4M9d-047
+Invoice Date: 31-Oct-2005
+Due Date : 26-Oct-2001
+
+Bill to:Brandon Williams
+
+Richardson-Davis 852 Hannah Mountain
+Address:6479 Smith Causeway Lisaton, ME 99879 US
+East Camerontown, AS 38212 US Tel:+(994)091-0992
+
+Email:calvini6@example.org
+Site:http://www.henderson.info/
+
+Description | Unit price
+
+Campaign discuss range. | 94.46
+
+70.19
+
+12.00 | 416005 Protect guess condition. 128.56
+
+Bank Name Central Bank of Texas SUB_TOTAL : 857.35 $
+Branch Name Raf CAMP DISCOUNT(3.62%): (-) 31.04
+Bank Account Number 13454385 r S
+
+Bank Swift Code  SBININBB250 TRNAT ESTA SISES
+
+TOTAL : 866.74 $
+
+Note:Total payment due in 14 days. Total in words: eight hundred and sixt-
+y-six point seven four
+
+Terms & Conditions
+
+1. Please send payment within 8 days of receiving this invoice.
+There will be a 2.5% interest charge per month on late invoices.
+2. Please include the Invoice number in your payment notes.

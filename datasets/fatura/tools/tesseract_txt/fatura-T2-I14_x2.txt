@@ -1,0 +1,41 @@
+VW
+
+4
+
+Barnes, Garcia and Martin
+
+Address:13868 Michael Wall
+North Cindytown, CT 45483 US
+
+GSTIN: 3312345678910221
+
+Bill to:John Miller
+
+601 Porter Corner
+Carolineton, PA 05568 US
+Tel:+(436)287-6679
+Email:anna25@example.org
+Site:https://www.bryant.com/
+
+Description
+Serve enter.
+Detail recognize.
+
+QUANTITY
+3.00
+2.00
+
+COMMERCIAL INVOICE
+
+Invoice number INV/50-12/402
+Date: 29-Jun-2008
+
+| PRICE
+$35.60
+| $85.20
+
+SUB_TOTAL : 277.20 $
+
+GST(7%) : 19.40
+
+TOTAL : 282.68 $

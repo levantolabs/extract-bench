@@ -1,0 +1,138 @@
+{
+ "vendored_defs_verbatim": 30,
+ "upstream_asserts_passed": 30,
+ "n_items": 200,
+ "n_lines": 200,
+ "n_fields_scored": 573,
+ "n_fields_total_incl_excluded": 589,
+ "n_excluded": {
+  "boolean": 16
+ },
+ "n_null_gold": 39,
+ "fields_by_type": {
+  "text": 424,
+  "number": 134,
+  "date": 15
+ },
+ "fields_by_hint": {
+  "string": 307,
+  "number": 89,
+  "enum": 117,
+  "date string YYYY-MM-DD": 15,
+  "integer": 45
+ },
+ "enum_state_fields": 48,
+ "integer_flag_fields": 45,
+ "fuzzy_fields": 307,
+ "sanitized_names": 191,
+ "by_domain": {
+  "finance": 51,
+  "medical_healthcare": 23,
+  "mortgage": 74,
+  "supply_chain": 52
+ },
+ "null_by_domain": {
+  "mortgage": 19,
+  "supply_chain": 20
+ },
+ "holdout": 40,
+ "unique_docs": 180,
+ "page_counts": {
+  "1": 200
+ },
+ "questions_per_doc_max": 3,
+ "ai_status": {
+  "ai_generated_edit": 93,
+  "collected_real_document": 66,
+  "unknown": 41
+ },
+ "capabilities_top": [
+  [
+   "field_value_pairing",
+   74
+  ],
+  [
+   "checkbox_state",
+   53
+  ],
+  [
+   "column_alignment",
+   52
+  ],
+  [
+   "table_structure",
+   47
+  ],
+  [
+   "row_binding",
+   43
+  ],
+  [
+   "form_region",
+   30
+  ],
+  [
+   "scanned_form",
+   28
+  ],
+  [
+   "parallel_columns",
+   28
+  ],
+  [
+   "multi_column_grid",
+   26
+  ],
+  [
+   "line_binding",
+   24
+  ],
+  [
+   "blank_field",
+   20
+  ],
+  [
+   "repeated_labels",
+   13
+  ]
+ ],
+ "fields_per_item": {
+  "1": 63,
+  "3": 26,
+  "4": 36,
+  "2": 41,
+  "5": 9,
+  "6": 19,
+  "8": 5,
+  "7": 1
+ },
+ "docs_with_text_layer": "53/180",
+ "image_bytes_p50_p95_max": [
+  746441,
+  2691404,
+  3725411
+ ],
+ "image_formats": {
+  "png": 197,
+  "jpeg": 3
+ },
+ "tokens_text_field": {
+  "p50": 0,
+  "p95": 0,
+  "note": "text is null on every item"
+ },
+ "tokens_field_instructions_per_item": {
+  "p50": 172,
+  "p95": 827,
+  "max": 2034
+ },
+ "tokens_pdf_text_layer": {
+  "n": 60,
+  "p50": 418,
+  "p95": 1249,
+  "max": 1807
+ },
+ "gold_reachable_text_layer": "80/116",
+ "rapidfuzz_version": "3.14.6",
+ "tiktoken_version": "0.12.0"
+}

@@ -1,0 +1,1 @@
+{"id": "fatura-T10-I65", "engine": "tesseract", "engine_tag": "tesseract-eng-psm3-fb6", "version": "tesseract 5.5.0", "args": {"psm": 3, "lang": "eng", "oem": 1, "fallback_psm": 6}, "ms": 432.2, "per_image": [{"file": "Template10_Instance65.jpg", "page": "Template10_Instance65.jpg", "psm_used": 3, "chars": 596, "ms": 402.3}], "ts": "2026-10-23T07:23:00+0800"}
